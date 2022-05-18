@@ -1,0 +1,30 @@
+# Adapted from https://sung.codes/blog/2019/12/25/building-gatsby-with-git-hub-actions-and-deploying-to-netlify/
+name: Remake data and deploy on a schedule
+
+on:
+  push
+  # # trigger at 4:30PM CT (9:30PM UTC) every day
+  # schedule:
+  #   - cron: '30 21 * * *'
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+      - run: make all
+      - run: yarn run build
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/data/*
+          git commit -m "Update data with Github Action"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.ACCESS_TOKEN }}
