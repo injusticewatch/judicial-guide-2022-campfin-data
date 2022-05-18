@@ -9,7 +9,8 @@ on:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     steps:
       - uses: actions/checkout@v3
@@ -17,12 +18,11 @@ jobs:
         with:
           python-version: "3.x"
       - run: make all
-      - run: yarn run build
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/*
+          git add data/*
           git commit -m "Update data with Github Action"
       - name: Push changes
         uses: ad-m/github-push-action@master
