@@ -1,8 +1,8 @@
-all: data/final/campfin.json copy
+all: clean data/final/campfin.json copy
 
 .PHONY:
 clean:
-	rm -f data/intermediate/* data/final/* 
+	rm -f data/intermediate/* data/final/*
   # data/raw/*
 
 # wait to copy as a final step in case something breaks
