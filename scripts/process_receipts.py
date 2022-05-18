@@ -6,13 +6,12 @@ from dateutil.parser import parse
 
 csv.field_size_limit(sys.maxsize)
 
+TOP_DONOR_COUNT = 5
 START_DATE = parse('2020-01-01')
 COMMITTEES = [
   '37023',
   '36898',
 ]
-
-TOP_DONOR_COUNT = 5
 
 if __name__ == '__main__':
   input_file = sys.argv[1] # 'data/raw/receipts.txt'
@@ -65,6 +64,7 @@ if __name__ == '__main__':
     committeeList = list(acc.values())
     for committee in committeeList:
       committee['topDonors'].sort(key=operator.itemgetter('aggregateAmount'), reverse=True)
+      committee['topDonors'] = committee['topDonors'][:TOP_DONOR_COUNT]
 
     print(json.dumps(
       committeeList
