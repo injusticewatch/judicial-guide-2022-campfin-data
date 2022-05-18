@@ -3,7 +3,7 @@ all: clean data/final/campfin.json copy
 .PHONY:
 clean:
 	rm -f data/intermediate/* data/final/*
-data/raw/*
+# data/raw/*
 
 # wait to copy as a final step in case something breaks
 .PHONY:
