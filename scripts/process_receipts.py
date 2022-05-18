@@ -62,7 +62,7 @@ if __name__ == '__main__':
             "employer": row['Employer'],
             "aggregateAmount": float(row['Amount']),
           })
-          
+
       # TODO: order and slice to top 5 top donors
 
         acc[committee_id]['totalDonations'] += float(row['Amount'])
