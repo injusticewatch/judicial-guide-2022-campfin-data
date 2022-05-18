@@ -1,0 +1,40 @@
+﻿[
+  {
+    "committee": 37023,
+    "name": "Russ Hartigan for Judge",
+    "candidate": 29146,
+    "totalDonations": 25000,
+    "topDonors": [
+      {
+        "id": 1,
+        "committee": 37023,
+        "amount": 10.99,
+        "donor": "TKTKTKTK"
+      },
+      {
+        "id": 2,
+        "committee": 37023,
+        "amount": 22.33,
+        "donor": "TKTKTKTKTKTKT"
+      },
+      {
+        "id": 3,
+        "committee": 37023,
+        "amount": 99.99,
+        "donor": "ldskfj"
+      },
+      {
+        "id": 4,
+        "committee": 37023,
+        "amount": 1.11,
+        "donor": "x"
+      },
+      {
+        "id": 5,
+        "committee": 37023,
+        "amount": 2.11,
+        "donor": "y"
+      }
+    ]
+  }
+]
