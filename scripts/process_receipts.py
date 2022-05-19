@@ -100,9 +100,9 @@ if __name__ == '__main__':
     # consider trimming earlier dates at front of txt file
     for row in reader:
       committee_id = row['CommitteeID']
-      print("raw date", row['RcvDate'])
+      # print("raw date", row['RcvDate'])
       receipt_date = parse(row['RcvDate'])
-      print("parsed date", receipt_date)
+      # print("parsed date", receipt_date)
 
       if row['RcvDate'] and (parse(row['RcvDate']) >= START_DATE) and (committee_id in COMMITTEES):
         # tally total donations across contributors
