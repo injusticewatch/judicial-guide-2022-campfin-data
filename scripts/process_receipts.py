@@ -90,7 +90,6 @@ if __name__ == '__main__':
     acc[committee] = {
       "committee": committee,
       "totalDonations": 0,
-      "donations": [],
       "topDonors": [],
     }
 
@@ -129,6 +128,7 @@ if __name__ == '__main__':
             "zipCode": zipCode,
           })
 
+    # sort by aggregate donation and slice to top donors
     committeeList = list(acc.values())
     for committee in committeeList:
       committee['topDonors'].sort(key=operator.itemgetter('aggregateAmount'), reverse=True)
