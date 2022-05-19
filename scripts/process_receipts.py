@@ -83,7 +83,7 @@ COMMITTEES = [
 ]
 
 if __name__ == '__main__':
-  input_file = sys.argv[1] # 'data/raw/receipts.txt'
+  input_file = sys.argv[1] # 'data/raw/receipts-trimmed.txt'
 
   acc = {}
   for committee in COMMITTEES:
