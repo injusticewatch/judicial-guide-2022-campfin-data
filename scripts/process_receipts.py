@@ -89,7 +89,8 @@ if __name__ == '__main__':
   for committee in COMMITTEES:
     acc[committee] = {
       "committee": committee,
-      "totalDonations": 0,
+      "totalContributions": 0,
+      "contributions": [],
       "topDonors": [],
     }
 
@@ -99,17 +100,26 @@ if __name__ == '__main__':
     # consider trimming earlier dates at front of txt file
     for row in reader:
       committee_id = row['CommitteeID']
-      # print("raw date", row['RcvDate'])
       receipt_date = parse(row['RcvDate'])
-      # print("parsed date", receipt_date)
 
-      if row['RcvDate'] and (parse(row['RcvDate']) >= START_DATE) and (committee_id in COMMITTEES):
-        # tally total donations across contributors
-        acc[committee_id]['totalDonations'] += float(row['Amount'])
+      if row['RcvDate'] and (row['Archived'] != "True") and (parse(row['RcvDate']) >= START_DATE) and (committee_id in COMMITTEES):
+        # tally total contributions across contributors
+        acc[committee_id]['totalContributions'] += float(row['Amount'])
 
         firstName = row['FirstName'].strip()
         lastName = row['LastOnlyName'].strip()
         zipCode = row['Zip'].strip()
+
+        acc[committee_id]['contributions'].append({
+          "firstName": firstName,
+          "lastName": lastName,
+          "date": row['RcvDate'],
+          "amount": float(row['Amount']),
+          "occupation": row['Occupation'],
+          "employer": row['Employer'],
+          "zipCode": zipCode,
+          # "fullRow": row,
+        })
 
         # see if donor is already in topDonors
         # if they are, add to aggregate total
@@ -134,6 +144,10 @@ if __name__ == '__main__':
       committee['topDonors'].sort(key=operator.itemgetter('aggregateAmount'), reverse=True)
       committee['topDonors'] = committee['topDonors'][:TOP_DONOR_COUNT]
 
+      # also sort individual donations by date
+      committee['contributions'].sort(key=operator.itemgetter('date'), reverse=True)
+
     print(json.dumps(
-      committeeList
+      committeeList,
+      indent=4
     ))
