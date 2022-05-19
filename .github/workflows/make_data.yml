@@ -5,7 +5,7 @@ on:
   # push
   # trigger at 9PM CT (2AM UTC) every day
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '5 2 * * *'
 
 jobs:
   build:
