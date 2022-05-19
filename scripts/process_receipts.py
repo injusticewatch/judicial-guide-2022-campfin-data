@@ -6,8 +6,8 @@ from dateutil.parser import parse
 
 csv.field_size_limit(sys.maxsize)
 
-TOP_DONOR_COUNT = 5
-START_DATE = parse('2020-01-01')
+TOP_DONOR_COUNT = 10
+START_DATE = parse('2021-01-01')
 COMMITTEES = [
   '37023',
   '36898',
