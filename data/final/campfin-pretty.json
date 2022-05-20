@@ -11339,8 +11339,17 @@
     },
     {
         "committee": "32876",
-        "totalContributions": 52130.0,
+        "totalContributions": 53130.0,
         "contributions": [
+            {
+                "firstName": "Karen",
+                "lastName": "Mondry",
+                "date": "2022-05-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "lawyer",
+                "employer": "Mondry & Mondry",
+                "zipCode": "60153-2417"
+            },
             {
                 "firstName": "Brian",
                 "lastName": "Barrido",
@@ -11394,6 +11403,14 @@
                 "employer": "",
                 "aggregateAmount": 10000.0,
                 "zipCode": "60563"
+            },
+            {
+                "firstName": "Karen",
+                "lastName": "Mondry",
+                "occupation": "lawyer",
+                "employer": "Mondry & Mondry",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60153-2417"
             }
         ]
     },
@@ -18847,8 +18864,17 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 135014.69000000006,
+        "totalContributions": 137038.69000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-05-11 00:00:00",
+                "amount": 2024.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
             {
                 "firstName": "",
                 "lastName": "Teamsters Volunteers in Politics",
@@ -21169,7 +21195,7 @@
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 33514.87,
+                "aggregateAmount": 35538.87,
                 "zipCode": "60464"
             },
             {
