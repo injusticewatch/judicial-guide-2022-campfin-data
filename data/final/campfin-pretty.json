@@ -14095,8 +14095,35 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 19618.75,
+        "totalContributions": 23618.75,
         "contributions": [
+            {
+                "firstName": "Pamela",
+                "lastName": "Reeves-Harris",
+                "date": "2022-05-22 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Cook County Judge",
+                "employer": "State of Illinois",
+                "zipCode": "60612"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Smith",
+                "date": "2022-05-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "Bank of America",
+                "zipCode": "90016"
+            },
+            {
+                "firstName": "Marcus",
+                "lastName": "Thomas",
+                "date": "2022-05-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60644"
+            },
             {
                 "firstName": "Rosalyn",
                 "lastName": "Turner",
@@ -14342,6 +14369,14 @@
                 "zipCode": "60305"
             },
             {
+                "firstName": "Pamela",
+                "lastName": "Reeves-Harris",
+                "occupation": "Cook County Judge",
+                "employer": "State of Illinois",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60612"
+            },
+            {
                 "firstName": "Paul J.",
                 "lastName": "Adams",
                 "occupation": "President",
@@ -14364,14 +14399,6 @@
                 "employer": "",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60585"
-            },
-            {
-                "firstName": "Fred",
-                "lastName": "Acosta",
-                "occupation": "Attorney",
-                "employer": "Fred Acosta and Associates",
-                "aggregateAmount": 750.0,
-                "zipCode": "60153"
             }
         ]
     },
