@@ -5849,8 +5849,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 172700.0,
+        "totalContributions": 173700.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "JSF Management LLC",
+                "date": "2022-05-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60564"
+            },
             {
                 "firstName": "Semir",
                 "lastName": "Delic",
@@ -7586,8 +7595,26 @@
     },
     {
         "committee": "31848",
-        "totalContributions": 12798.0,
+        "totalContributions": 15537.22,
         "contributions": [
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-05-23 00:00:00",
+                "amount": 1667.5,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-05-23 00:00:00",
+                "amount": 1071.72,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
             {
                 "firstName": "MICHAEL",
                 "lastName": "ROBINSON",
@@ -7675,7 +7702,7 @@
                 "lastName": "ROBINSON",
                 "occupation": "Attorney",
                 "employer": "Owens & Robinson",
-                "aggregateAmount": 2333.0,
+                "aggregateAmount": 5072.22,
                 "zipCode": "60429"
             }
         ]
@@ -14600,8 +14627,17 @@
     },
     {
         "committee": "37012",
-        "totalContributions": 82531.28,
+        "totalContributions": 84331.28,
         "contributions": [
+            {
+                "firstName": "Samuel",
+                "lastName": "Bae",
+                "date": "2022-05-23 00:00:00",
+                "amount": 1800.0,
+                "occupation": "Attorney",
+                "employer": "Law Offices of Samuel Bae",
+                "zipCode": "60018"
+            },
             {
                 "firstName": "Dan",
                 "lastName": "Miller",
@@ -14761,7 +14797,7 @@
                 "lastName": "Bae",
                 "occupation": "Attorney",
                 "employer": "Law Offices of Samuel Bae",
-                "aggregateAmount": 2525.63,
+                "aggregateAmount": 4325.63,
                 "zipCode": "60018"
             },
             {
@@ -18961,8 +18997,17 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 160876.19000000006,
+        "totalContributions": 170876.19000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Mid-America Carpenters Regional Council",
+                "date": "2022-05-20 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "James",
                 "lastName": "Gleffe",
@@ -21339,20 +21384,20 @@
                 "zipCode": "60464"
             },
             {
+                "firstName": "",
+                "lastName": "Mid-America Carpenters Regional Council",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 10000.0,
+                "zipCode": "60611"
+            },
+            {
                 "firstName": "Adam",
                 "lastName": "Vaught",
                 "occupation": "Attorney",
                 "employer": "Hinshaw & Culbertson",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60526"
-            },
-            {
-                "firstName": "",
-                "lastName": "Chicago Regional Council of Carpenters PAC",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60611"
             }
         ]
     }
