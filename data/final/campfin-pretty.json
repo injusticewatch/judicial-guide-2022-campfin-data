@@ -166,8 +166,17 @@
     },
     {
         "committee": "36898",
-        "totalContributions": 121355.04000000001,
+        "totalContributions": 124365.04000000001,
         "contributions": [
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-05-24 00:00:00",
+                "amount": 3010.0,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
+            },
             {
                 "firstName": "",
                 "lastName": "KNI Inc.",
@@ -886,7 +895,7 @@
                 "lastName": "Ross",
                 "occupation": "Circuit Court Judge - Cook County",
                 "employer": "State of Ilinois",
-                "aggregateAmount": 89155.0,
+                "aggregateAmount": 92165.0,
                 "zipCode": "60649"
             },
             {
@@ -4302,8 +4311,26 @@
     },
     {
         "committee": "37329",
-        "totalContributions": 70919.51000000001,
+        "totalContributions": 75919.51000000001,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "Seibert",
+                "date": "2022-05-23 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Plumber",
+                "employer": "Self-employed",
+                "zipCode": "60044"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Hynes",
+                "date": "2022-05-22 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "",
+                "zipCode": "60714"
+            },
             {
                 "firstName": "",
                 "lastName": "Courtesy Electric Inc.",
@@ -4711,8 +4738,17 @@
     },
     {
         "committee": "36823",
-        "totalContributions": 93900.0,
+        "totalContributions": 102900.0,
         "contributions": [
+            {
+                "firstName": "Jose",
+                "lastName": "Magana",
+                "date": "2022-05-22 00:00:00",
+                "amount": 9000.0,
+                "occupation": "Director - Information Technology",
+                "employer": "Urban Prep Academies",
+                "zipCode": "60647"
+            },
             {
                 "firstName": "Jose",
                 "lastName": "Magana",
@@ -5341,7 +5377,7 @@
                 "lastName": "Magana",
                 "occupation": "Director - Information Technology",
                 "employer": "Urban Prep Academies",
-                "aggregateAmount": 11000.0,
+                "aggregateAmount": 20000.0,
                 "zipCode": "60647"
             },
             {
@@ -7847,8 +7883,17 @@
     },
     {
         "committee": "35610",
-        "totalContributions": 10000.0,
+        "totalContributions": 16000.0,
         "contributions": [
+            {
+                "firstName": "Sean",
+                "lastName": "Bruen",
+                "date": "2022-05-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Accountant",
+                "employer": "CPA",
+                "zipCode": "60609"
+            },
             {
                 "firstName": "Patricia",
                 "lastName": "Busking",
@@ -7860,6 +7905,15 @@
             },
             {
                 "firstName": "Joseph",
+                "lastName": "Busking",
+                "date": "2022-05-01 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60463"
+            },
+            {
+                "firstName": "Patricia",
                 "lastName": "Busking",
                 "date": "2022-05-01 00:00:00",
                 "amount": 5000.0,
@@ -7874,7 +7928,7 @@
                 "lastName": "Busking",
                 "occupation": "Retired",
                 "employer": "Retired",
-                "aggregateAmount": 5000.0,
+                "aggregateAmount": 10000.0,
                 "zipCode": "60463"
             },
             {
@@ -7884,6 +7938,14 @@
                 "employer": "Retired",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60463"
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Bruen",
+                "occupation": "Accountant",
+                "employer": "CPA",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60609"
             }
         ]
     },
@@ -9248,8 +9310,17 @@
     },
     {
         "committee": "36890",
-        "totalContributions": 59199.43,
+        "totalContributions": 60299.43,
         "contributions": [
+            {
+                "firstName": "Meridth",
+                "lastName": "Hammer",
+                "date": "2022-05-24 00:00:00",
+                "amount": 1100.0,
+                "occupation": "The Hammer Legal Group",
+                "employer": "Owner",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Meridth",
                 "lastName": "Hammer",
@@ -9977,7 +10048,7 @@
                 "lastName": "Hammer",
                 "occupation": "The Hammer Legal Group",
                 "employer": "Owner",
-                "aggregateAmount": 53566.43,
+                "aggregateAmount": 54666.43,
                 "zipCode": "60617"
             },
             {
@@ -12383,8 +12454,26 @@
     },
     {
         "committee": "34313",
-        "totalContributions": 53678.0,
+        "totalContributions": 56428.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "The Law Office of Andrea Bonds",
+                "date": "2022-05-20 00:00:00",
+                "amount": 1250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60653"
+            },
+            {
+                "firstName": "Stephanie",
+                "lastName": "Kelly",
+                "date": "2022-05-20 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Lawyer",
+                "employer": "Cresco Labs LLC",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "David",
                 "lastName": "Kelly",
@@ -13090,19 +13179,19 @@
         ],
         "topDonors": [
             {
+                "firstName": "Stephanie",
+                "lastName": "Kelly",
+                "occupation": "Lawyer",
+                "employer": "Harley-Davidson Motor Company",
+                "aggregateAmount": 9260.0,
+                "zipCode": "60615"
+            },
+            {
                 "firstName": "David",
                 "lastName": "Kelly",
                 "occupation": "Judge",
                 "employer": "Circuit Court of Cook County",
                 "aggregateAmount": 7893.0,
-                "zipCode": "60615"
-            },
-            {
-                "firstName": "Stephanie",
-                "lastName": "Kelly",
-                "occupation": "Lawyer",
-                "employer": "Harley-Davidson Motor Company",
-                "aggregateAmount": 7760.0,
                 "zipCode": "60615"
             },
             {
@@ -13857,9 +13946,28 @@
     },
     {
         "committee": "37447",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 30000.0,
+        "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Fifth Third Bank",
+                "date": "2022-05-21 00:00:00",
+                "amount": 30000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60620"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "",
+                "lastName": "Fifth Third Bank",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 30000.0,
+                "zipCode": "60620"
+            }
+        ]
     },
     {
         "committee": "37236",
@@ -14828,8 +14936,17 @@
     },
     {
         "committee": "37074",
-        "totalContributions": 500000.0,
+        "totalContributions": 950000.0,
         "contributions": [
+            {
+                "firstName": "Stephen A",
+                "lastName": "Swedlow",
+                "date": "2022-05-24 00:00:00",
+                "amount": 450000.0,
+                "occupation": "Attorney",
+                "employer": "Quinn Emanuel Urquhardt & Sullivan LLP",
+                "zipCode": "60657"
+            },
             {
                 "firstName": "Stephen A",
                 "lastName": "Swedlow",
@@ -14864,15 +14981,42 @@
                 "lastName": "Swedlow",
                 "occupation": "Attorney",
                 "employer": "Quinn Emanuel Urquhardt & Sullivan LLP",
-                "aggregateAmount": 500000.0,
+                "aggregateAmount": 950000.0,
                 "zipCode": "60657"
             }
         ]
     },
     {
         "committee": "36810",
-        "totalContributions": 126394.32999999999,
+        "totalContributions": 131745.96,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Salvi, Schostok & Pritchard",
+                "date": "2022-05-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60085"
+            },
+            {
+                "firstName": "",
+                "lastName": "Romanucci & Blandin Law",
+                "date": "2022-05-23 00:00:00",
+                "amount": 3351.63,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Kerry",
+                "lastName": "Peck",
+                "date": "2022-05-19 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Peck Ritchey, LLC",
+                "zipCode": "60604"
+            },
             {
                 "firstName": "Ann",
                 "lastName": "Spiotto",
@@ -16088,20 +16232,20 @@
                 "zipCode": "60068"
             },
             {
+                "firstName": "",
+                "lastName": "Romanucci & Blandin Law",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 3351.63,
+                "zipCode": "60654"
+            },
+            {
                 "firstName": "James",
                 "lastName": "Figliulo",
                 "occupation": "Attorney",
                 "employer": "Figliulo & Silversman PC",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60602"
-            },
-            {
-                "firstName": "Lucy",
-                "lastName": "Ascoli",
-                "occupation": "retired",
-                "employer": "retired",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60637"
             }
         ]
     },
@@ -16306,8 +16450,26 @@
     },
     {
         "committee": "37252",
-        "totalContributions": 20056.0,
+        "totalContributions": 22856.0,
         "contributions": [
+            {
+                "firstName": "Natasha",
+                "lastName": "Goldberg",
+                "date": "2022-05-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Social Worker",
+                "employer": "The Ark",
+                "zipCode": "60645"
+            },
+            {
+                "firstName": "Roxanne",
+                "lastName": "Goldberg",
+                "date": "2022-05-19 00:00:00",
+                "amount": 1800.0,
+                "occupation": "Sales",
+                "employer": "Self",
+                "zipCode": "60062"
+            },
             {
                 "firstName": "Carole",
                 "lastName": "Segal",
@@ -16439,8 +16601,16 @@
                 "lastName": "Goldberg",
                 "occupation": "Social Worker",
                 "employer": "The Ark",
-                "aggregateAmount": 1500.0,
+                "aggregateAmount": 2500.0,
                 "zipCode": "60645"
+            },
+            {
+                "firstName": "Roxanne",
+                "lastName": "Goldberg",
+                "occupation": "Sales",
+                "employer": "Self",
+                "aggregateAmount": 1800.0,
+                "zipCode": "60062"
             },
             {
                 "firstName": "James",
@@ -16449,14 +16619,6 @@
                 "employer": "State of Illinois",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60613"
-            },
-            {
-                "firstName": "Carole",
-                "lastName": "Segal",
-                "occupation": "Retired",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60093"
             }
         ]
     },
@@ -18997,7 +19159,7 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 170876.19000000006,
+        "totalContributions": 172876.19000000006,
         "contributions": [
             {
                 "firstName": "",
@@ -19007,6 +19169,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60611"
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Bauer",
+                "date": "2022-05-20 00:00:00",
+                "amount": 2000.0,
+                "occupation": "KBauer Consulting, Inc.",
+                "employer": "Self",
+                "zipCode": "60464"
             },
             {
                 "firstName": "James",
@@ -21380,7 +21551,7 @@
                 "lastName": "Bauer",
                 "occupation": "KBauer Consulting, Inc.",
                 "employer": "Self",
-                "aggregateAmount": 28970.559999999998,
+                "aggregateAmount": 30970.559999999998,
                 "zipCode": "60464"
             },
             {
