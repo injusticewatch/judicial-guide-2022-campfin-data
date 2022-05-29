@@ -1837,8 +1837,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 133200.0,
+        "totalContributions": 138200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-05-28 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -1954,7 +1963,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 132500.0,
+                "aggregateAmount": 137500.0,
                 "zipCode": "60611"
             },
             {
@@ -9382,8 +9391,17 @@
     },
     {
         "committee": "36890",
-        "totalContributions": 60299.43,
+        "totalContributions": 62299.43,
         "contributions": [
+            {
+                "firstName": "Meridth",
+                "lastName": "Hammer",
+                "date": "2022-05-28 00:00:00",
+                "amount": 2000.0,
+                "occupation": "The Hammer Legal Group",
+                "employer": "Owner",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Meridth",
                 "lastName": "Hammer",
@@ -10120,7 +10138,7 @@
                 "lastName": "Hammer",
                 "occupation": "The Hammer Legal Group",
                 "employer": "Owner",
-                "aggregateAmount": 54666.43,
+                "aggregateAmount": 56666.43,
                 "zipCode": "60617"
             },
             {
@@ -17807,8 +17825,17 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 102150.0,
+        "totalContributions": 103150.0,
         "contributions": [
+            {
+                "firstName": "Ankur",
+                "lastName": "Gupta",
+                "date": "2022-05-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Sidley Austin LLP",
+                "zipCode": "60026"
+            },
             {
                 "firstName": "Clare",
                 "lastName": "McMahon",
@@ -17861,6 +17888,14 @@
                 "employer": "First State Mortgage",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60010"
+            },
+            {
+                "firstName": "Ankur",
+                "lastName": "Gupta",
+                "occupation": "Lawyer",
+                "employer": "Sidley Austin LLP",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60026"
             }
         ]
     },
