@@ -8395,8 +8395,26 @@
     },
     {
         "committee": "37044",
-        "totalContributions": 129585.14000000003,
+        "totalContributions": 135585.14,
         "contributions": [
+            {
+                "firstName": "Kerry",
+                "lastName": "Peck",
+                "date": "2022-05-26 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Managing Partner - Attorney",
+                "employer": "Peck Ritchey, LLC",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sweeney Scharkey & Blanchard LLC",
+                "date": "2022-05-26 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
             {
                 "firstName": "Akram",
                 "lastName": "Zanayed",
@@ -14063,8 +14081,17 @@
     },
     {
         "committee": "37447",
-        "totalContributions": 30000.0,
+        "totalContributions": 32000.0,
         "contributions": [
+            {
+                "firstName": "Paulette",
+                "lastName": "Dukes",
+                "date": "2022-05-27 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Clinical Social worker",
+                "employer": "self",
+                "zipCode": "60652"
+            },
             {
                 "firstName": "",
                 "lastName": "Fifth Third Bank",
@@ -14083,6 +14110,14 @@
                 "employer": "",
                 "aggregateAmount": 30000.0,
                 "zipCode": "60620"
+            },
+            {
+                "firstName": "Paulette",
+                "lastName": "Dukes",
+                "occupation": "Clinical Social worker",
+                "employer": "self",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60652"
             }
         ]
     },
