@@ -4792,8 +4792,17 @@
     },
     {
         "committee": "36823",
-        "totalContributions": 102900.0,
+        "totalContributions": 105096.84,
         "contributions": [
+            {
+                "firstName": "Jose",
+                "lastName": "Magana",
+                "date": "2022-05-26 00:00:00",
+                "amount": 2196.84,
+                "occupation": "Director - Information Technology",
+                "employer": "Urban Prep Academies",
+                "zipCode": "60647"
+            },
             {
                 "firstName": "Jose",
                 "lastName": "Magana",
@@ -5431,7 +5440,7 @@
                 "lastName": "Magana",
                 "occupation": "Director - Information Technology",
                 "employer": "Urban Prep Academies",
-                "aggregateAmount": 20000.0,
+                "aggregateAmount": 22196.84,
                 "zipCode": "60647"
             },
             {
@@ -8032,8 +8041,17 @@
     },
     {
         "committee": "35457",
-        "totalContributions": 43385.0,
+        "totalContributions": 55385.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "The Leanor Group, LLC",
+                "date": "2022-05-27 00:00:00",
+                "amount": 12000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60201"
+            },
             {
                 "firstName": "Samantha",
                 "lastName": "Steele",
@@ -8360,6 +8378,14 @@
                 "zipCode": "60613"
             },
             {
+                "firstName": "",
+                "lastName": "The Leanor Group, LLC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 12000.0,
+                "zipCode": "60201"
+            },
+            {
                 "firstName": "Lirio",
                 "lastName": "Monteyro Erese",
                 "occupation": "Caregiver",
@@ -8382,21 +8408,22 @@
                 "employer": "Joe's Sports Bar",
                 "aggregateAmount": 935.0,
                 "zipCode": "60614"
-            },
-            {
-                "firstName": "",
-                "lastName": "Bellwether Culture",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 850.0,
-                "zipCode": "11201"
             }
         ]
     },
     {
         "committee": "37044",
-        "totalContributions": 135585.14,
+        "totalContributions": 150585.14,
         "contributions": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Donnelly",
+                "date": "2022-05-31 00:00:00",
+                "amount": 15000.0,
+                "occupation": "Associate Judge",
+                "employer": "Cook County",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Kerry",
                 "lastName": "Peck",
@@ -9259,7 +9286,7 @@
                 "lastName": "Donnelly",
                 "occupation": "Associate Judge",
                 "employer": "Cook County",
-                "aggregateAmount": 13115.0,
+                "aggregateAmount": 28115.0,
                 "zipCode": "60602"
             },
             {
@@ -9409,8 +9436,17 @@
     },
     {
         "committee": "36890",
-        "totalContributions": 62299.43,
+        "totalContributions": 64049.43,
         "contributions": [
+            {
+                "firstName": "Meridth",
+                "lastName": "Hammer",
+                "date": "2022-05-31 00:00:00",
+                "amount": 1750.0,
+                "occupation": "The Hammer Legal Group",
+                "employer": "Owner",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Meridth",
                 "lastName": "Hammer",
@@ -10156,7 +10192,7 @@
                 "lastName": "Hammer",
                 "occupation": "The Hammer Legal Group",
                 "employer": "Owner",
-                "aggregateAmount": 56666.43,
+                "aggregateAmount": 58416.43,
                 "zipCode": "60617"
             },
             {
