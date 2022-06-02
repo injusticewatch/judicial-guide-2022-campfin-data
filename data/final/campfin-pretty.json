@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 94270.04,
+        "totalContributions": 96570.04,
         "contributions": [
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2022-06-01 00:00:00",
+                "amount": 2300.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "",
                 "lastName": "Peck Ritchey, LLC",
@@ -127,7 +136,7 @@
                 "lastName": "Hartigan",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 87770.04,
+                "aggregateAmount": 90070.04,
                 "zipCode": "60558"
             },
             {
@@ -1992,8 +2001,17 @@
     },
     {
         "committee": "17671",
-        "totalContributions": 376909.0,
+        "totalContributions": 377909.0,
         "contributions": [
+            {
+                "firstName": "Rathin",
+                "lastName": "Datta",
+                "date": "2022-05-31 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Engineer",
+                "employer": "Vertec",
+                "zipCode": "60657"
+            },
             {
                 "firstName": "John H.",
                 "lastName": "Ehrlich",
@@ -4792,8 +4810,26 @@
     },
     {
         "committee": "36823",
-        "totalContributions": 105096.84,
+        "totalContributions": 107096.84,
         "contributions": [
+            {
+                "firstName": "Lourdes",
+                "lastName": "Monteagudo",
+                "date": "2022-06-01 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Lourdes Monteagudo Esq",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Federation of Labor & Industrial Union Council PAC",
+                "date": "2022-06-01 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Jose",
                 "lastName": "Magana",
@@ -5452,6 +5488,14 @@
                 "zipCode": "60647"
             },
             {
+                "firstName": "Lourdes",
+                "lastName": "Monteagudo",
+                "occupation": "Attorney",
+                "employer": "Lourdes Monteagudo Esq",
+                "aggregateAmount": 7000.0,
+                "zipCode": "60618"
+            },
+            {
                 "firstName": "Patricia",
                 "lastName": "Lopez",
                 "occupation": "Tax Senior Group Manager",
@@ -5466,14 +5510,6 @@
                 "employer": "",
                 "aggregateAmount": 6000.0,
                 "zipCode": "60602"
-            },
-            {
-                "firstName": "Lourdes",
-                "lastName": "Monteagudo",
-                "occupation": "Attorney",
-                "employer": "Lourdes Monteagudo Esq",
-                "aggregateAmount": 6000.0,
-                "zipCode": "60618"
             }
         ]
     },
@@ -7835,8 +7871,17 @@
     },
     {
         "committee": "37089",
-        "totalContributions": 82300.0,
+        "totalContributions": 112300.0,
         "contributions": [
+            {
+                "firstName": "Araceli",
+                "lastName": "De La Cruz",
+                "date": "2022-06-01 00:00:00",
+                "amount": 30000.0,
+                "occupation": "Cook County Circuit Court Judge",
+                "employer": "State of Illinois",
+                "zipCode": "60625"
+            },
             {
                 "firstName": "David",
                 "lastName": "Olshansky",
@@ -7934,7 +7979,7 @@
                 "lastName": "De La Cruz",
                 "occupation": "Gen.Counsel/Chief Administrative Officer",
                 "employer": "Acero Schools Inc",
-                "aggregateAmount": 56050.0,
+                "aggregateAmount": 86050.0,
                 "zipCode": "60625"
             },
             {
@@ -11536,8 +11581,17 @@
     },
     {
         "committee": "34284",
-        "totalContributions": 24610.0,
+        "totalContributions": 30610.0,
         "contributions": [
+            {
+                "firstName": "Philip",
+                "lastName": "Nawrocki",
+                "date": "2022-06-01 00:00:00",
+                "amount": 6000.0,
+                "occupation": "Sr. Web Applications Analyst",
+                "employer": "Lurie Children's Foundation",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Philip",
                 "lastName": "Nawrocki",
@@ -11644,7 +11698,7 @@
                 "lastName": "Nawrocki",
                 "occupation": "Sr. Web Applications Analyst",
                 "employer": "Lurie Children's Foundation",
-                "aggregateAmount": 24610.0,
+                "aggregateAmount": 30610.0,
                 "zipCode": "60558"
             }
         ]
@@ -12607,8 +12661,17 @@
     },
     {
         "committee": "34313",
-        "totalContributions": 56428.0,
+        "totalContributions": 66428.0,
         "contributions": [
+            {
+                "firstName": "David",
+                "lastName": "Kelly",
+                "date": "2022-06-01 00:00:00",
+                "amount": 10000.0,
+                "occupation": "Judge",
+                "employer": "Circuit Court of Cook County",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "",
                 "lastName": "The Law Office of Andrea Bonds",
@@ -13332,19 +13395,19 @@
         ],
         "topDonors": [
             {
+                "firstName": "David",
+                "lastName": "Kelly",
+                "occupation": "Judge",
+                "employer": "Circuit Court of Cook County",
+                "aggregateAmount": 17893.0,
+                "zipCode": "60615"
+            },
+            {
                 "firstName": "Stephanie",
                 "lastName": "Kelly",
                 "occupation": "Lawyer",
                 "employer": "Harley-Davidson Motor Company",
                 "aggregateAmount": 9260.0,
-                "zipCode": "60615"
-            },
-            {
-                "firstName": "David",
-                "lastName": "Kelly",
-                "occupation": "Judge",
-                "employer": "Circuit Court of Cook County",
-                "aggregateAmount": 7893.0,
                 "zipCode": "60615"
             },
             {
@@ -16701,8 +16764,26 @@
     },
     {
         "committee": "37252",
-        "totalContributions": 22856.0,
+        "totalContributions": 25856.0,
         "contributions": [
+            {
+                "firstName": "Larry",
+                "lastName": "Dakof",
+                "date": "2022-05-31 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Chief Compliance Officer",
+                "employer": "AUAF",
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Floyd",
+                "lastName": "Perkins",
+                "date": "2022-05-31 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Nixon Peabody",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Natasha",
                 "lastName": "Goldberg",
@@ -16856,20 +16937,20 @@
                 "zipCode": "60645"
             },
             {
+                "firstName": "Floyd",
+                "lastName": "Perkins",
+                "occupation": "Attorney",
+                "employer": "Nixon Peabody",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Roxanne",
                 "lastName": "Goldberg",
                 "occupation": "Sales",
                 "employer": "Self",
                 "aggregateAmount": 1800.0,
                 "zipCode": "60062"
-            },
-            {
-                "firstName": "James",
-                "lastName": "Shapiro",
-                "occupation": "Judge",
-                "employer": "State of Illinois",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60613"
             }
         ]
     },
@@ -19480,8 +19561,53 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 177692.04000000007,
+        "totalContributions": 187192.04000000007,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-05-30 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-05-30 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-05-30 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "Palos Township Democratic Organization",
+                "date": "2022-05-25 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60457"
+            },
+            {
+                "firstName": "",
+                "lastName": "Friends of Monica Somerville for Judge",
+                "date": "2022-05-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60690"
+            },
             {
                 "firstName": "",
                 "lastName": "Mid-America Carpenters Regional Council",
@@ -21874,7 +22000,7 @@
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 41522.22,
+                "aggregateAmount": 45522.22,
                 "zipCode": "60464"
             },
             {
@@ -21882,7 +22008,7 @@
                 "lastName": "Gleffe",
                 "occupation": "Attorney",
                 "employer": "Cook County",
-                "aggregateAmount": 38415.76,
+                "aggregateAmount": 39915.76,
                 "zipCode": "60464"
             },
             {
@@ -21902,12 +22028,12 @@
                 "zipCode": "60611"
             },
             {
-                "firstName": "Adam",
-                "lastName": "Vaught",
-                "occupation": "Attorney",
-                "employer": "Hinshaw & Culbertson",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60526"
+                "firstName": "",
+                "lastName": "Palos Township Democratic Organization",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 4000.0,
+                "zipCode": "60457"
             }
         ]
     }
