@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 96570.04,
+        "totalContributions": 108570.04,
         "contributions": [
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2022-06-02 00:00:00",
+                "amount": 12000.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Russell",
                 "lastName": "Hartigan",
@@ -136,7 +145,7 @@
                 "lastName": "Hartigan",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 90070.04,
+                "aggregateAmount": 102070.04,
                 "zipCode": "60558"
             },
             {
@@ -1846,8 +1855,35 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 143200.0,
+        "totalContributions": 155700.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-03 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Cronin",
+                "date": "2022-06-03 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Cronin & Co Ltd",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Liuna Chicago Laborers District Council Pac",
+                "date": "2022-06-03 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -1981,8 +2017,24 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 142500.0,
+                "aggregateAmount": 147500.0,
                 "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Liuna Chicago Laborers District Council Pac",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Cronin",
+                "occupation": "Attorney",
+                "employer": "Cronin & Co Ltd",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60602"
             },
             {
                 "firstName": "Dan",
@@ -6038,8 +6090,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 173700.0,
+        "totalContributions": 174700.0,
         "contributions": [
+            {
+                "firstName": "Michael",
+                "lastName": "McCutcheon",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Baker McKenzie",
+                "zipCode": "60622"
+            },
             {
                 "firstName": "",
                 "lastName": "JSF Management LLC",
@@ -7028,8 +7089,26 @@
     },
     {
         "committee": "22396",
-        "totalContributions": 131000.0,
+        "totalContributions": 172500.0,
         "contributions": [
+            {
+                "firstName": "Deidre",
+                "lastName": "Baumann",
+                "date": "2022-06-02 00:00:00",
+                "amount": 40000.0,
+                "occupation": "Owner",
+                "employer": "Law Offices of Baumann and Shuldiner",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "",
+                "lastName": "Susman & Associates PC",
+                "date": "2022-05-18 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
+            },
             {
                 "firstName": "Deidre",
                 "lastName": "Baumann",
@@ -7145,7 +7224,7 @@
                 "lastName": "Baumann",
                 "occupation": "Owner",
                 "employer": "Law Offices of Baumann and Shuldiner",
-                "aggregateAmount": 123000.0,
+                "aggregateAmount": 163000.0,
                 "zipCode": "60603"
             },
             {
@@ -7153,7 +7232,7 @@
                 "lastName": "Susman & Associates PC",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 8000.0,
+                "aggregateAmount": 9500.0,
                 "zipCode": "60605"
             }
         ]
@@ -13508,8 +13587,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 159700.0,
+        "totalContributions": 164700.0,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-06-02 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "",
                 "lastName": "Painters District Council #14 PAC",
@@ -14138,7 +14226,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 58000.0,
+                "aggregateAmount": 63000.0,
                 "zipCode": "60615"
             },
             {
@@ -14875,8 +14963,53 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 30000.0,
+        "totalContributions": 35000.0,
         "contributions": [
+            {
+                "firstName": "Dana",
+                "lastName": "Ronk",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Hospitality",
+                "employer": "Last Call Tavern Group",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cooney & Conway",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Grant",
+                "lastName": "DePorter",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Hospitality",
+                "employer": "Harry Caray Restaurant Group",
+                "zipCode": "60610"
+            },
+            {
+                "firstName": "Lee",
+                "lastName": "Golub",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Real Estate",
+                "employer": "Golub & Co.",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Citizens for Reilly",
+                "date": "2022-06-02 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60610"
+            },
             {
                 "firstName": "Joseph",
                 "lastName": "Power Jr.",
@@ -19632,7 +19765,7 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 187192.04000000007,
+        "totalContributions": 207332.44000000006,
         "contributions": [
             {
                 "firstName": "James",
@@ -19659,6 +19792,42 @@
                 "amount": 2000.0,
                 "occupation": "",
                 "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "Joyce",
+                "date": "2022-05-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "",
+                "lastName": "Palos Township Democratic Organization",
+                "date": "2022-05-27 00:00:00",
+                "amount": 4000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60457"
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Bauer",
+                "date": "2022-05-27 00:00:00",
+                "amount": 7532.0,
+                "occupation": "KBauer Consulting, Inc.",
+                "employer": "Self",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Bauer",
+                "date": "2022-05-27 00:00:00",
+                "amount": 7608.4,
+                "occupation": "KBauer Consulting, Inc.",
+                "employer": "Self",
                 "zipCode": "60464"
             },
             {
@@ -22067,6 +22236,14 @@
         ],
         "topDonors": [
             {
+                "firstName": "Kristen",
+                "lastName": "Bauer",
+                "occupation": "KBauer Consulting, Inc.",
+                "employer": "Self",
+                "aggregateAmount": 48943.46,
+                "zipCode": "60464"
+            },
+            {
                 "firstName": "",
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
@@ -22083,14 +22260,6 @@
                 "zipCode": "60464"
             },
             {
-                "firstName": "Kristen",
-                "lastName": "Bauer",
-                "occupation": "KBauer Consulting, Inc.",
-                "employer": "Self",
-                "aggregateAmount": 33803.06,
-                "zipCode": "60464"
-            },
-            {
                 "firstName": "",
                 "lastName": "Mid-America Carpenters Regional Council",
                 "occupation": "",
@@ -22103,7 +22272,7 @@
                 "lastName": "Palos Township Democratic Organization",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 4000.0,
+                "aggregateAmount": 8000.0,
                 "zipCode": "60457"
             }
         ]
