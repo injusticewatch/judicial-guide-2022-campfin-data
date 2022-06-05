@@ -184,8 +184,17 @@
     },
     {
         "committee": "36898",
-        "totalContributions": 129365.04000000001,
+        "totalContributions": 131865.04,
         "contributions": [
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-06-02 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
+            },
             {
                 "firstName": "Dominique",
                 "lastName": "Ross",
@@ -922,7 +931,7 @@
                 "lastName": "Ross",
                 "occupation": "Circuit Court Judge - Cook County",
                 "employer": "State of Ilinois",
-                "aggregateAmount": 97165.0,
+                "aggregateAmount": 99665.0,
                 "zipCode": "60649"
             },
             {
@@ -1855,8 +1864,26 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 155700.0,
+        "totalContributions": 162200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-04 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Kelly",
+                "date": "2022-06-04 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Kelly & Ignoffo PC",
+                "zipCode": "60093"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2017,7 +2044,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 147500.0,
+                "aggregateAmount": 152500.0,
                 "zipCode": "60611"
             },
             {
@@ -2037,20 +2064,20 @@
                 "zipCode": "60602"
             },
             {
+                "firstName": "John",
+                "lastName": "Kelly",
+                "occupation": "Attorney",
+                "employer": "Kelly & Ignoffo PC",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60093"
+            },
+            {
                 "firstName": "Dan",
                 "lastName": "Ingram",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 500.0,
                 "zipCode": "60630"
-            },
-            {
-                "firstName": "Alon",
-                "lastName": "Stein",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 200.0,
-                "zipCode": "60016"
             }
         ]
     },
@@ -6090,8 +6117,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 174700.0,
+        "totalContributions": 175700.0,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "O'Connor",
+                "date": "2022-06-04 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60659"
+            },
             {
                 "firstName": "Michael",
                 "lastName": "McCutcheon",
@@ -18164,8 +18200,17 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 103150.0,
+        "totalContributions": 104250.0,
         "contributions": [
+            {
+                "firstName": "Joseph",
+                "lastName": "Calcagno",
+                "date": "2022-06-04 00:00:00",
+                "amount": 1100.0,
+                "occupation": "USDA Consumer Safety Inspector",
+                "employer": "USDA",
+                "zipCode": "61822"
+            },
             {
                 "firstName": "Ankur",
                 "lastName": "Gupta",
@@ -18219,6 +18264,14 @@
                 "employer": "Hoffenberg and Block, LLC",
                 "aggregateAmount": 1150.0,
                 "zipCode": "60601"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Calcagno",
+                "occupation": "USDA Consumer Safety Inspector",
+                "employer": "USDA",
+                "aggregateAmount": 1100.0,
+                "zipCode": "61822"
             },
             {
                 "firstName": "Biagio",
