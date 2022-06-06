@@ -18344,8 +18344,26 @@
     },
     {
         "committee": "35650",
-        "totalContributions": 3500.0,
+        "totalContributions": 7500.0,
         "contributions": [
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Marcin",
+                "date": "2022-05-04 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60008"
+            },
+            {
+                "firstName": "Joe",
+                "lastName": "Gump",
+                "date": "2022-04-21 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Retired Public Defender",
+                "employer": "Retired - Cook County",
+                "zipCode": "60010"
+            },
             {
                 "firstName": "Joe",
                 "lastName": "Gump",
@@ -18371,8 +18389,16 @@
                 "lastName": "Gump",
                 "occupation": "Retired Public Defender",
                 "employer": "Retired - Cook County",
-                "aggregateAmount": 3500.0,
+                "aggregateAmount": 6500.0,
                 "zipCode": "60010"
+            },
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Marcin",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60008"
             }
         ]
     },
