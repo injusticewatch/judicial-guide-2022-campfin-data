@@ -1864,8 +1864,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 162200.0,
+        "totalContributions": 167200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-06 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2044,7 +2053,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 152500.0,
+                "aggregateAmount": 157500.0,
                 "zipCode": "60611"
             },
             {
@@ -2089,8 +2098,17 @@
     },
     {
         "committee": "17671",
-        "totalContributions": 387909.0,
+        "totalContributions": 388909.0,
         "contributions": [
+            {
+                "firstName": "Kent",
+                "lastName": "Lucaccioni",
+                "date": "2022-06-04 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Kent M Lucaccioni, Ltd.",
+                "zipCode": "60603"
+            },
             {
                 "firstName": "John H.",
                 "lastName": "Ehrlich",
@@ -5621,8 +5639,26 @@
     },
     {
         "committee": "37005",
-        "totalContributions": 49791.11,
+        "totalContributions": 52291.11,
         "contributions": [
+            {
+                "firstName": "Monica",
+                "lastName": "Somerville",
+                "date": "2022-06-05 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Monica",
+                "lastName": "Somerville",
+                "date": "2022-06-03 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Monica",
                 "lastName": "Somerville",
@@ -5801,7 +5837,7 @@
                 "lastName": "Somerville",
                 "occupation": "Retired",
                 "employer": "Retired",
-                "aggregateAmount": 40241.11,
+                "aggregateAmount": 42741.11,
                 "zipCode": "60643"
             },
             {
@@ -7899,8 +7935,35 @@
     },
     {
         "committee": "31848",
-        "totalContributions": 19537.22,
+        "totalContributions": 23249.350000000002,
         "contributions": [
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-06 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-06 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-06 00:00:00",
+                "amount": 1212.13,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
             {
                 "firstName": "CHELSEY R.",
                 "lastName": "ROBINSON",
@@ -8012,19 +8075,19 @@
         ],
         "topDonors": [
             {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "aggregateAmount": 12784.350000000002,
+                "zipCode": "60429"
+            },
+            {
                 "firstName": "MICHAEL",
                 "lastName": "ROBINSON",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 10465.0,
-                "zipCode": "60429"
-            },
-            {
-                "firstName": "CHELSEY R.",
-                "lastName": "ROBINSON",
-                "occupation": "Attorney",
-                "employer": "Owens & Robinson",
-                "aggregateAmount": 9072.220000000001,
                 "zipCode": "60429"
             }
         ]
@@ -9530,8 +9593,17 @@
     },
     {
         "committee": "37138",
-        "totalContributions": 25500.0,
+        "totalContributions": 28000.0,
         "contributions": [
+            {
+                "firstName": "Stephanie",
+                "lastName": "Nathanson",
+                "date": "2022-06-04 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Lawyer",
+                "employer": "Law Offices of Stephanie K. Nathanson",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "",
                 "lastName": "Rosa Galvan-Silva D.D.S",
@@ -9630,12 +9702,12 @@
                 "zipCode": "60602"
             },
             {
-                "firstName": "",
-                "lastName": "Osaghae & Associates, Ltd.",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60643"
+                "firstName": "Stephanie",
+                "lastName": "Nathanson",
+                "occupation": "Lawyer",
+                "employer": "Law Offices of Stephanie K. Nathanson",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60611"
             }
         ]
     },
@@ -10436,8 +10508,17 @@
     },
     {
         "committee": "34220",
-        "totalContributions": 23850.0,
+        "totalContributions": 24850.0,
         "contributions": [
+            {
+                "firstName": "Howard",
+                "lastName": "Smith",
+                "date": "2022-06-06 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "Self",
+                "zipCode": "60411"
+            },
             {
                 "firstName": "Jasmine",
                 "lastName": "Barlow",
@@ -19844,8 +19925,35 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 207332.44000000006,
+        "totalContributions": 210332.44000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Committee to Elect Jacqueline Griffin",
+                "date": "2022-06-03 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60609"
+            },
+            {
+                "firstName": "",
+                "lastName": "Friends of LaPointe",
+                "date": "2022-06-03 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "",
+                "lastName": "Local 399",
+                "date": "2022-06-03 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
             {
                 "firstName": "James",
                 "lastName": "Gleffe",
