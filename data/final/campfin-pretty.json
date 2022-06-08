@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 108570.04,
+        "totalContributions": 109570.04,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Odelson Sterk Murphey Frazier McGrath",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60805"
+            },
             {
                 "firstName": "Russell",
                 "lastName": "Hartigan",
@@ -1864,8 +1873,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 167200.0,
+        "totalContributions": 172200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-07 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2053,7 +2071,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 157500.0,
+                "aggregateAmount": 162500.0,
                 "zipCode": "60611"
             },
             {
@@ -7317,8 +7335,26 @@
     },
     {
         "committee": "35454",
-        "totalContributions": 160250.0,
+        "totalContributions": 163750.0,
         "contributions": [
+            {
+                "firstName": "Greg",
+                "lastName": "Harris",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "State Representative",
+                "employer": "State of Illinois",
+                "zipCode": "60640"
+            },
+            {
+                "firstName": "",
+                "lastName": "Media Process Group",
+                "date": "2022-05-24 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
             {
                 "firstName": "David",
                 "lastName": "Olshansky",
@@ -7624,12 +7660,12 @@
                 "zipCode": "60661"
             },
             {
-                "firstName": "Joseph",
-                "lastName": "Pevsner",
-                "occupation": "Attorney",
-                "employer": "Holland & Knit LLP",
-                "aggregateAmount": 1000.0,
-                "zipCode": "75093"
+                "firstName": "",
+                "lastName": "Media Process Group",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60607"
             }
         ]
     },
@@ -8681,8 +8717,17 @@
     },
     {
         "committee": "37044",
-        "totalContributions": 150585.14,
+        "totalContributions": 152085.14,
         "contributions": [
+            {
+                "firstName": "Kerry",
+                "lastName": "Peck",
+                "date": "2022-06-03 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Managing Partner - Attorney",
+                "employer": "Peck Ritchey, LLC",
+                "zipCode": "60604"
+            },
             {
                 "firstName": "Thomas",
                 "lastName": "Donnelly",
@@ -9713,8 +9758,17 @@
     },
     {
         "committee": "36890",
-        "totalContributions": 64049.43,
+        "totalContributions": 66549.43,
         "contributions": [
+            {
+                "firstName": "Meridth",
+                "lastName": "Hammer",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2500.0,
+                "occupation": "The Hammer Legal Group",
+                "employer": "Owner",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Meridth",
                 "lastName": "Hammer",
@@ -10469,7 +10523,7 @@
                 "lastName": "Hammer",
                 "occupation": "The Hammer Legal Group",
                 "employer": "Owner",
-                "aggregateAmount": 58416.43,
+                "aggregateAmount": 60916.43,
                 "zipCode": "60617"
             },
             {
@@ -11822,8 +11876,26 @@
     },
     {
         "committee": "34284",
-        "totalContributions": 30610.0,
+        "totalContributions": 40791.26,
         "contributions": [
+            {
+                "firstName": "Philip",
+                "lastName": "Nawrocki",
+                "date": "2022-06-07 00:00:00",
+                "amount": 5981.26,
+                "occupation": "Sr. Web Applications Analyst",
+                "employer": "Lurie Children's Foundation",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Nawrocki",
+                "date": "2022-06-07 00:00:00",
+                "amount": 4200.0,
+                "occupation": "Sr. Web Applications Analyst",
+                "employer": "Lurie Children's Foundation",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Philip",
                 "lastName": "Nawrocki",
@@ -11939,7 +12011,7 @@
                 "lastName": "Nawrocki",
                 "occupation": "Sr. Web Applications Analyst",
                 "employer": "Lurie Children's Foundation",
-                "aggregateAmount": 30610.0,
+                "aggregateAmount": 40791.26,
                 "zipCode": "60558"
             }
         ]
@@ -12902,8 +12974,17 @@
     },
     {
         "committee": "34313",
-        "totalContributions": 66428.0,
+        "totalContributions": 68928.0,
         "contributions": [
+            {
+                "firstName": "Stephanie",
+                "lastName": "Nathanson",
+                "date": "2022-06-06 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Lawyer",
+                "employer": "Law Offices of Stephanie K. Nathanson",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "David",
                 "lastName": "Kelly",
@@ -13652,20 +13733,20 @@
                 "zipCode": "60615"
             },
             {
+                "firstName": "Stephanie",
+                "lastName": "Nathanson",
+                "occupation": "Lawyer",
+                "employer": "Law Offices of Stephanie K. Nathanson",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "",
                 "lastName": "Rome's Joy Companies",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 3500.0,
                 "zipCode": "60653"
-            },
-            {
-                "firstName": "Stephanie",
-                "lastName": "Nathanson",
-                "occupation": "Lawyer",
-                "employer": "Law Offices of Stephanie K. Nathanson",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60602"
             },
             {
                 "firstName": "Dr. General",
@@ -14731,8 +14812,17 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 23618.75,
+        "totalContributions": 24618.75,
         "contributions": [
+            {
+                "firstName": "Caleb",
+                "lastName": "Watkins",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Sales",
+                "employer": "Pfizer",
+                "zipCode": "60644"
+            },
             {
                 "firstName": "Pamela",
                 "lastName": "Reeves-Harris",
@@ -17251,8 +17341,17 @@
     },
     {
         "committee": "35720",
-        "totalContributions": 55200.0,
+        "totalContributions": 95200.0,
         "contributions": [
+            {
+                "firstName": "DON",
+                "lastName": "Sampen",
+                "date": "2022-06-03 00:00:00",
+                "amount": 40000.0,
+                "occupation": "Attorney",
+                "employer": "Clausen Miller, P.C.",
+                "zipCode": "60712"
+            },
             {
                 "firstName": "DON",
                 "lastName": "Sampen",
@@ -17305,7 +17404,7 @@
                 "lastName": "Sampen",
                 "occupation": "Attorney",
                 "employer": "Clausen Miller, P.C.",
-                "aggregateAmount": 55000.0,
+                "aggregateAmount": 95000.0,
                 "zipCode": "60712"
             },
             {
@@ -19925,8 +20024,44 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 210332.44000000006,
+        "totalContributions": 219332.44000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Citizens for Lisa M Taylor",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "",
+                "lastName": "Mary B McMahon for Judge",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "",
+                "lastName": "Silva-Hernandez for Judge",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
+            {
+                "firstName": "",
+                "lastName": "Palos Township Democratic Organization",
+                "date": "2022-06-07 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60457"
+            },
             {
                 "firstName": "",
                 "lastName": "Committee to Elect Jacqueline Griffin",
@@ -22448,19 +22583,19 @@
             },
             {
                 "firstName": "",
+                "lastName": "Palos Township Democratic Organization",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 11000.0,
+                "zipCode": "60457"
+            },
+            {
+                "firstName": "",
                 "lastName": "Mid-America Carpenters Regional Council",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 10000.0,
                 "zipCode": "60611"
-            },
-            {
-                "firstName": "",
-                "lastName": "Palos Township Democratic Organization",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 8000.0,
-                "zipCode": "60457"
             }
         ]
     }
