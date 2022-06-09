@@ -193,8 +193,98 @@
     },
     {
         "committee": "36898",
-        "totalContributions": 131865.04,
+        "totalContributions": 152465.04,
         "contributions": [
+            {
+                "firstName": "Lawrence",
+                "lastName": "Disparti",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Disparti Law Group",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Kathy",
+                "lastName": "Byrne",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Trial Lawyer",
+                "employer": "Cooney & Conway",
+                "zipCode": "60610"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Conway",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney and Conway",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Power",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2600.0,
+                "occupation": "Attorney",
+                "employer": "PowerRogers",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Wise",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Wise Morrissey",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Joe",
+                "lastName": "Balesteri",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Rogers",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-06-07 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
+            },
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
+            },
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-06-07 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
+            },
             {
                 "firstName": "Dominique",
                 "lastName": "Ross",
@@ -940,7 +1030,7 @@
                 "lastName": "Ross",
                 "occupation": "Circuit Court Judge - Cook County",
                 "employer": "State of Ilinois",
-                "aggregateAmount": 99665.0,
+                "aggregateAmount": 107665.0,
                 "zipCode": "60649"
             },
             {
@@ -960,20 +1050,20 @@
                 "zipCode": "60640"
             },
             {
+                "firstName": "Joseph",
+                "lastName": "Power",
+                "occupation": "Attorney",
+                "employer": "PowerRogers",
+                "aggregateAmount": 2600.0,
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Robert",
                 "lastName": "Clifford",
                 "occupation": "Attorney",
                 "employer": "Clifford Law Offices",
                 "aggregateAmount": 2000.0,
                 "zipCode": "60602"
-            },
-            {
-                "firstName": "Glenn",
-                "lastName": "Ross",
-                "occupation": "Engineer",
-                "employer": "City of Chicago",
-                "aggregateAmount": 1500.0,
-                "zipCode": "60649"
             }
         ]
     },
@@ -1873,8 +1963,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 172200.0,
+        "totalContributions": 192200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-08 00:00:00",
+                "amount": 20000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2071,7 +2170,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 162500.0,
+                "aggregateAmount": 182500.0,
                 "zipCode": "60611"
             },
             {
@@ -6171,8 +6270,26 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 175700.0,
+        "totalContributions": 194200.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Elect Judge Mitchell",
+                "date": "2022-06-08 00:00:00",
+                "amount": 3500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Beth",
+                "lastName": "Ryan",
+                "date": "2022-06-08 00:00:00",
+                "amount": 15000.0,
+                "occupation": "attorney",
+                "employer": "Law Office of Elizabeth C. Ryan",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "John",
                 "lastName": "O'Connor",
@@ -6315,7 +6432,7 @@
                 "lastName": "Ryan",
                 "occupation": "attorney",
                 "employer": "Law Office of Elizabeth C. Ryan",
-                "aggregateAmount": 155000.0,
+                "aggregateAmount": 170000.0,
                 "zipCode": "60646"
             },
             {
@@ -6335,20 +6452,20 @@
                 "zipCode": "60527"
             },
             {
+                "firstName": "",
+                "lastName": "Elect Judge Mitchell",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 3500.0,
+                "zipCode": "60646"
+            },
+            {
                 "firstName": "Tim",
                 "lastName": "Mullen",
                 "occupation": "Owner",
                 "employer": "Cervantes Group",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60614"
-            },
-            {
-                "firstName": "Tom",
-                "lastName": "Stapka",
-                "occupation": "Owner",
-                "employer": "Chi-Town Printing Inc",
-                "aggregateAmount": 1200.0,
-                "zipCode": "60630"
             }
         ]
     },
@@ -9758,8 +9875,17 @@
     },
     {
         "committee": "36890",
-        "totalContributions": 66549.43,
+        "totalContributions": 69049.43,
         "contributions": [
+            {
+                "firstName": "Meridth",
+                "lastName": "Hammer",
+                "date": "2022-06-08 00:00:00",
+                "amount": 2500.0,
+                "occupation": "The Hammer Legal Group",
+                "employer": "Owner",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Meridth",
                 "lastName": "Hammer",
@@ -10523,7 +10649,7 @@
                 "lastName": "Hammer",
                 "occupation": "The Hammer Legal Group",
                 "employer": "Owner",
-                "aggregateAmount": 60916.43,
+                "aggregateAmount": 63416.43,
                 "zipCode": "60617"
             },
             {
@@ -14812,8 +14938,26 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 24618.75,
+        "totalContributions": 30618.75,
         "contributions": [
+            {
+                "firstName": "Arthur",
+                "lastName": "Turner II",
+                "date": "2022-06-08 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Consultant",
+                "employer": "GR Consulting LLC",
+                "zipCode": "62704"
+            },
+            {
+                "firstName": "",
+                "lastName": "GR Consulting LLC",
+                "date": "2022-06-08 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62701"
+            },
             {
                 "firstName": "Caleb",
                 "lastName": "Watkins",
@@ -15095,6 +15239,14 @@
                 "zipCode": "60305"
             },
             {
+                "firstName": "Arthur",
+                "lastName": "Turner II",
+                "occupation": "Consultant",
+                "employer": "GR Consulting LLC",
+                "aggregateAmount": 5000.0,
+                "zipCode": "62704"
+            },
+            {
                 "firstName": "Pamela",
                 "lastName": "Reeves-Harris",
                 "occupation": "Cook County Judge",
@@ -15117,14 +15269,6 @@
                 "employer": "",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60623"
-            },
-            {
-                "firstName": "",
-                "lastName": "Torres Electrical Contractors LLC",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60585"
             }
         ]
     },
@@ -18355,8 +18499,17 @@
     },
     {
         "committee": "25470",
-        "totalContributions": 40000.0,
+        "totalContributions": 53500.0,
         "contributions": [
+            {
+                "firstName": "Gary",
+                "lastName": "Seyring",
+                "date": "2022-06-03 00:00:00",
+                "amount": 13500.0,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60193"
+            },
             {
                 "firstName": "Gary",
                 "lastName": "Seyring",
@@ -18373,7 +18526,7 @@
                 "lastName": "Seyring",
                 "occupation": "Attorney",
                 "employer": "self",
-                "aggregateAmount": 40000.0,
+                "aggregateAmount": 53500.0,
                 "zipCode": "60193"
             }
         ]
@@ -19352,8 +19505,17 @@
     },
     {
         "committee": "37036",
-        "totalContributions": 19400.0,
+        "totalContributions": 20400.0,
         "contributions": [
+            {
+                "firstName": "Samuel",
+                "lastName": "Mendenhall",
+                "date": "2022-06-08 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Winston & Strawn",
+                "zipCode": "60605"
+            },
             {
                 "firstName": "Thomas",
                 "lastName": "Little",
@@ -19794,12 +19956,12 @@
                 "zipCode": "60654"
             },
             {
-                "firstName": "James",
-                "lastName": "Kallas",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": "60608"
+                "firstName": "Samuel",
+                "lastName": "Mendenhall",
+                "occupation": "Lawyer",
+                "employer": "Winston & Strawn",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60605"
             }
         ]
     },
