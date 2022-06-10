@@ -2215,8 +2215,17 @@
     },
     {
         "committee": "17671",
-        "totalContributions": 388909.0,
+        "totalContributions": 389909.0,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "Botana",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Jackson Lewis PC",
+                "zipCode": "60302"
+            },
             {
                 "firstName": "Kent",
                 "lastName": "Lucaccioni",
@@ -7452,8 +7461,17 @@
     },
     {
         "committee": "35454",
-        "totalContributions": 163750.0,
+        "totalContributions": 164750.0,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Ellis",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Ellis Legal P.C.",
+                "zipCode": "60525"
+            },
             {
                 "firstName": "Greg",
                 "lastName": "Harris",
@@ -8247,8 +8265,17 @@
     },
     {
         "committee": "37089",
-        "totalContributions": 112300.0,
+        "totalContributions": 113300.0,
         "contributions": [
+            {
+                "firstName": "Teresa",
+                "lastName": "Molina",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Circuit Court Judge",
+                "employer": "State of Illinois",
+                "zipCode": "60153"
+            },
             {
                 "firstName": "Araceli",
                 "lastName": "De La Cruz",
@@ -11270,8 +11297,26 @@
     },
     {
         "committee": "36982",
-        "totalContributions": 57320.0,
+        "totalContributions": 114320.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Lyons Democratic Organization",
+                "date": "2022-06-08 00:00:00",
+                "amount": 7000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60501"
+            },
+            {
+                "firstName": "Nicholas",
+                "lastName": "Kantas",
+                "date": "2022-06-08 00:00:00",
+                "amount": 50000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County States Attorney",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Julie",
                 "lastName": "Curry",
@@ -11959,6 +12004,22 @@
         ],
         "topDonors": [
             {
+                "firstName": "Nicholas",
+                "lastName": "Kantas",
+                "occupation": "Attorney",
+                "employer": "Cook County States Attorney",
+                "aggregateAmount": 50000.0,
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "",
+                "lastName": "Lyons Democratic Organization",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 7800.0,
+                "zipCode": "60501"
+            },
+            {
                 "firstName": "Michael",
                 "lastName": "Brady",
                 "occupation": "Financial Advisor",
@@ -11981,22 +12042,6 @@
                 "employer": "",
                 "aggregateAmount": 3535.0,
                 "zipCode": "60642"
-            },
-            {
-                "firstName": "Cameron",
-                "lastName": "Talischi",
-                "occupation": "Consultant",
-                "employer": "McKinsey",
-                "aggregateAmount": 3000.0,
-                "zipCode": "60611"
-            },
-            {
-                "firstName": "Ryan",
-                "lastName": "Prentice",
-                "occupation": "Doctor",
-                "employer": "United States Army",
-                "aggregateAmount": 3000.0,
-                "zipCode": "19104"
             }
         ]
     },
@@ -15314,8 +15359,35 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 35000.0,
+        "totalContributions": 38500.0,
         "contributions": [
+            {
+                "firstName": "Pat",
+                "lastName": "Salvi",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Corboy",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Corboy & Demetrio",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Raines",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
             {
                 "firstName": "Dana",
                 "lastName": "Ronk",
