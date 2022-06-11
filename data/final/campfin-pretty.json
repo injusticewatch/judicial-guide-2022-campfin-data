@@ -7461,8 +7461,17 @@
     },
     {
         "committee": "35454",
-        "totalContributions": 164750.0,
+        "totalContributions": 165750.0,
         "contributions": [
+            {
+                "firstName": "Steven",
+                "lastName": "Scholes",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "McDermott, Will and Emery",
+                "zipCode": "60189"
+            },
             {
                 "firstName": "John",
                 "lastName": "Ellis",
@@ -9782,8 +9791,44 @@
     },
     {
         "committee": "37138",
-        "totalContributions": 28000.0,
+        "totalContributions": 32000.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Chicago and Cook County Building and Construction Trades Council",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sheet Metal Workers' International Association",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60162"
+            },
+            {
+                "firstName": "",
+                "lastName": "LiUNA Chicago Laborers District Council",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Plumber Local 130 U.A.",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
             {
                 "firstName": "Stephanie",
                 "lastName": "Nathanson",
@@ -13956,8 +14001,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 164700.0,
+        "totalContributions": 167700.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Friends of Mattie Hunter",
+                "date": "2022-06-09 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -15319,8 +15373,17 @@
     },
     {
         "committee": "37231",
-        "totalContributions": 76000.0,
+        "totalContributions": 77000.0,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "McGing",
+                "date": "2022-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60631"
+            },
             {
                 "firstName": "Pat",
                 "lastName": "Casey",
@@ -15348,6 +15411,14 @@
                 "employer": "Self",
                 "aggregateAmount": 76000.0,
                 "zipCode": "60605"
+            },
+            {
+                "firstName": "James",
+                "lastName": "McGing",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60631"
             }
         ]
     },
