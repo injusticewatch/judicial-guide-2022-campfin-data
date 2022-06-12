@@ -1963,8 +1963,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 192200.0,
+        "totalContributions": 217200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-11 00:00:00",
+                "amount": 25000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2170,7 +2179,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 182500.0,
+                "aggregateAmount": 207500.0,
                 "zipCode": "60611"
             },
             {
@@ -2965,8 +2974,44 @@
     },
     {
         "committee": "17003",
-        "totalContributions": 163825.0,
+        "totalContributions": 167825.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Ujamma Construction, Inc",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60649"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Laborers' District Council PAC",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Custom Companies",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60164"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sangamon Food & Liquor",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60620"
+            },
             {
                 "firstName": "",
                 "lastName": "Chicago Land Operators Joint Labor-Mgnt PAC",
@@ -6008,8 +6053,53 @@
     },
     {
         "committee": "33886",
-        "totalContributions": 33150.0,
+        "totalContributions": 42150.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "RL Realty Management, LLC",
+                "date": "2022-06-09 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60467"
+            },
+            {
+                "firstName": "Caralynn",
+                "lastName": "Collens",
+                "date": "2022-06-09 00:00:00",
+                "amount": 2500.0,
+                "occupation": "CEO",
+                "employer": "UI Labs",
+                "zipCode": "60622"
+            },
+            {
+                "firstName": "",
+                "lastName": "Walsh, Fewkes, & Sterba, P.C.",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60463"
+            },
+            {
+                "firstName": "Lema",
+                "lastName": "Khorshid",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Partner",
+                "employer": "Fuksa Khorshid LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Miceli",
+                "date": "2022-06-09 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Miner, Barnhill & Galland PC",
+                "zipCode": "60201"
+            },
             {
                 "firstName": "Steven",
                 "lastName": "Borkan",
@@ -7305,8 +7395,17 @@
     },
     {
         "committee": "22396",
-        "totalContributions": 172500.0,
+        "totalContributions": 175500.0,
         "contributions": [
+            {
+                "firstName": "Deidre",
+                "lastName": "Baumann",
+                "date": "2022-06-10 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Owner",
+                "employer": "Law Offices of Baumann and Shuldiner",
+                "zipCode": "60603"
+            },
             {
                 "firstName": "Deidre",
                 "lastName": "Baumann",
@@ -7440,7 +7539,7 @@
                 "lastName": "Baumann",
                 "occupation": "Owner",
                 "employer": "Law Offices of Baumann and Shuldiner",
-                "aggregateAmount": 163000.0,
+                "aggregateAmount": 166000.0,
                 "zipCode": "60603"
             },
             {
@@ -7461,7 +7560,7 @@
     },
     {
         "committee": "35454",
-        "totalContributions": 165750.0,
+        "totalContributions": 166750.0,
         "contributions": [
             {
                 "firstName": "Steven",
@@ -7471,6 +7570,15 @@
                 "occupation": "Attorney",
                 "employer": "McDermott, Will and Emery",
                 "zipCode": "60189"
+            },
+            {
+                "firstName": "Donna",
+                "lastName": "Welch",
+                "date": "2022-06-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Kirkland & Ellis LLP",
+                "zipCode": "60202"
             },
             {
                 "firstName": "John",
@@ -18676,8 +18784,17 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 104250.0,
+        "totalContributions": 105250.0,
         "contributions": [
+            {
+                "firstName": "Donald",
+                "lastName": "Olson",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60010"
+            },
             {
                 "firstName": "Joseph",
                 "lastName": "Calcagno",
