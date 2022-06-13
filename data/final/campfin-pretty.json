@@ -14844,7 +14844,7 @@
     },
     {
         "committee": "37447",
-        "totalContributions": 32000.0,
+        "totalContributions": 62000.0,
         "contributions": [
             {
                 "firstName": "Paulette",
@@ -14863,6 +14863,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60620"
+            },
+            {
+                "firstName": "Jackie",
+                "lastName": "Portman-Brown",
+                "date": "2022-05-21 00:00:00",
+                "amount": 30000.0,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60653"
             }
         ],
         "topDonors": [
@@ -14873,6 +14882,14 @@
                 "employer": "",
                 "aggregateAmount": 30000.0,
                 "zipCode": "60620"
+            },
+            {
+                "firstName": "Jackie",
+                "lastName": "Portman-Brown",
+                "occupation": "Attorney",
+                "employer": "self",
+                "aggregateAmount": 30000.0,
+                "zipCode": "60653"
             },
             {
                 "firstName": "Paulette",
