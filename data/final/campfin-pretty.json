@@ -2269,7 +2269,7 @@
     },
     {
         "committee": "17671",
-        "totalContributions": 392909.0,
+        "totalContributions": 394409.0,
         "contributions": [
             {
                 "firstName": "Ulf N. R.",
@@ -2288,6 +2288,15 @@
                 "occupation": "Judge",
                 "employer": "State of Illinois",
                 "zipCode": "60657"
+            },
+            {
+                "firstName": "Kent",
+                "lastName": "Lucaccioni",
+                "date": "2022-06-13 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Kent M Lucaccioni, Ltd.",
+                "zipCode": "60603"
             },
             {
                 "firstName": "James",
@@ -8304,8 +8313,35 @@
     },
     {
         "committee": "31848",
-        "totalContributions": 23249.350000000002,
+        "totalContributions": 28249.350000000002,
         "contributions": [
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
             {
                 "firstName": "CHELSEY R.",
                 "lastName": "ROBINSON",
@@ -8448,7 +8484,7 @@
                 "lastName": "ROBINSON",
                 "occupation": "Attorney",
                 "employer": "Owens & Robinson",
-                "aggregateAmount": 12784.350000000002,
+                "aggregateAmount": 17784.350000000002,
                 "zipCode": "60429"
             },
             {
@@ -12500,8 +12536,17 @@
     },
     {
         "committee": "37090",
-        "totalContributions": 36360.0,
+        "totalContributions": 37360.0,
         "contributions": [
+            {
+                "firstName": "Lane",
+                "lastName": "Brady",
+                "date": "2022-06-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60610"
+            },
             {
                 "firstName": "Nicolette",
                 "lastName": "Harpelund",
@@ -17852,8 +17897,17 @@
     },
     {
         "committee": "35720",
-        "totalContributions": 95200.0,
+        "totalContributions": 135200.0,
         "contributions": [
+            {
+                "firstName": "DON",
+                "lastName": "Sampen",
+                "date": "2022-06-10 00:00:00",
+                "amount": 40000.0,
+                "occupation": "Attorney",
+                "employer": "Clausen Miller, P.C.",
+                "zipCode": "60712"
+            },
             {
                 "firstName": "DON",
                 "lastName": "Sampen",
@@ -17915,7 +17969,7 @@
                 "lastName": "Sampen",
                 "occupation": "Attorney",
                 "employer": "Clausen Miller, P.C.",
-                "aggregateAmount": 95000.0,
+                "aggregateAmount": 135000.0,
                 "zipCode": "60712"
             },
             {
@@ -18900,7 +18954,7 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 105250.0,
+        "totalContributions": 111250.0,
         "contributions": [
             {
                 "firstName": "Donald",
@@ -18910,6 +18964,15 @@
                 "occupation": "Retired",
                 "employer": "Retired",
                 "zipCode": "60010"
+            },
+            {
+                "firstName": "Yvonne",
+                "lastName": "Dimucci",
+                "date": "2022-06-06 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Retired",
+                "employer": "",
+                "zipCode": "80150"
             },
             {
                 "firstName": "Joseph",
@@ -18948,6 +19011,15 @@
                 "zipCode": "60010"
             },
             {
+                "firstName": "Elmer",
+                "lastName": "Mannina",
+                "date": "2022-05-26 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "",
+                "zipCode": "60194"
+            },
+            {
                 "firstName": "Dominic J",
                 "lastName": "Buttitta, Sr",
                 "date": "2022-04-25 00:00:00",
@@ -18965,6 +19037,14 @@
                 "employer": "Clover-Leaf Realty & Development Co",
                 "aggregateAmount": 100000.0,
                 "zipCode": "60010"
+            },
+            {
+                "firstName": "Yvonne",
+                "lastName": "Dimucci",
+                "occupation": "Retired",
+                "employer": "",
+                "aggregateAmount": 5000.0,
+                "zipCode": "80150"
             },
             {
                 "firstName": "Clare",
@@ -18989,14 +19069,6 @@
                 "employer": "First State Mortgage",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60010"
-            },
-            {
-                "firstName": "Ankur",
-                "lastName": "Gupta",
-                "occupation": "Lawyer",
-                "employer": "Sidley Austin LLP",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60026"
             }
         ]
     },
@@ -20343,8 +20415,17 @@
     },
     {
         "committee": "36985",
-        "totalContributions": 226400.0,
+        "totalContributions": 376400.0,
         "contributions": [
+            {
+                "firstName": "Bernadette",
+                "lastName": "Barrett",
+                "date": "2022-06-11 00:00:00",
+                "amount": 150000.0,
+                "occupation": "Attorney",
+                "employer": "Self",
+                "zipCode": "60462"
+            },
             {
                 "firstName": "",
                 "lastName": "I.B.E.W. Local 134 State & Municipal PAC",
@@ -20523,7 +20604,7 @@
                 "lastName": "Barrett",
                 "occupation": "Attorney",
                 "employer": "Self",
-                "aggregateAmount": 100100.0,
+                "aggregateAmount": 250100.0,
                 "zipCode": "60462"
             },
             {
@@ -20562,8 +20643,17 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 219332.44000000006,
+        "totalContributions": 226332.44000000006,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-06-10 00:00:00",
+                "amount": 7000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
             {
                 "firstName": "",
                 "lastName": "Citizens for Lisa M Taylor",
@@ -23104,19 +23194,19 @@
                 "zipCode": "60464"
             },
             {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "aggregateAmount": 46915.76,
+                "zipCode": "60464"
+            },
+            {
                 "firstName": "",
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 45522.22,
-                "zipCode": "60464"
-            },
-            {
-                "firstName": "James",
-                "lastName": "Gleffe",
-                "occupation": "Attorney",
-                "employer": "Cook County",
-                "aggregateAmount": 39915.76,
                 "zipCode": "60464"
             },
             {
