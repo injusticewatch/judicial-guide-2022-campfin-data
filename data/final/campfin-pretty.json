@@ -193,8 +193,26 @@
     },
     {
         "committee": "36898",
-        "totalContributions": 158715.04,
+        "totalContributions": 162315.04,
         "contributions": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Keefe",
+                "date": "2022-06-15 00:00:00",
+                "amount": 2600.0,
+                "occupation": "Attorney",
+                "employer": "Keefe, Keefe & Unsell, PC",
+                "zipCode": "62226"
+            },
+            {
+                "firstName": "Timothy",
+                "lastName": "Cavanaugh",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cavanaugh Law Group",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Devon",
                 "lastName": "Bruce",
@@ -1105,8 +1123,53 @@
     },
     {
         "committee": "36935",
-        "totalContributions": 104490.0,
+        "totalContributions": 113490.0,
         "contributions": [
+            {
+                "firstName": "Beth",
+                "lastName": "Burk",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Aon plc",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Dan",
+                "lastName": "Webb",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Winston & Strawn",
+                "employer": "Attorney",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Shawn",
+                "lastName": "Kasserman",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Tomasik Kotin Kasserman, LLC",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Smith LaCien LLP",
+                "date": "2022-06-09 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cavanagh Law Office",
+                "date": "2022-06-09 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Wayne",
                 "lastName": "Andersen",
@@ -1964,6 +2027,22 @@
                 "zipCode": "60614"
             },
             {
+                "firstName": "",
+                "lastName": "Smith LaCien LLP",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Beth",
+                "lastName": "Burk",
+                "occupation": "Attorney",
+                "employer": "Aon plc",
+                "aggregateAmount": 4000.0,
+                "zipCode": "60614"
+            },
+            {
                 "firstName": "Wayne",
                 "lastName": "Andersen",
                 "occupation": "Arbitrator & Mediator",
@@ -1972,35 +2051,28 @@
                 "zipCode": "60601"
             },
             {
-                "firstName": "Beth",
-                "lastName": "Burk",
-                "occupation": "Attorney",
-                "employer": "Aon plc",
-                "aggregateAmount": 3000.0,
-                "zipCode": "60614"
-            },
-            {
                 "firstName": "",
                 "lastName": "Simmons Hanly Conroy",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 3000.0,
                 "zipCode": "62002"
-            },
-            {
-                "firstName": "Paula",
-                "lastName": "Holderman",
-                "occupation": "Not Employed",
-                "employer": "Not Employed",
-                "aggregateAmount": 2850.0,
-                "zipCode": "60525"
             }
         ]
     },
     {
         "committee": "22125",
-        "totalContributions": 222200.0,
+        "totalContributions": 223200.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Serafin and Associates, Inc.",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60610"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2252,12 +2324,12 @@
                 "zipCode": "60093"
             },
             {
-                "firstName": "Dan",
-                "lastName": "Ingram",
+                "firstName": "",
+                "lastName": "Serafin and Associates, Inc.",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": "60630"
+                "aggregateAmount": 1000.0,
+                "zipCode": "60610"
             }
         ]
     },
@@ -3046,8 +3118,17 @@
     },
     {
         "committee": "17003",
-        "totalContributions": 167825.0,
+        "totalContributions": 242825.0,
         "contributions": [
+            {
+                "firstName": "Howard",
+                "lastName": "Brookins, Jr.",
+                "date": "2022-06-15 00:00:00",
+                "amount": 75000.0,
+                "occupation": "Attorney at Law",
+                "employer": "Brookins & Wilson",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "",
                 "lastName": "Ujamma Construction, Inc",
@@ -4225,7 +4306,7 @@
                 "lastName": "Brookins, Jr.",
                 "occupation": "Attorney at Law",
                 "employer": "Brookins & Wilson",
-                "aggregateAmount": 55000.0,
+                "aggregateAmount": 130000.0,
                 "zipCode": "60643"
             },
             {
@@ -4741,8 +4822,44 @@
     },
     {
         "committee": "37329",
-        "totalContributions": 75919.51000000001,
+        "totalContributions": 81680.51000000001,
         "contributions": [
+            {
+                "firstName": "William",
+                "lastName": "Murphy",
+                "date": "2022-06-15 00:00:00",
+                "amount": 2761.0,
+                "occupation": "Firefighter",
+                "employer": "Chicago Fire Department",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Robert N",
+                "lastName": "Beaulieu",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60067"
+            },
+            {
+                "firstName": "Kerry",
+                "lastName": "Peck",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Murphy",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Firefighter",
+                "employer": "Chicago Fire Department",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "James",
                 "lastName": "Seibert",
@@ -4925,6 +5042,14 @@
                 "zipCode": "60646"
             },
             {
+                "firstName": "William",
+                "lastName": "Murphy",
+                "occupation": "Firefighter",
+                "employer": "Chicago Fire Department",
+                "aggregateAmount": 5490.51,
+                "zipCode": "60646"
+            },
+            {
                 "firstName": "",
                 "lastName": "Country Delight Dairy",
                 "occupation": "",
@@ -4947,14 +5072,6 @@
                 "employer": "Chicago Public Schools",
                 "aggregateAmount": 4000.0,
                 "zipCode": "60631"
-            },
-            {
-                "firstName": "Catherine",
-                "lastName": "Graszer",
-                "occupation": "",
-                "employer": "Business Owner",
-                "aggregateAmount": 4000.0,
-                "zipCode": "60068"
             }
         ]
     },
@@ -6416,8 +6533,35 @@
     },
     {
         "committee": "37113",
-        "totalContributions": 15000.0,
+        "totalContributions": 30000.0,
         "contributions": [
+            {
+                "firstName": "Carmen",
+                "lastName": "Quinones",
+                "date": "2022-06-06 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Legal",
+                "employer": "Self",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "Carmen",
+                "lastName": "Quinones",
+                "date": "2022-05-02 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Legal",
+                "employer": "Self",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "Carmen",
+                "lastName": "Quinones",
+                "date": "2022-04-04 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Legal",
+                "employer": "Self",
+                "zipCode": "60091"
+            },
             {
                 "firstName": "Carmen",
                 "lastName": "Quinones",
@@ -6452,7 +6596,7 @@
                 "lastName": "Quinones",
                 "occupation": "Legal",
                 "employer": "Self",
-                "aggregateAmount": 15000.0,
+                "aggregateAmount": 30000.0,
                 "zipCode": "60091"
             }
         ]
@@ -7485,8 +7629,17 @@
     },
     {
         "committee": "22396",
-        "totalContributions": 175500.0,
+        "totalContributions": 185500.0,
         "contributions": [
+            {
+                "firstName": "Ed",
+                "lastName": "Baumann",
+                "date": "2022-06-14 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60659"
+            },
             {
                 "firstName": "Deidre",
                 "lastName": "Baumann",
@@ -7631,6 +7784,14 @@
                 "employer": "Law Offices of Baumann and Shuldiner",
                 "aggregateAmount": 166000.0,
                 "zipCode": "60603"
+            },
+            {
+                "firstName": "Ed",
+                "lastName": "Baumann",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 10000.0,
+                "zipCode": "60659"
             },
             {
                 "firstName": "",
@@ -14235,8 +14396,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 172648.7,
+        "totalContributions": 173818.7,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1170.0,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -14892,7 +15062,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 67948.7,
+                "aggregateAmount": 69118.7,
                 "zipCode": "60615"
             },
             {
@@ -15297,8 +15467,17 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 30618.75,
+        "totalContributions": 32018.75,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Midway Business Broker",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1400.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60181"
+            },
             {
                 "firstName": "Arthur",
                 "lastName": "Turner II",
@@ -15614,27 +15793,36 @@
                 "zipCode": "60612"
             },
             {
+                "firstName": "",
+                "lastName": "Midway Business Broker",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1400.0,
+                "zipCode": "60181"
+            },
+            {
                 "firstName": "Paul J.",
                 "lastName": "Adams",
                 "occupation": "President",
                 "employer": "Providence St. Mel High School",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60624"
-            },
-            {
-                "firstName": "Rosalyn",
-                "lastName": "Turner",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60623"
             }
         ]
     },
     {
         "committee": "37231",
-        "totalContributions": 77000.0,
+        "totalContributions": 78000.0,
         "contributions": [
+            {
+                "firstName": "Francis",
+                "lastName": "Morrissey",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Wise Morrissey LLC",
+                "zipCode": "60521"
+            },
             {
                 "firstName": "James",
                 "lastName": "McGing",
@@ -15679,6 +15867,14 @@
                 "employer": "",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60631"
+            },
+            {
+                "firstName": "Francis",
+                "lastName": "Morrissey",
+                "occupation": "Attorney",
+                "employer": "Wise Morrissey LLC",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60521"
             }
         ]
     },
@@ -15690,8 +15886,71 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 38500.0,
+        "totalContributions": 48000.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Chicago Latino PAC",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Clifford",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Antonucci",
+                "lastName": "Romanucci",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Romanucci Blandin",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Timothy",
+                "lastName": "Cavanagh",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cavanagh Law Group",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Conway",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Cooney & Conway",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Quinlan",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Quinlan Law Firm",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Golant",
+                "date": "2022-06-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "President",
+                "employer": "Wichita Packing",
+                "zipCode": "60612"
+            },
             {
                 "firstName": "Pat",
                 "lastName": "Salvi",
@@ -15954,6 +16213,14 @@
                 "zipCode": "60622"
             },
             {
+                "firstName": "",
+                "lastName": "Chicago Latino PAC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60603"
+            },
+            {
                 "firstName": "Michael",
                 "lastName": "Alvarez",
                 "occupation": "Consultant",
@@ -15968,14 +16235,6 @@
                 "employer": "",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60649"
-            },
-            {
-                "firstName": "Geoffrey",
-                "lastName": "Kass",
-                "occupation": "Attorney",
-                "employer": "Vedder Price",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60035-4034"
             }
         ]
     },
