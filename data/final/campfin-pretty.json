@@ -193,7 +193,7 @@
     },
     {
         "committee": "36898",
-        "totalContributions": 162315.04,
+        "totalContributions": 166426.54,
         "contributions": [
             {
                 "firstName": "Thomas",
@@ -212,6 +212,33 @@
                 "occupation": "Attorney",
                 "employer": "Cavanaugh Law Group",
                 "zipCode": "60601"
+            },
+            {
+                "firstName": "Ben",
+                "lastName": "Crane",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Coplan Crane",
+                "zipCode": "60304"
+            },
+            {
+                "firstName": "Yao",
+                "lastName": "Dinizulu",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Dinizulu Law Group, Ltd.",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Dominique",
+                "lastName": "Ross",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2111.5,
+                "occupation": "Circuit Court Judge - Cook County",
+                "employer": "State of Ilinois",
+                "zipCode": "60649"
             },
             {
                 "firstName": "Devon",
@@ -1084,7 +1111,7 @@
                 "lastName": "Ross",
                 "occupation": "Circuit Court Judge - Cook County",
                 "employer": "State of Ilinois",
-                "aggregateAmount": 109165.0,
+                "aggregateAmount": 111276.5,
                 "zipCode": "60649"
             },
             {
@@ -4822,8 +4849,26 @@
     },
     {
         "committee": "37329",
-        "totalContributions": 81680.51000000001,
+        "totalContributions": 94664.65000000001,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Friends of Brian Sexton",
+                "date": "2022-06-17 00:00:00",
+                "amount": 5484.14,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Ronald",
+                "lastName": "Manaster",
+                "date": "2022-06-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "William",
                 "lastName": "Murphy",
@@ -4850,6 +4895,51 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60604"
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "OBrien",
+                "date": "2022-06-15 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Financial planner",
+                "employer": "",
+                "zipCode": "60011"
+            },
+            {
+                "firstName": "John",
+                "lastName": "McMahon",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "Retired",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Gery",
+                "lastName": "Chico",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "attorney",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "",
+                "lastName": "Core Mechanical Inc",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "",
+                "lastName": "LFV Acquisitions",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
             },
             {
                 "firstName": "William",
@@ -5042,6 +5132,14 @@
                 "zipCode": "60646"
             },
             {
+                "firstName": "John",
+                "lastName": "McMahon",
+                "occupation": "",
+                "employer": "Retired",
+                "aggregateAmount": 6000.0,
+                "zipCode": "60646"
+            },
+            {
                 "firstName": "William",
                 "lastName": "Murphy",
                 "occupation": "Firefighter",
@@ -5051,27 +5149,19 @@
             },
             {
                 "firstName": "",
+                "lastName": "Friends of Brian Sexton",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 5484.14,
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "",
                 "lastName": "Country Delight Dairy",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60523"
-            },
-            {
-                "firstName": "John",
-                "lastName": "McMahon",
-                "occupation": "",
-                "employer": "Retired",
-                "aggregateAmount": 5000.0,
-                "zipCode": "60646"
-            },
-            {
-                "firstName": "Anne Michele",
-                "lastName": "Boyle",
-                "occupation": "Teacher",
-                "employer": "Chicago Public Schools",
-                "aggregateAmount": 4000.0,
-                "zipCode": "60631"
             }
         ]
     },
@@ -5312,8 +5402,17 @@
     },
     {
         "committee": "36823",
-        "totalContributions": 107096.84,
+        "totalContributions": 114096.84,
         "contributions": [
+            {
+                "firstName": "Jose",
+                "lastName": "Magana",
+                "date": "2022-06-15 00:00:00",
+                "amount": 7000.0,
+                "occupation": "Director - Information Technology",
+                "employer": "Urban Prep Academies",
+                "zipCode": "60647"
+            },
             {
                 "firstName": "Lourdes",
                 "lastName": "Monteagudo",
@@ -5978,7 +6077,7 @@
                 "lastName": "Magana",
                 "occupation": "Director - Information Technology",
                 "employer": "Urban Prep Academies",
-                "aggregateAmount": 22196.84,
+                "aggregateAmount": 29196.84,
                 "zipCode": "60647"
             },
             {
@@ -8660,8 +8759,44 @@
     },
     {
         "committee": "37089",
-        "totalContributions": 113300.0,
+        "totalContributions": 117300.0,
         "contributions": [
+            {
+                "firstName": "Tahseen",
+                "lastName": "Mansour",
+                "date": "2022-06-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Owner",
+                "employer": "T Auto Inc",
+                "zipCode": "60189"
+            },
+            {
+                "firstName": "Wayne",
+                "lastName": "Andersen",
+                "date": "2022-06-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Mediator-Arbitrator",
+                "employer": "Self",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Latino Leadership Council",
+                "date": "2022-06-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Juan",
+                "lastName": "Morado Jr",
+                "date": "2022-06-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Benesch Friedlander Coplan & Aronoff LLP",
+                "zipCode": "60606"
+            },
             {
                 "firstName": "Teresa",
                 "lastName": "Molina",
@@ -13114,8 +13249,17 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 465741.07,
+        "totalContributions": 467938.71,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "People for Emanuel Chris Welch",
+                "date": "2022-06-14 00:00:00",
+                "amount": 2197.64,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60154"
+            },
             {
                 "firstName": "",
                 "lastName": "Chicagoland Operators Joint Labor Management PAC",
