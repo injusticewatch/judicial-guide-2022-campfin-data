@@ -6359,8 +6359,17 @@
     },
     {
         "committee": "33886",
-        "totalContributions": 42150.0,
+        "totalContributions": 43671.32,
         "contributions": [
+            {
+                "firstName": "Valerie",
+                "lastName": "Nowinski",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1521.32,
+                "occupation": "Neuropsychologist",
+                "employer": "Self",
+                "zipCode": "60462"
+            },
             {
                 "firstName": "",
                 "lastName": "RL Realty Management, LLC",
@@ -6589,18 +6598,18 @@
         ],
         "topDonors": [
             {
-                "firstName": "Thomas",
-                "lastName": "Nowinski",
-                "occupation": "retired",
-                "employer": "none",
-                "aggregateAmount": 6000.0,
-                "zipCode": "60462"
-            },
-            {
                 "firstName": "Valerie",
                 "lastName": "Nowinski",
                 "occupation": "Neuropsychologist",
                 "employer": "Self",
+                "aggregateAmount": 7521.32,
+                "zipCode": "60462"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Nowinski",
+                "occupation": "retired",
+                "employer": "none",
                 "aggregateAmount": 6000.0,
                 "zipCode": "60462"
             },
@@ -6903,8 +6912,17 @@
     },
     {
         "committee": "35501",
-        "totalContributions": 103675.0,
+        "totalContributions": 123675.0,
         "contributions": [
+            {
+                "firstName": "Yolanda",
+                "lastName": "Sayre",
+                "date": "2022-06-15 00:00:00",
+                "amount": 20000.0,
+                "occupation": "Attorney",
+                "employer": "City of Chicago/Self",
+                "zipCode": "60680"
+            },
             {
                 "firstName": "Cheryl",
                 "lastName": "Fitzpatrick",
@@ -7020,7 +7038,7 @@
                 "lastName": "Sayre",
                 "occupation": "Attorney",
                 "employer": "City of Chicago/Self",
-                "aggregateAmount": 100000.0,
+                "aggregateAmount": 120000.0,
                 "zipCode": "60680"
             },
             {
@@ -12832,8 +12850,17 @@
     },
     {
         "committee": "37090",
-        "totalContributions": 37360.0,
+        "totalContributions": 46360.0,
         "contributions": [
+            {
+                "firstName": "Chloe",
+                "lastName": "Pedersen",
+                "date": "2022-06-16 00:00:00",
+                "amount": 9000.0,
+                "occupation": "Lawyer",
+                "employer": "Fletcher & Sippel LLC",
+                "zipCode": "60546"
+            },
             {
                 "firstName": "Lane",
                 "lastName": "Brady",
@@ -13210,7 +13237,7 @@
                 "lastName": "Pedersen",
                 "occupation": "Lawyer",
                 "employer": "Fletcher & Sippel LLC",
-                "aggregateAmount": 13000.0,
+                "aggregateAmount": 22000.0,
                 "zipCode": "60546"
             },
             {
@@ -13249,8 +13276,134 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 467938.71,
+        "totalContributions": 513938.71,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Architectural & Ornamental Iron Wokers Local 63 IPAL Fund",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60155"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Fire Fighters Union Local 2",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60609"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Fire Fighters Union Local 2",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60609"
+            },
+            {
+                "firstName": "",
+                "lastName": "Teamsters Local Union Fund No 731",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "IBEW Illinois PAC",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
+            {
+                "firstName": "",
+                "lastName": "Public Sector Solutions LLC",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "",
+                "lastName": "CQ Strategies & Consulting LLC",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago & Cook County Building & Construction",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sheet Metal Workers' International Association Local Union No. 73",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60162"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sheet Metal Workers' International Association Local Union No. 73",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60162"
+            },
+            {
+                "firstName": "",
+                "lastName": "Painters District Council #14 PAC",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "",
+                "lastName": "Local 444 IPAL Fund - Ironworkers Local",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60436"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Luster",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "lobbyist",
+                "employer": "GR Consulting Illinois",
+                "zipCode": "62704"
+            },
+            {
+                "firstName": "Art",
+                "lastName": "Turner, Jr",
+                "date": "2022-06-15 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Lobbyist",
+                "employer": "GR Consulting Illinois",
+                "zipCode": "62704"
+            },
             {
                 "firstName": "",
                 "lastName": "People for Emanuel Chris Welch",
@@ -14540,8 +14693,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 173818.7,
+        "totalContributions": 174850.76,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1032.06,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -15206,7 +15368,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 69118.7,
+                "aggregateAmount": 70150.76,
                 "zipCode": "60615"
             },
             {
@@ -19852,8 +20014,17 @@
     },
     {
         "committee": "35789",
-        "totalContributions": 1900.0,
+        "totalContributions": 2900.0,
         "contributions": [
+            {
+                "firstName": "Kent",
+                "lastName": "Sinson",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Patrick",
                 "lastName": "Salvi",
@@ -19899,6 +20070,14 @@
                 "employer": "Salvi, Schostok & Pritchard P.C.",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60601"
+            },
+            {
+                "firstName": "Kent",
+                "lastName": "Sinson",
+                "occupation": "Lawyer",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60602"
             },
             {
                 "firstName": "Steve",
@@ -21046,8 +21225,53 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 226332.44000000006,
+        "totalContributions": 234542.44000000006,
         "contributions": [
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1180.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1830.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-06-15 00:00:00",
+                "amount": 1200.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-06-15 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-06-15 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
             {
                 "firstName": "James",
                 "lastName": "Gleffe",
@@ -23589,19 +23813,11 @@
         ],
         "topDonors": [
             {
-                "firstName": "Kristen",
-                "lastName": "Bauer",
-                "occupation": "KBauer Consulting, Inc.",
-                "employer": "Self",
-                "aggregateAmount": 48943.46,
-                "zipCode": "60464"
-            },
-            {
                 "firstName": "James",
                 "lastName": "Gleffe",
                 "occupation": "Attorney",
                 "employer": "Cook County",
-                "aggregateAmount": 46915.76,
+                "aggregateAmount": 51125.76,
                 "zipCode": "60464"
             },
             {
@@ -23609,7 +23825,15 @@
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 45522.22,
+                "aggregateAmount": 49522.22,
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Bauer",
+                "occupation": "KBauer Consulting, Inc.",
+                "employer": "Self",
+                "aggregateAmount": 48943.46,
                 "zipCode": "60464"
             },
             {
