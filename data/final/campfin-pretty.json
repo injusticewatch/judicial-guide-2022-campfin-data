@@ -14668,8 +14668,17 @@
     },
     {
         "committee": "34246",
-        "totalContributions": 25000.0,
+        "totalContributions": 50000.0,
         "contributions": [
+            {
+                "firstName": "Jenetia",
+                "lastName": "Marshall",
+                "date": "2022-06-14 00:00:00",
+                "amount": 25000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County Public Guardian",
+                "zipCode": "60637"
+            },
             {
                 "firstName": "Jenetia",
                 "lastName": "Marshall",
@@ -14686,7 +14695,7 @@
                 "lastName": "Marshall",
                 "occupation": "Attorney",
                 "employer": "Cook County Public Guardian",
-                "aggregateAmount": 25000.0,
+                "aggregateAmount": 50000.0,
                 "zipCode": "60637"
             }
         ]
