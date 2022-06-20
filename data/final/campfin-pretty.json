@@ -16201,8 +16201,17 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 48000.0,
+        "totalContributions": 49000.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Swap Motors LLC",
+                "date": "2022-06-19 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60077"
+            },
             {
                 "firstName": "",
                 "lastName": "Chicago Latino PAC",
