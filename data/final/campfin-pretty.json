@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 109570.04,
+        "totalContributions": 113570.04,
         "contributions": [
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2022-06-22 00:00:00",
+                "amount": 4000.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "",
                 "lastName": "Odelson Sterk Murphey Frazier McGrath",
@@ -154,7 +163,7 @@
                 "lastName": "Hartigan",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 102070.04,
+                "aggregateAmount": 106070.04,
                 "zipCode": "60558"
             },
             {
@@ -1150,8 +1159,17 @@
     },
     {
         "committee": "36935",
-        "totalContributions": 113490.0,
+        "totalContributions": 114490.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Kavney + Kroll",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Beth",
                 "lastName": "Burk",
@@ -6765,8 +6783,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 195200.0,
+        "totalContributions": 215200.0,
         "contributions": [
+            {
+                "firstName": "Beth",
+                "lastName": "Ryan",
+                "date": "2022-06-22 00:00:00",
+                "amount": 20000.0,
+                "occupation": "attorney",
+                "employer": "Law Office of Elizabeth C. Ryan",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "",
                 "lastName": "The Law Offices of John Kelly P.C.",
@@ -6936,7 +6963,7 @@
                 "lastName": "Ryan",
                 "occupation": "attorney",
                 "employer": "Law Office of Elizabeth C. Ryan",
-                "aggregateAmount": 170000.0,
+                "aggregateAmount": 190000.0,
                 "zipCode": "60646"
             },
             {
@@ -11944,8 +11971,17 @@
     },
     {
         "committee": "36982",
-        "totalContributions": 114320.0,
+        "totalContributions": 115320.0,
         "contributions": [
+            {
+                "firstName": "Louis",
+                "lastName": "Vitullo",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "Retired",
+                "zipCode": "60026"
+            },
             {
                 "firstName": "",
                 "lastName": "Lyons Democratic Organization",
@@ -12694,8 +12730,17 @@
     },
     {
         "committee": "34284",
-        "totalContributions": 40791.26,
+        "totalContributions": 42261.26,
         "contributions": [
+            {
+                "firstName": "Philip",
+                "lastName": "Nawrocki",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1470.0,
+                "occupation": "Sr. Web Applications Analyst",
+                "employer": "Lurie Children's Foundation",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Philip",
                 "lastName": "Nawrocki",
@@ -12829,7 +12874,7 @@
                 "lastName": "Nawrocki",
                 "occupation": "Sr. Web Applications Analyst",
                 "employer": "Lurie Children's Foundation",
-                "aggregateAmount": 40791.26,
+                "aggregateAmount": 42261.26,
                 "zipCode": "60558"
             }
         ]
@@ -13339,8 +13384,161 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 513938.71,
+        "totalContributions": 535938.71,
         "contributions": [
+            {
+                "firstName": "Mark",
+                "lastName": "Prince",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "Lawrence",
+                "lastName": "Disparti",
+                "date": "2022-06-17 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Disparti Law Group",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Conway",
+                "date": "2022-06-17 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney Conway",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Rogers Jr",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Powers Rogers LLP",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard PC",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Keith",
+                "lastName": "Hebeisen",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Dudley",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Dudley & Lake",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Power",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Powers Rogers LLC",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Romanucci & Blandin",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Houlihan",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Powers Rogers & Smith",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Perry",
+                "lastName": "Browder",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Simmons Hanly Conroy",
+                "zipCode": "62002"
+            },
+            {
+                "firstName": "Colin",
+                "lastName": "Dunn",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Dunn Harrington",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Cooney",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney Conway",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Randy",
+                "lastName": "Cohn",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Simmons Hanly Conroy",
+                "zipCode": "62002"
+            },
+            {
+                "firstName": "Shawn",
+                "lastName": "Kasserman",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Tomasik Kotin Kasserman",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Napleton",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Motheway & Napleton",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Corboy",
+                "date": "2022-06-17 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Corboy & Demetrio",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "",
                 "lastName": "Architectural & Ornamental Iron Wokers Local 63 IPAL Fund",
@@ -19609,8 +19807,17 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 111250.0,
+        "totalContributions": 112250.0,
         "contributions": [
+            {
+                "firstName": "Carson",
+                "lastName": "Greene",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "34134"
+            },
             {
                 "firstName": "Donald",
                 "lastName": "Olson",
