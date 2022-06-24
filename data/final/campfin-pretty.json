@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 113570.04,
+        "totalContributions": 114782.46999999999,
         "contributions": [
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1212.43,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Russell",
                 "lastName": "Hartigan",
@@ -163,7 +172,7 @@
                 "lastName": "Hartigan",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 106070.04,
+                "aggregateAmount": 107282.46999999999,
                 "zipCode": "60558"
             },
             {
@@ -9499,8 +9508,26 @@
     },
     {
         "committee": "37044",
-        "totalContributions": 152085.14,
+        "totalContributions": 154085.14,
         "contributions": [
+            {
+                "firstName": "Joseph",
+                "lastName": "Balesteri",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Rogers Jr",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60605"
+            },
             {
                 "firstName": "Kerry",
                 "lastName": "Peck",
@@ -10420,8 +10447,35 @@
     },
     {
         "committee": "37138",
-        "totalContributions": 32000.0,
+        "totalContributions": 42500.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Rosa Galvan-Silva D.D.S",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60473"
+            },
+            {
+                "firstName": "Rosa",
+                "lastName": "Galvan-Silva",
+                "date": "2022-06-22 00:00:00",
+                "amount": 6000.0,
+                "occupation": "Dentist",
+                "employer": "Rosa Galvan-Silva D.D.S.",
+                "zipCode": "60422"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Federation of Labor & Industrial Union Council PAC",
+                "date": "2022-06-22 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "",
                 "lastName": "Chicago and Cook County Building and Construction Trades Council",
@@ -10537,7 +10591,7 @@
                 "lastName": "Rosa Galvan-Silva D.D.S",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 10000.0,
+                "aggregateAmount": 11500.0,
                 "zipCode": "60473"
             },
             {
@@ -10549,6 +10603,14 @@
                 "zipCode": "60130"
             },
             {
+                "firstName": "Rosa",
+                "lastName": "Galvan-Silva",
+                "occupation": "Dentist",
+                "employer": "Rosa Galvan-Silva D.D.S.",
+                "aggregateAmount": 6000.0,
+                "zipCode": "60422"
+            },
+            {
                 "firstName": "",
                 "lastName": "Ironworkers District Council Of Chicago & Vicinity- PAC",
                 "occupation": "",
@@ -10558,19 +10620,11 @@
             },
             {
                 "firstName": "",
-                "lastName": "SKN Trial Attorneys  Law Offices of Stephanie K. Nathanson",
+                "lastName": "Chicago Federation of Labor & Industrial Union Council PAC",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60602"
-            },
-            {
-                "firstName": "Stephanie",
-                "lastName": "Nathanson",
-                "occupation": "Lawyer",
-                "employer": "Law Offices of Stephanie K. Nathanson",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60611"
+                "aggregateAmount": 3000.0,
+                "zipCode": "60601"
             }
         ]
     },
@@ -12730,8 +12784,17 @@
     },
     {
         "committee": "34284",
-        "totalContributions": 42261.26,
+        "totalContributions": 49261.26,
         "contributions": [
+            {
+                "firstName": "Philip",
+                "lastName": "Nawrocki",
+                "date": "2022-06-23 00:00:00",
+                "amount": 7000.0,
+                "occupation": "Sr. Web Applications Analyst",
+                "employer": "Lurie Children's Foundation",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Philip",
                 "lastName": "Nawrocki",
@@ -12874,7 +12937,7 @@
                 "lastName": "Nawrocki",
                 "occupation": "Sr. Web Applications Analyst",
                 "employer": "Lurie Children's Foundation",
-                "aggregateAmount": 42261.26,
+                "aggregateAmount": 49261.26,
                 "zipCode": "60558"
             }
         ]
@@ -13384,8 +13447,35 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 535938.71,
+        "totalContributions": 546938.71,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Democratic Organization of Lyons",
+                "date": "2022-06-21 00:00:00",
+                "amount": 7000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60501"
+            },
+            {
+                "firstName": "",
+                "lastName": "SEIU HealthCare IL IN PAC",
+                "date": "2022-06-21 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "",
+                "lastName": "Ironworkers District Council of Chicago & Vicinity PAC",
+                "date": "2022-06-21 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
+            },
             {
                 "firstName": "Mark",
                 "lastName": "Prince",
@@ -16043,8 +16133,17 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 32018.75,
+        "totalContributions": 33018.75,
         "contributions": [
+            {
+                "firstName": "Rosalyn",
+                "lastName": "Turner",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60623"
+            },
             {
                 "firstName": "",
                 "lastName": "Midway Business Broker",
@@ -16361,6 +16460,14 @@
                 "zipCode": "62704"
             },
             {
+                "firstName": "Rosalyn",
+                "lastName": "Turner",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60623"
+            },
+            {
                 "firstName": "Pamela",
                 "lastName": "Reeves-Harris",
                 "occupation": "Cook County Judge",
@@ -16375,14 +16482,6 @@
                 "employer": "",
                 "aggregateAmount": 1400.0,
                 "zipCode": "60181"
-            },
-            {
-                "firstName": "Paul J.",
-                "lastName": "Adams",
-                "occupation": "President",
-                "employer": "Providence St. Mel High School",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60624"
             }
         ]
     },
@@ -16462,8 +16561,17 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 49000.0,
+        "totalContributions": 50300.0,
         "contributions": [
+            {
+                "firstName": "Jacob",
+                "lastName": "Miller",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1300.0,
+                "occupation": "Attorney",
+                "employer": "Self",
+                "zipCode": "60606"
+            },
             {
                 "firstName": "",
                 "lastName": "Swap Motors LLC",
@@ -18741,8 +18849,17 @@
     },
     {
         "committee": "35720",
-        "totalContributions": 155200.0,
+        "totalContributions": 195200.0,
         "contributions": [
+            {
+                "firstName": "DON",
+                "lastName": "Sampen",
+                "date": "2022-06-21 00:00:00",
+                "amount": 40000.0,
+                "occupation": "Attorney",
+                "employer": "Clausen Miller, P.C.",
+                "zipCode": "60712"
+            },
             {
                 "firstName": "DON",
                 "lastName": "Sampen",
@@ -18822,7 +18939,7 @@
                 "lastName": "Sampen",
                 "occupation": "Attorney",
                 "employer": "Clausen Miller, P.C.",
-                "aggregateAmount": 155000.0,
+                "aggregateAmount": 195000.0,
                 "zipCode": "60712"
             },
             {
