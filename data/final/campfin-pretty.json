@@ -15053,8 +15053,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 174850.76,
+        "totalContributions": 176850.76,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-06-23 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -15728,7 +15737,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 70150.76,
+                "aggregateAmount": 72150.76,
                 "zipCode": "60615"
             },
             {
@@ -16561,8 +16570,17 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 50300.0,
+        "totalContributions": 51300.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Safe Suburbs USA PAC",
+                "date": "2022-06-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60566"
+            },
             {
                 "firstName": "Jacob",
                 "lastName": "Miller",
@@ -19890,8 +19908,17 @@
     },
     {
         "committee": "25470",
-        "totalContributions": 53500.0,
+        "totalContributions": 75763.48,
         "contributions": [
+            {
+                "firstName": "Gary",
+                "lastName": "Seyring",
+                "date": "2022-06-21 00:00:00",
+                "amount": 22263.48,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60193"
+            },
             {
                 "firstName": "Gary",
                 "lastName": "Seyring",
@@ -19917,7 +19944,7 @@
                 "lastName": "Seyring",
                 "occupation": "Attorney",
                 "employer": "self",
-                "aggregateAmount": 53500.0,
+                "aggregateAmount": 75763.48,
                 "zipCode": "60193"
             }
         ]
@@ -20505,8 +20532,17 @@
     },
     {
         "committee": "37042",
-        "totalContributions": 23477.5,
+        "totalContributions": 31987.79,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Chuy Garcia for Congress",
+                "date": "2022-06-23 00:00:00",
+                "amount": 8510.29,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60160"
+            },
             {
                 "firstName": "",
                 "lastName": "Executive Consultants United, LLC DBA EC-United",
@@ -20906,6 +20942,14 @@
         ],
         "topDonors": [
             {
+                "firstName": "",
+                "lastName": "Chuy Garcia for Congress",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 8510.29,
+                "zipCode": "60160"
+            },
+            {
                 "firstName": "Viviana",
                 "lastName": "Martinez",
                 "occupation": "Attorney",
@@ -20936,14 +20980,6 @@
                 "employer": "",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60623"
-            },
-            {
-                "firstName": "",
-                "lastName": "Friends of Aaron Ortiz",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60632"
             }
         ]
     },
