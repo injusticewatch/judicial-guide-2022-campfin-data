@@ -2116,8 +2116,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 228200.0,
+        "totalContributions": 233200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-25 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2359,7 +2368,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 217500.0,
+                "aggregateAmount": 222500.0,
                 "zipCode": "60611"
             },
             {
@@ -7212,8 +7221,188 @@
     },
     {
         "committee": "36738",
-        "totalContributions": 529932.3200000001,
+        "totalContributions": 558682.3200000001,
         "contributions": [
+            {
+                "firstName": "Larry",
+                "lastName": "Rogers",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rodgers Smith",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Power",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers Smith",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Ben",
+                "lastName": "Crane",
+                "date": "2022-06-25 00:00:00",
+                "amount": 6000.0,
+                "occupation": "Attorney",
+                "employer": "Coplan & Crane",
+                "zipCode": "60301"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Keefe",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Keefe, Keefe & Unsell",
+                "zipCode": "62226"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Siracusa",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers, LLP",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Curcio",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Curio Law Offices",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Todd",
+                "lastName": "Smith",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Smith Lacien LLP",
+                "zipCode": "60657"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Cooney",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney & Conway",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Clifford",
+                "date": "2022-06-25 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Office",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Salvi Schostok & Pritchard",
+                "zipCode": "60085"
+            },
+            {
+                "firstName": "Keith",
+                "lastName": "Hebeisen",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Office",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Power",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Devon",
+                "lastName": "Bruce",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1250.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Bradley",
+                "lastName": "Pollock",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "TPMB, LLC",
+                "zipCode": "60187"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Romanucci & Blandin, LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Lawrence",
+                "lastName": "Disparti",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Disparti Law Group",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Conway",
+                "date": "2022-06-25 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney & Conway",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Balesteri",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Ram",
+                "lastName": "Villivalam",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "State of Illinois",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "Pat",
+                "lastName": "Salvi",
+                "date": "2022-06-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi Schostock Pritchard",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Maria",
                 "lastName": "Ciesil",
@@ -7854,28 +8043,28 @@
                 "zipCode": "60201"
             },
             {
-                "firstName": "Shanthi & Chandy",
-                "lastName": "Samuel",
-                "occupation": "retired",
-                "employer": "retired",
-                "aggregateAmount": 1000.0,
-                "zipCode": "67156"
-            },
-            {
-                "firstName": "Tim",
-                "lastName": "Tomasik",
+                "firstName": "Ben",
+                "lastName": "Crane",
                 "occupation": "Attorney",
-                "employer": "Self",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60601"
+                "employer": "Coplan & Crane",
+                "aggregateAmount": 6000.0,
+                "zipCode": "60301"
             },
             {
-                "firstName": "James",
-                "lastName": "Shapiro",
-                "occupation": "Judge",
-                "employer": "State of Illinois",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60613"
+                "firstName": "Larry",
+                "lastName": "Rogers",
+                "occupation": "Attorney",
+                "employer": "Power Rodgers Smith",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Power",
+                "occupation": "Attorney",
+                "employer": "Power Rogers Smith",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60602"
             }
         ]
     },
@@ -14269,8 +14458,26 @@
     },
     {
         "committee": "34313",
-        "totalContributions": 68928.0,
+        "totalContributions": 70928.0,
         "contributions": [
+            {
+                "firstName": "Dr. Ogbonna",
+                "lastName": "Bowdon",
+                "date": "2022-06-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Dentist",
+                "employer": "Self-employed",
+                "zipCode": "60637"
+            },
+            {
+                "firstName": "Tonya",
+                "lastName": "Primus",
+                "date": "2022-06-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Self-employed",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Stephanie",
                 "lastName": "Nathanson",
