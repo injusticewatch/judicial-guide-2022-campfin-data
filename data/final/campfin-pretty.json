@@ -1,8 +1,17 @@
 [
     {
         "committee": "37023",
-        "totalContributions": 114782.46999999999,
+        "totalContributions": 115782.46999999999,
         "contributions": [
+            {
+                "firstName": "Perry",
+                "lastName": "Browder",
+                "date": "2022-06-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60025"
+            },
             {
                 "firstName": "Russell",
                 "lastName": "Hartigan",
@@ -2116,8 +2125,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 233200.0,
+        "totalContributions": 234200.0,
         "contributions": [
+            {
+                "firstName": "Stephen",
+                "lastName": "D'Amore",
+                "date": "2022-06-28 00:00:00",
+                "amount": 1000.0,
+                "occupation": "attorney",
+                "employer": "Winston & Strawn, LLP",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -8915,8 +8933,17 @@
     },
     {
         "committee": "31848",
-        "totalContributions": 28249.350000000002,
+        "totalContributions": 30249.350000000002,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "OWENS AND ROBINSON",
+                "date": "2022-06-27 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "CHELSEY R.",
                 "lastName": "ROBINSON",
@@ -9096,6 +9123,14 @@
                 "employer": "",
                 "aggregateAmount": 10465.0,
                 "zipCode": "60429"
+            },
+            {
+                "firstName": "",
+                "lastName": "OWENS AND ROBINSON",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60601"
             }
         ]
     },
@@ -13672,8 +13707,26 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 546938.71,
+        "totalContributions": 566938.71,
         "contributions": [
+            {
+                "firstName": "Denise",
+                "lastName": "Hoeflich",
+                "date": "2022-06-23 00:00:00",
+                "amount": 10000.0,
+                "occupation": "Actor",
+                "employer": "Self-employed",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Teamsters Volunteers in Politics",
+                "date": "2022-06-23 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60480"
+            },
             {
                 "firstName": "",
                 "lastName": "Democratic Organization of Lyons",
@@ -16385,8 +16438,17 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 33018.75,
+        "totalContributions": 61584.509999999995,
         "contributions": [
+            {
+                "firstName": "Owens J.",
+                "lastName": "Shelby",
+                "date": "2022-06-27 00:00:00",
+                "amount": 28565.76,
+                "occupation": "Prosecutor",
+                "employer": "State of Illinois",
+                "zipCode": "60305"
+            },
             {
                 "firstName": "Rosalyn",
                 "lastName": "Turner",
@@ -16700,7 +16762,7 @@
                 "lastName": "Shelby",
                 "occupation": "Prosecutor",
                 "employer": "State of Illinois",
-                "aggregateAmount": 14368.75,
+                "aggregateAmount": 42934.509999999995,
                 "zipCode": "60305"
             },
             {
@@ -17194,8 +17256,17 @@
     },
     {
         "committee": "37012",
-        "totalContributions": 84331.28,
+        "totalContributions": 85831.28,
         "contributions": [
+            {
+                "firstName": "Marc",
+                "lastName": "Taxman",
+                "date": "2022-06-27 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Taxman, Pollock, Murray & Bekkerman, LLC",
+                "zipCode": "60606"
+            },
             {
                 "firstName": "Samuel",
                 "lastName": "Bae",
@@ -17384,12 +17455,12 @@
                 "zipCode": "60602"
             },
             {
-                "firstName": "Timothy",
-                "lastName": "Deffet",
+                "firstName": "Marc",
+                "lastName": "Taxman",
                 "occupation": "Attorney",
-                "employer": "The Law Office of Timothy Deffet",
-                "aggregateAmount": 1200.0,
-                "zipCode": "60659"
+                "employer": "Taxman, Pollock, Murray & Bekkerman, LLC",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60606"
             }
         ]
     },
@@ -19215,8 +19286,17 @@
     },
     {
         "committee": "25937",
-        "totalContributions": 66240.0,
+        "totalContributions": 67740.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Riteway-Huggins Construction",
+                "date": "2022-06-27 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60619"
+            },
             {
                 "firstName": "",
                 "lastName": "Sal S Hand Car Wash",
