@@ -13707,8 +13707,62 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 566938.71,
+        "totalContributions": 666938.71,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "LIUNA Chicago Laborers' District Council PAC",
+                "date": "2022-06-24 00:00:00",
+                "amount": 20000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Laborers' Political League Great Lakes Region",
+                "date": "2022-06-24 00:00:00",
+                "amount": 20000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60631"
+            },
+            {
+                "firstName": "",
+                "lastName": "Plumbers Local 130, UA",
+                "date": "2022-06-24 00:00:00",
+                "amount": 20000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "",
+                "lastName": "IUOE Local 399 Political Education Fund",
+                "date": "2022-06-24 00:00:00",
+                "amount": 20000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
+            {
+                "firstName": "",
+                "lastName": "IUOE Local 150 Local Area PAC",
+                "date": "2022-06-24 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60525"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chicago Land Operators Joint Labor Management PAC",
+                "date": "2022-06-24 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60525"
+            },
             {
                 "firstName": "Denise",
                 "lastName": "Hoeflich",
@@ -14493,19 +14547,19 @@
             },
             {
                 "firstName": "",
+                "lastName": "LIUNA Chicago Laborers' District Council PAC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 40000.0,
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
                 "lastName": "Chicagoland Operators Joint Labor Management PAC",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 27000.0,
                 "zipCode": "60625"
-            },
-            {
-                "firstName": "",
-                "lastName": "Citizens for Elizabeth Hernandez",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 25000.0,
-                "zipCode": "60804"
             }
         ]
     },
@@ -16120,8 +16174,17 @@
     },
     {
         "committee": "37447",
-        "totalContributions": 62000.0,
+        "totalContributions": 64500.0,
         "contributions": [
+            {
+                "firstName": "Jackie",
+                "lastName": "Portman-Brown",
+                "date": "2022-06-22 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60653"
+            },
             {
                 "firstName": "Paulette",
                 "lastName": "Dukes",
@@ -16152,20 +16215,20 @@
         ],
         "topDonors": [
             {
+                "firstName": "Jackie",
+                "lastName": "Portman-Brown",
+                "occupation": "Attorney",
+                "employer": "self",
+                "aggregateAmount": 32500.0,
+                "zipCode": "60653"
+            },
+            {
                 "firstName": "",
                 "lastName": "Fifth Third Bank",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 30000.0,
                 "zipCode": "60620"
-            },
-            {
-                "firstName": "Jackie",
-                "lastName": "Portman-Brown",
-                "occupation": "Attorney",
-                "employer": "self",
-                "aggregateAmount": 30000.0,
-                "zipCode": "60653"
             },
             {
                 "firstName": "Paulette",
@@ -21998,8 +22061,17 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 234542.44000000006,
+        "totalContributions": 241682.44000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-06-24 00:00:00",
+                "amount": 7140.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
             {
                 "firstName": "James",
                 "lastName": "Gleffe",
@@ -24586,19 +24658,19 @@
         ],
         "topDonors": [
             {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 56662.22,
+                "zipCode": "60464"
+            },
+            {
                 "firstName": "James",
                 "lastName": "Gleffe",
                 "occupation": "Attorney",
                 "employer": "Cook County",
                 "aggregateAmount": 51125.76,
-                "zipCode": "60464"
-            },
-            {
-                "firstName": "",
-                "lastName": "KBauer Consulting, Inc.",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 49522.22,
                 "zipCode": "60464"
             },
             {
