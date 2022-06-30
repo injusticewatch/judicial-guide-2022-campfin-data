@@ -2125,8 +2125,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 234200.0,
+        "totalContributions": 239200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-29 00:00:00",
+                "amount": 5000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Stephen",
                 "lastName": "D'Amore",
@@ -2386,7 +2395,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 222500.0,
+                "aggregateAmount": 227500.0,
                 "zipCode": "60611"
             },
             {
@@ -6260,7 +6269,7 @@
     },
     {
         "committee": "37005",
-        "totalContributions": 52291.11,
+        "totalContributions": 54391.11,
         "contributions": [
             {
                 "firstName": "Monica",
@@ -6326,12 +6335,48 @@
                 "zipCode": "60643"
             },
             {
+                "firstName": "Marla",
+                "lastName": "Kaiden",
+                "date": "2022-03-28 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Marla",
+                "lastName": "Kaiden",
+                "date": "2022-03-28 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
                 "firstName": "Monica",
                 "lastName": "Somerville",
                 "date": "2022-03-10 00:00:00",
                 "amount": 50.0,
                 "occupation": "Retired",
                 "employer": "Retired",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Terry",
+                "lastName": "Brown",
+                "date": "2022-02-08 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Terry",
+                "lastName": "Brown",
+                "date": "2022-02-08 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
                 "zipCode": "60643"
             },
             {
@@ -6360,6 +6405,78 @@
                 "occupation": "Retired",
                 "employer": "Retired",
                 "zipCode": "60643"
+            },
+            {
+                "firstName": "Iris",
+                "lastName": "Fisher",
+                "date": "2022-01-17 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60655"
+            },
+            {
+                "firstName": "Iris",
+                "lastName": "Fisher",
+                "date": "2022-01-17 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60655"
+            },
+            {
+                "firstName": "",
+                "lastName": "Beverly Volleyball Club",
+                "date": "2022-01-16 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Steven & Paula",
+                "lastName": "Golden",
+                "date": "2022-01-16 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60615"
+            },
+            {
+                "firstName": "Luke & Donna",
+                "lastName": "Somerville",
+                "date": "2022-01-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Patricia",
+                "lastName": "Walsh",
+                "date": "2022-01-15 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Carolyn",
+                "lastName": "Somerville",
+                "date": "2022-01-12 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Carolyn",
+                "lastName": "Somerville",
+                "date": "2022-01-12 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
             },
             {
                 "firstName": "Barbara",
@@ -6855,8 +6972,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 215200.0,
+        "totalContributions": 216200.0,
         "contributions": [
+            {
+                "firstName": "Tom",
+                "lastName": "Stapka",
+                "date": "2022-06-28 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Owner",
+                "employer": "Chi-Town Printing Inc",
+                "zipCode": "60630"
+            },
             {
                 "firstName": "Beth",
                 "lastName": "Ryan",
@@ -13707,8 +13833,26 @@
     },
     {
         "committee": "37152",
-        "totalContributions": 666938.71,
+        "totalContributions": 717938.71,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Personal PAC",
+                "date": "2022-06-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "The People For Emmanuel (Chris) Welch",
+                "date": "2022-06-27 00:00:00",
+                "amount": 50000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60154"
+            },
             {
                 "firstName": "",
                 "lastName": "LIUNA Chicago Laborers' District Council PAC",
@@ -14547,19 +14691,19 @@
             },
             {
                 "firstName": "",
+                "lastName": "The People For Emmanuel (Chris) Welch",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 50000.0,
+                "zipCode": "60154"
+            },
+            {
+                "firstName": "",
                 "lastName": "LIUNA Chicago Laborers' District Council PAC",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 40000.0,
                 "zipCode": "60527"
-            },
-            {
-                "firstName": "",
-                "lastName": "Chicagoland Operators Joint Labor Management PAC",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 27000.0,
-                "zipCode": "60625"
             }
         ]
     },
@@ -20294,8 +20438,17 @@
     },
     {
         "committee": "25470",
-        "totalContributions": 75763.48,
+        "totalContributions": 78063.48,
         "contributions": [
+            {
+                "firstName": "Gary",
+                "lastName": "Seyring",
+                "date": "2022-06-25 00:00:00",
+                "amount": 2300.0,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60193"
+            },
             {
                 "firstName": "Gary",
                 "lastName": "Seyring",
@@ -20330,7 +20483,7 @@
                 "lastName": "Seyring",
                 "occupation": "Attorney",
                 "employer": "self",
-                "aggregateAmount": 75763.48,
+                "aggregateAmount": 78063.48,
                 "zipCode": "60193"
             }
         ]
