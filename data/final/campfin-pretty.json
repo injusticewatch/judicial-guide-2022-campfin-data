@@ -2125,8 +2125,26 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 239200.0,
+        "totalContributions": 250200.0,
         "contributions": [
+            {
+                "firstName": "Raymond",
+                "lastName": "Mitchell",
+                "date": "2022-06-30 00:00:00",
+                "amount": 10000.0,
+                "occupation": "judge",
+                "employer": "State of Illinois",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Terrence",
+                "lastName": "LeFevour",
+                "date": "2022-06-30 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60091"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2395,7 +2413,7 @@
                 "lastName": "Mitchell",
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 227500.0,
+                "aggregateAmount": 237500.0,
                 "zipCode": "60611"
             },
             {
@@ -3226,8 +3244,26 @@
     },
     {
         "committee": "17003",
-        "totalContributions": 258825.0,
+        "totalContributions": 262825.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "JB for Governor",
+                "date": "2022-06-30 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60690"
+            },
+            {
+                "firstName": "",
+                "lastName": "Mid American Carpenters Regional Council PAC",
+                "date": "2022-06-30 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611-2796"
+            },
             {
                 "firstName": "Donald J.",
                 "lastName": "Allen",
@@ -4489,6 +4525,14 @@
                 "zipCode": "60659"
             },
             {
+                "firstName": "",
+                "lastName": "JB for Governor",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 6500.0,
+                "zipCode": "60690"
+            },
+            {
                 "firstName": "Bob",
                 "lastName": "Crane",
                 "occupation": "Attorney/Partner",
@@ -4503,14 +4547,6 @@
                 "employer": "None",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60035"
-            },
-            {
-                "firstName": "",
-                "lastName": "JB for Governor",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 5000.0,
-                "zipCode": "60690"
             }
         ]
     },
@@ -6972,8 +7008,17 @@
     },
     {
         "committee": "35444",
-        "totalContributions": 216200.0,
+        "totalContributions": 229200.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Elect Judge Mitchell",
+                "date": "2022-06-30 00:00:00",
+                "amount": 13000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "Tom",
                 "lastName": "Stapka",
@@ -7166,6 +7211,14 @@
             },
             {
                 "firstName": "",
+                "lastName": "Elect Judge Mitchell",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 16500.0,
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "",
                 "lastName": "Daniel Walsh Revocable Trust",
                 "occupation": "",
                 "employer": "",
@@ -7179,14 +7232,6 @@
                 "employer": "Walsh Group",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60527"
-            },
-            {
-                "firstName": "",
-                "lastName": "Elect Judge Mitchell",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 3500.0,
-                "zipCode": "60646"
             },
             {
                 "firstName": "Tim",
@@ -9894,8 +9939,17 @@
     },
     {
         "committee": "37044",
-        "totalContributions": 154085.14,
+        "totalContributions": 160085.14,
         "contributions": [
+            {
+                "firstName": "Linda",
+                "lastName": "Salvi",
+                "date": "2022-06-30 00:00:00",
+                "amount": 6000.0,
+                "occupation": "Fitness Instructor",
+                "employer": "Self",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Joseph",
                 "lastName": "Balesteri",
@@ -10833,8 +10887,17 @@
     },
     {
         "committee": "37138",
-        "totalContributions": 42500.0,
+        "totalContributions": 44000.0,
         "contributions": [
+            {
+                "firstName": "Angelina",
+                "lastName": "Briguglio",
+                "date": "2022-06-30 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Consultant",
+                "employer": "Unlimited Excellence Consulting",
+                "zipCode": "60647"
+            },
             {
                 "firstName": "",
                 "lastName": "Rosa Galvan-Silva D.D.S",
@@ -16567,8 +16630,80 @@
     },
     {
         "committee": "35459",
-        "totalContributions": 24700.0,
+        "totalContributions": 76200.0,
         "contributions": [
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-27 00:00:00",
+                "amount": 8000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-26 00:00:00",
+                "amount": 8000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-25 00:00:00",
+                "amount": 6000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-24 00:00:00",
+                "amount": 7000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-23 00:00:00",
+                "amount": 7000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-05-12 00:00:00",
+                "amount": 9500.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-04-29 00:00:00",
+                "amount": 4000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Marilyn",
+                "lastName": "Organ",
+                "date": "2022-04-13 00:00:00",
+                "amount": 2000.0,
+                "occupation": "RETIRED",
+                "employer": "RETIRED",
+                "zipCode": "60305"
+            },
             {
                 "firstName": "Marilyn",
                 "lastName": "Organ",
@@ -16630,7 +16765,7 @@
                 "lastName": "Organ",
                 "occupation": "RETIRED",
                 "employer": "RETIRED",
-                "aggregateAmount": 23500.0,
+                "aggregateAmount": 75000.0,
                 "zipCode": "60305"
             },
             {
@@ -22214,8 +22349,44 @@
     },
     {
         "committee": "36865",
-        "totalContributions": 241682.44000000006,
+        "totalContributions": 258682.44000000006,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "13th Ward Organization",
+                "date": "2022-06-28 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60629"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Gleffe",
+                "date": "2022-06-28 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Attorney",
+                "employer": "Cook County",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-06-28 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "",
+                "lastName": "KBauer Consulting, Inc.",
+                "date": "2022-06-28 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
             {
                 "firstName": "",
                 "lastName": "KBauer Consulting, Inc.",
@@ -24815,7 +24986,7 @@
                 "lastName": "KBauer Consulting, Inc.",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 56662.22,
+                "aggregateAmount": 60662.22,
                 "zipCode": "60464"
             },
             {
@@ -24823,7 +24994,7 @@
                 "lastName": "Gleffe",
                 "occupation": "Attorney",
                 "employer": "Cook County",
-                "aggregateAmount": 51125.76,
+                "aggregateAmount": 54125.76,
                 "zipCode": "60464"
             },
             {
