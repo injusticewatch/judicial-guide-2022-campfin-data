@@ -6305,8 +6305,17 @@
     },
     {
         "committee": "37005",
-        "totalContributions": 54391.11,
+        "totalContributions": 56091.11,
         "contributions": [
+            {
+                "firstName": "Monica",
+                "lastName": "Somerville",
+                "date": "2022-06-30 00:00:00",
+                "amount": 1700.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Monica",
                 "lastName": "Somerville",
@@ -6611,7 +6620,7 @@
                 "lastName": "Somerville",
                 "occupation": "Retired",
                 "employer": "Retired",
-                "aggregateAmount": 42741.11,
+                "aggregateAmount": 44441.11,
                 "zipCode": "60643"
             },
             {
@@ -21046,8 +21055,26 @@
     },
     {
         "committee": "35650",
-        "totalContributions": 7500.0,
+        "totalContributions": 16500.0,
         "contributions": [
+            {
+                "firstName": "Joe",
+                "lastName": "Gump",
+                "date": "2022-06-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired Public Defender",
+                "employer": "Retired - Cook County",
+                "zipCode": "60010"
+            },
+            {
+                "firstName": "Joe",
+                "lastName": "Gump",
+                "date": "2022-06-06 00:00:00",
+                "amount": 8000.0,
+                "occupation": "Retired Public Defender",
+                "employer": "Retired - Cook County",
+                "zipCode": "60010"
+            },
             {
                 "firstName": "Elizabeth",
                 "lastName": "Marcin",
@@ -21091,7 +21118,7 @@
                 "lastName": "Gump",
                 "occupation": "Retired Public Defender",
                 "employer": "Retired - Cook County",
-                "aggregateAmount": 6500.0,
+                "aggregateAmount": 15500.0,
                 "zipCode": "60010"
             },
             {
