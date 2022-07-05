@@ -2125,8 +2125,17 @@
     },
     {
         "committee": "22125",
-        "totalContributions": 250200.0,
+        "totalContributions": 251660.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Beth Ryan for Judge",
+                "date": "2022-07-04 00:00:00",
+                "amount": 1460.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "Raymond",
                 "lastName": "Mitchell",
@@ -2442,11 +2451,11 @@
             },
             {
                 "firstName": "",
-                "lastName": "Serafin and Associates, Inc.",
+                "lastName": "Beth Ryan for Judge",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60610"
+                "aggregateAmount": 1460.0,
+                "zipCode": "60646"
             }
         ]
     },
@@ -16915,8 +16924,17 @@
     },
     {
         "committee": "37236",
-        "totalContributions": 40555.0,
+        "totalContributions": 40755.0,
         "contributions": [
+            {
+                "firstName": "Steven",
+                "lastName": "Fruth",
+                "date": "2022-04-08 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60304"
+            },
             {
                 "firstName": "",
                 "lastName": "Del Galdo Law Group, LLC",
@@ -16952,6 +16970,14 @@
                 "employer": "",
                 "aggregateAmount": 555.0,
                 "zipCode": "60402"
+            },
+            {
+                "firstName": "Steven",
+                "lastName": "Fruth",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 200.0,
+                "zipCode": "60304"
             }
         ]
     },
@@ -17609,8 +17635,26 @@
     },
     {
         "committee": "37231",
-        "totalContributions": 78000.0,
+        "totalContributions": 80400.0,
         "contributions": [
+            {
+                "firstName": "Tom",
+                "lastName": "Hager",
+                "date": "2022-06-30 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60010"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "O'Malley",
+                "date": "2022-06-30 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60016"
+            },
             {
                 "firstName": "Francis",
                 "lastName": "Morrissey",
@@ -17621,13 +17665,76 @@
                 "zipCode": "60521"
             },
             {
+                "firstName": "Peter",
+                "lastName": "Heneghan",
+                "date": "2022-06-14 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60631"
+            },
+            {
+                "firstName": "Ronald",
+                "lastName": "Zelikow",
+                "date": "2022-06-14 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Bob",
+                "lastName": "Chicoine",
+                "date": "2022-06-10 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60513"
+            },
+            {
                 "firstName": "James",
                 "lastName": "McGing",
                 "date": "2022-06-07 00:00:00",
                 "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Miller & McGing",
+                "zipCode": "60631"
+            },
+            {
+                "firstName": "Margaret",
+                "lastName": "Tower",
+                "date": "2022-06-07 00:00:00",
+                "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60631"
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Bridget",
+                "lastName": "O Brien",
+                "date": "2022-06-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60004"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Chicoine",
+                "date": "2022-05-11 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60513"
+            },
+            {
+                "firstName": "Matt",
+                "lastName": "Rogina",
+                "date": "2022-04-17 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60546"
             },
             {
                 "firstName": "Pat",
@@ -17660,8 +17767,8 @@
             {
                 "firstName": "James",
                 "lastName": "McGing",
-                "occupation": "",
-                "employer": "",
+                "occupation": "Attorney",
+                "employer": "Miller & McGing",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60631"
             },
@@ -17672,6 +17779,22 @@
                 "employer": "Wise Morrissey LLC",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60521"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Chicoine",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 500.0,
+                "zipCode": "60513"
+            },
+            {
+                "firstName": "Margaret",
+                "lastName": "Tower",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 250.0,
+                "zipCode": "60025"
             }
         ]
     },
