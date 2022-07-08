@@ -13952,6 +13952,78 @@
                 "zipCode": "60610-5098"
             },
             {
+                "firstName": "Michael",
+                "lastName": "Garvey",
+                "date": "2022-05-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60513"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Panarese",
+                "date": "2022-05-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Albert",
+                "lastName": "Cacciottolo",
+                "date": "2022-05-17 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60638"
+            },
+            {
+                "firstName": "Jack",
+                "lastName": "McBride",
+                "date": "2022-05-17 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "McInerney",
+                "date": "2022-05-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60714"
+            },
+            {
+                "firstName": "Maribeth",
+                "lastName": "Marinich",
+                "date": "2022-05-17 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60525"
+            },
+            {
+                "firstName": "Tom",
+                "lastName": "Power",
+                "date": "2022-05-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Derek",
+                "lastName": "Martin",
+                "date": "2022-05-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60165"
+            },
+            {
                 "firstName": "George",
                 "lastName": "Grzeca",
                 "date": "2022-05-17 00:00:00",
@@ -14033,78 +14105,6 @@
                 "zipCode": "60025"
             },
             {
-                "firstName": "Michael",
-                "lastName": "Garvey",
-                "date": "2022-05-17 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60513"
-            },
-            {
-                "firstName": "Joseph",
-                "lastName": "Panarese",
-                "date": "2022-05-17 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60602"
-            },
-            {
-                "firstName": "Albert",
-                "lastName": "Cacciottolo",
-                "date": "2022-05-17 00:00:00",
-                "amount": 200.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60638"
-            },
-            {
-                "firstName": "Jack",
-                "lastName": "McBride",
-                "date": "2022-05-17 00:00:00",
-                "amount": 200.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60025"
-            },
-            {
-                "firstName": "Michael",
-                "lastName": "McInerney",
-                "date": "2022-05-17 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60714"
-            },
-            {
-                "firstName": "Maribeth",
-                "lastName": "Marinich",
-                "date": "2022-05-17 00:00:00",
-                "amount": 300.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60525"
-            },
-            {
-                "firstName": "Tom",
-                "lastName": "Power",
-                "date": "2022-05-17 00:00:00",
-                "amount": 500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60611"
-            },
-            {
-                "firstName": "Derek",
-                "lastName": "Martin",
-                "date": "2022-05-17 00:00:00",
-                "amount": 500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60165"
-            },
-            {
                 "firstName": "Amy",
                 "lastName": "Thompson",
                 "date": "2022-05-16 00:00:00",
@@ -14165,7 +14165,7 @@
                 "amount": 35000.0,
                 "occupation": "lawyer",
                 "employer": "Cook County Public Defender",
-                "zipCode": ""
+                "zipCode": "60527-4939"
             },
             {
                 "firstName": "Jerry",
@@ -14192,8 +14192,8 @@
                 "lastName": "Barrido",
                 "occupation": "lawyer",
                 "employer": "Cook County Public Defender",
-                "aggregateAmount": 42130.0,
-                "zipCode": ""
+                "aggregateAmount": 35000.0,
+                "zipCode": "60527-4939"
             },
             {
                 "firstName": "Brian",
@@ -14204,6 +14204,14 @@
                 "zipCode": "60563"
             },
             {
+                "firstName": "Jerry",
+                "lastName": "Barrido",
+                "occupation": "lawyer",
+                "employer": "Cook County Public Defender",
+                "aggregateAmount": 7130.0,
+                "zipCode": ""
+            },
+            {
                 "firstName": "Karen",
                 "lastName": "Mondry",
                 "occupation": "lawyer",
@@ -14212,20 +14220,12 @@
                 "zipCode": "60153-2417"
             },
             {
-                "firstName": "George",
-                "lastName": "Grzeca",
+                "firstName": "Tom",
+                "lastName": "Power",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 500.0,
-                "zipCode": "60558-1232"
-            },
-            {
-                "firstName": "Dan",
-                "lastName": "Groth",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": "60439"
+                "zipCode": "60611"
             }
         ]
     },
@@ -17139,8 +17139,17 @@
     },
     {
         "committee": "37128",
-        "totalContributions": 700.0,
+        "totalContributions": 5700.0,
         "contributions": [
+            {
+                "firstName": "Vel",
+                "lastName": "Rogers",
+                "date": "2022-04-22 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Retire",
+                "employer": "Retired",
+                "zipCode": "60649"
+            },
             {
                 "firstName": "John",
                 "lastName": "Curnyn",
@@ -17161,6 +17170,14 @@
             }
         ],
         "topDonors": [
+            {
+                "firstName": "Vel",
+                "lastName": "Rogers",
+                "occupation": "Retire",
+                "employer": "Retired",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60649"
+            },
             {
                 "firstName": "John",
                 "lastName": "Curnyn",
