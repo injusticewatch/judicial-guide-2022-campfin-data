@@ -4567,8 +4567,17 @@
     },
     {
         "committee": "36948",
-        "totalContributions": 43851.0,
+        "totalContributions": 49796.0,
         "contributions": [
+            {
+                "firstName": "Matthew",
+                "lastName": "Rundio",
+                "date": "2022-06-14 00:00:00",
+                "amount": 350.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "",
                 "lastName": "Henderson Parks LLC",
@@ -4579,38 +4588,38 @@
                 "zipCode": "60603"
             },
             {
+                "firstName": "Kenneth",
+                "lastName": "Hoffman",
+                "date": "2022-05-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
                 "firstName": "Benjamin",
                 "lastName": "Crane",
                 "date": "2022-05-12 00:00:00",
                 "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
+                "occupation": "Attorney",
+                "employer": "Coplan & Crane, Ltd.",
                 "zipCode": "60304"
             },
             {
-                "firstName": "Andrew",
-                "lastName": "Prindable",
-                "date": "2022-05-05 00:00:00",
-                "amount": 1000.0,
+                "firstName": "",
+                "lastName": "Chute O'Malley Knobloch and Turcy",
+                "date": "2022-05-09 00:00:00",
+                "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60305"
+                "zipCode": "60661"
             },
             {
-                "firstName": "Miguel",
-                "lastName": "Ruiz",
-                "date": "2022-05-05 00:00:00",
-                "amount": 1000.0,
-                "occupation": "Attorney",
-                "employer": "Cogan & Power PC",
-                "zipCode": "60614"
-            },
-            {
-                "firstName": "George",
-                "lastName": "Brugess",
-                "date": "2022-05-05 00:00:00",
-                "amount": 1000.0,
-                "occupation": "Attorney",
+                "firstName": "",
+                "lastName": "Law Offices of Robert Montgomery",
+                "date": "2022-05-09 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
                 "employer": "",
                 "zipCode": "60601"
             },
@@ -4624,6 +4633,87 @@
                 "zipCode": "60601"
             },
             {
+                "firstName": "Anthony",
+                "lastName": "Karamuzis",
+                "date": "2022-05-05 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Hefler Law LLC",
+                "date": "2022-05-05 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Schwartz Gilligan, Ltd.",
+                "date": "2022-05-05 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Tarpey, Jones & Schroeder, LLC",
+                "date": "2022-05-05 00:00:00",
+                "amount": 400.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Houlihan",
+                "date": "2022-05-05 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Belle",
+                "lastName": "Katubig",
+                "date": "2022-05-05 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
+            },
+            {
+                "firstName": "Miguel",
+                "lastName": "Ruiz",
+                "date": "2022-05-05 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power PC",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Prindable",
+                "date": "2022-05-05 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Waterville Advisers",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "George",
+                "lastName": "Brugess",
+                "date": "2022-05-05 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power",
+                "zipCode": "60601"
+            },
+            {
                 "firstName": "",
                 "lastName": "Cogan & Power PC",
                 "date": "2022-05-04 00:00:00",
@@ -4631,6 +4721,33 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60601"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Power",
+                "date": "2022-05-03 00:00:00",
+                "amount": 900.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Axelrood",
+                "date": "2022-05-03 00:00:00",
+                "amount": 325.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Daphnie",
+                "lastName": "Harris-Lancaster",
+                "date": "2022-04-11 00:00:00",
+                "amount": 220.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60619"
             },
             {
                 "firstName": "Joseph",
@@ -14324,6 +14441,15 @@
                 "zipCode": "60153"
             },
             {
+                "firstName": "Carmen",
+                "lastName": "Triche-Colvin",
+                "date": "2022-03-30 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
+            {
                 "firstName": "Sara",
                 "lastName": "Davis",
                 "date": "2022-03-30 00:00:00",
@@ -14349,15 +14475,6 @@
                 "occupation": "",
                 "employer": "retired",
                 "zipCode": "60153"
-            },
-            {
-                "firstName": "Carmen",
-                "lastName": "Triche-Colvin",
-                "date": "2022-03-30 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60617"
             },
             {
                 "firstName": "Michelle",
@@ -14405,15 +14522,6 @@
                 "zipCode": "60601"
             },
             {
-                "firstName": "Anna",
-                "lastName": "Sloane",
-                "date": "2022-02-27 00:00:00",
-                "amount": 200.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60154"
-            },
-            {
                 "firstName": "Denise",
                 "lastName": "Williams-Bergemann",
                 "date": "2022-02-27 00:00:00",
@@ -14423,13 +14531,13 @@
                 "zipCode": "60649"
             },
             {
-                "firstName": "Henderson",
-                "lastName": "Yarbough",
+                "firstName": "Anna",
+                "lastName": "Sloane",
                 "date": "2022-02-27 00:00:00",
-                "amount": 100.0,
+                "amount": 200.0,
                 "occupation": "",
-                "employer": "retired",
-                "zipCode": "60153"
+                "employer": "",
+                "zipCode": "60154"
             },
             {
                 "firstName": "",
@@ -14448,6 +14556,15 @@
                 "occupation": "",
                 "employer": "Self",
                 "zipCode": "60602"
+            },
+            {
+                "firstName": "Henderson",
+                "lastName": "Yarbough",
+                "date": "2022-02-27 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "retired",
+                "zipCode": "60153"
             },
             {
                 "firstName": "",
@@ -14522,15 +14639,6 @@
                 "zipCode": "60649"
             },
             {
-                "firstName": "Kathryn",
-                "lastName": "Conway",
-                "date": "2022-01-17 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60305"
-            },
-            {
                 "firstName": "Natalie",
                 "lastName": "Federle",
                 "date": "2022-01-17 00:00:00",
@@ -14538,6 +14646,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60622"
+            },
+            {
+                "firstName": "Kathryn",
+                "lastName": "Conway",
+                "date": "2022-01-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60305"
             },
             {
                 "firstName": "Madelyne",
@@ -17139,8 +17256,17 @@
     },
     {
         "committee": "37128",
-        "totalContributions": 5700.0,
+        "totalContributions": 5900.0,
         "contributions": [
+            {
+                "firstName": "Jennifer",
+                "lastName": "Taylor",
+                "date": "2022-06-06 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "80207"
+            },
             {
                 "firstName": "Vel",
                 "lastName": "Rogers",
@@ -17193,6 +17319,14 @@
                 "employer": "",
                 "aggregateAmount": 200.0,
                 "zipCode": "60617"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Taylor",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 200.0,
+                "zipCode": "80207"
             }
         ]
     },
