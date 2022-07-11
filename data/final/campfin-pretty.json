@@ -22070,9 +22070,141 @@
     },
     {
         "committee": "35684",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 12300.0,
+        "contributions": [
+            {
+                "firstName": "Aileen",
+                "lastName": "Bhandari",
+                "date": "2022-06-13 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Avtar",
+                "lastName": "Bhandari",
+                "date": "2022-06-13 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "Retired",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Umesh",
+                "lastName": "Bhandari",
+                "date": "2022-06-08 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Pysician",
+                "employer": "Weatherby Consulting",
+                "zipCode": "78738"
+            },
+            {
+                "firstName": "Amy",
+                "lastName": "Bhandari",
+                "date": "2022-05-22 00:00:00",
+                "amount": 400.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Asha",
+                "lastName": "Bhandari",
+                "date": "2022-05-22 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Dawn",
+                "lastName": "Gonzalez",
+                "date": "2022-05-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60302"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Giamanco",
+                "date": "2022-05-21 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60490"
+            },
+            {
+                "firstName": "Aileen",
+                "lastName": "Bhandari",
+                "date": "2022-05-16 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "James",
+                "lastName": "McGing",
+                "date": "2022-05-16 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60631"
+            },
+            {
+                "firstName": "Aileen",
+                "lastName": "Bhandari",
+                "date": "2022-04-13 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Umesh",
+                "lastName": "Bhandari",
+                "occupation": "Pysician",
+                "employer": "Weatherby Consulting",
+                "aggregateAmount": 5000.0,
+                "zipCode": "78738"
+            },
+            {
+                "firstName": "Avtar",
+                "lastName": "Bhandari",
+                "occupation": "",
+                "employer": "Retired",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Aileen",
+                "lastName": "Bhandari",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2700.0,
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Asha",
+                "lastName": "Bhandari",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 500.0,
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Amy",
+                "lastName": "Bhandari",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 400.0,
+                "zipCode": "60641"
+            }
+        ]
     },
     {
         "committee": "25470",
