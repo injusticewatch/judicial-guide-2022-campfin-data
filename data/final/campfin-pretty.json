@@ -2143,7 +2143,7 @@
                 "amount": 10000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Terrence",
@@ -2161,7 +2161,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Stephen",
@@ -2179,7 +2179,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2188,7 +2188,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -2206,7 +2206,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2215,7 +2215,7 @@
                 "amount": 25000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2224,7 +2224,7 @@
                 "amount": 20000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2233,7 +2233,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2242,7 +2242,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2251,7 +2251,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "John",
@@ -2269,7 +2269,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Thomas",
@@ -2296,7 +2296,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2305,7 +2305,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2314,7 +2314,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2323,7 +2323,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2332,7 +2332,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2341,7 +2341,7 @@
                 "amount": 5000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2350,7 +2350,7 @@
                 "amount": 15000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Dan",
@@ -2377,7 +2377,7 @@
                 "amount": 25000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2386,7 +2386,7 @@
                 "amount": 15000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2395,7 +2395,7 @@
                 "amount": 2500.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2404,7 +2404,7 @@
                 "amount": 15000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "Raymond",
@@ -2413,7 +2413,7 @@
                 "amount": 40000.0,
                 "occupation": "judge",
                 "employer": "State of Illinois",
-                "zipCode": "60611"
+                "zipCode": ""
             }
         ],
         "topDonors": [
@@ -2423,7 +2423,7 @@
                 "occupation": "judge",
                 "employer": "State of Illinois",
                 "aggregateAmount": 237500.0,
-                "zipCode": "60611"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -5155,7 +5155,7 @@
     },
     {
         "committee": "37329",
-        "totalContributions": 95664.65000000001,
+        "totalContributions": 110664.65000000001,
         "contributions": [
             {
                 "firstName": "",
@@ -5263,6 +5263,15 @@
                 "amount": 1000.0,
                 "occupation": "Firefighter",
                 "employer": "Chicago Fire Department",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Mary B.",
+                "lastName": "McMahon",
+                "date": "2022-06-14 00:00:00",
+                "amount": 15000.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney",
                 "zipCode": "60646"
             },
             {
@@ -5443,7 +5452,7 @@
                 "lastName": "McMahon",
                 "occupation": "Lawyer",
                 "employer": "Cook County State's Attorney",
-                "aggregateAmount": 39690.0,
+                "aggregateAmount": 54690.0,
                 "zipCode": "60646"
             },
             {
@@ -8594,7 +8603,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60607"
+                "zipCode": ""
             },
             {
                 "firstName": "Jeffrey",
@@ -8909,7 +8918,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60607"
+                "zipCode": ""
             },
             {
                 "firstName": "Mary",
@@ -16508,7 +16517,7 @@
     },
     {
         "committee": "34246",
-        "totalContributions": 50000.0,
+        "totalContributions": 50300.0,
         "contributions": [
             {
                 "firstName": "Jenetia",
@@ -16518,6 +16527,15 @@
                 "occupation": "Attorney",
                 "employer": "Cook County Public Guardian",
                 "zipCode": "60637"
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Easter",
+                "date": "2022-06-07 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60502"
             },
             {
                 "firstName": "Jenetia",
@@ -16537,6 +16555,14 @@
                 "employer": "Cook County Public Guardian",
                 "aggregateAmount": 50000.0,
                 "zipCode": "60637"
+            },
+            {
+                "firstName": "Alex",
+                "lastName": "Easter",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 300.0,
+                "zipCode": "60502"
             }
         ]
     },
@@ -17518,8 +17544,17 @@
     },
     {
         "committee": "37447",
-        "totalContributions": 64500.0,
+        "totalContributions": 34700.0,
         "contributions": [
+            {
+                "firstName": "Maria",
+                "lastName": "Ciesil",
+                "date": "2022-06-23 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "Jackie",
                 "lastName": "Portman-Brown",
@@ -17537,15 +17572,6 @@
                 "occupation": "Clinical Social worker",
                 "employer": "self",
                 "zipCode": "60652"
-            },
-            {
-                "firstName": "",
-                "lastName": "Fifth Third Bank",
-                "date": "2022-05-21 00:00:00",
-                "amount": 30000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60620"
             },
             {
                 "firstName": "Jackie",
@@ -17567,20 +17593,20 @@
                 "zipCode": "60653"
             },
             {
-                "firstName": "",
-                "lastName": "Fifth Third Bank",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 30000.0,
-                "zipCode": "60620"
-            },
-            {
                 "firstName": "Paulette",
                 "lastName": "Dukes",
                 "occupation": "Clinical Social worker",
                 "employer": "self",
                 "aggregateAmount": 2000.0,
                 "zipCode": "60652"
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Ciesil",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 200.0,
+                "zipCode": "60646"
             }
         ]
     },
