@@ -19298,8 +19298,26 @@
     },
     {
         "committee": "37012",
-        "totalContributions": 85831.28,
+        "totalContributions": 100604.29999999999,
         "contributions": [
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-06-28 00:00:00",
+                "amount": 900.0,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-06-28 00:00:00",
+                "amount": 150.0,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
+            },
             {
                 "firstName": "Marc",
                 "lastName": "Taxman",
@@ -19310,6 +19328,87 @@
                 "zipCode": "60606"
             },
             {
+                "firstName": "",
+                "lastName": "Beth P. Burns PC",
+                "date": "2022-06-20 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-06-11 00:00:00",
+                "amount": 28.34,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Shaye",
+                "lastName": "Loughlin",
+                "date": "2022-06-09 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "",
+                "lastName": "Susan J. Kim LLC",
+                "date": "2022-06-08 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60010"
+            },
+            {
+                "firstName": "Henry",
+                "lastName": "Simmons",
+                "date": "2022-06-03 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60439"
+            },
+            {
+                "firstName": "Luana",
+                "lastName": "Montoya",
+                "date": "2022-06-02 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Cho",
+                "date": "2022-05-31 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Hyungbin",
+                "lastName": "Cho",
+                "date": "2022-05-30 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60070"
+            },
+            {
+                "firstName": "",
+                "lastName": "M.R. Diamonds, Inc",
+                "date": "2022-05-24 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
                 "firstName": "Samuel",
                 "lastName": "Bae",
                 "date": "2022-05-23 00:00:00",
@@ -19317,6 +19416,33 @@
                 "occupation": "Attorney",
                 "employer": "Law Offices of Samuel Bae",
                 "zipCode": "60018"
+            },
+            {
+                "firstName": "Larry",
+                "lastName": "Woodard",
+                "date": "2022-05-23 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60068"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-05-22 00:00:00",
+                "amount": 88.0,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Sofia",
+                "lastName": "Troy",
+                "date": "2022-05-19 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
             },
             {
                 "firstName": "Dan",
@@ -19341,8 +19467,8 @@
                 "lastName": "Axelrood",
                 "date": "2022-05-16 00:00:00",
                 "amount": 1000.0,
-                "occupation": "Retired Judge",
-                "employer": "",
+                "occupation": "Mediator",
+                "employer": "ADR System",
                 "zipCode": "60091"
             },
             {
@@ -19353,6 +19479,123 @@
                 "occupation": "Attorney",
                 "employer": "The Law Office of Timothy Deffet",
                 "zipCode": "60659"
+            },
+            {
+                "firstName": "",
+                "lastName": "Dawn Projansky Lavin Attorney at Law",
+                "date": "2022-05-12 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "",
+                "lastName": "Winters Salzetta O\u0092Brien & Richardson LLC",
+                "date": "2022-05-12 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Buenger",
+                "date": "2022-05-12 00:00:00",
+                "amount": 750.0,
+                "occupation": "Attorney",
+                "employer": "Salvato & O\u0092Toole",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Sandra",
+                "lastName": "Ramos",
+                "date": "2022-05-12 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Gradley",
+                "lastName": "Cosgrove",
+                "date": "2022-05-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60423"
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Domain",
+                "date": "2022-05-12 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60632"
+            },
+            {
+                "firstName": "Morris",
+                "lastName": "Beard",
+                "date": "2022-05-12 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "Brian",
+                "lastName": "Murphy",
+                "date": "2022-05-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60022"
+            },
+            {
+                "firstName": "Kristina",
+                "lastName": "Yi",
+                "date": "2022-05-12 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "Jong",
+                "lastName": "Jung",
+                "date": "2022-05-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "Keith",
+                "lastName": "Hebeisen",
+                "date": "2022-05-12 00:00:00",
+                "amount": 750.0,
+                "occupation": "Attorney",
+                "employer": "Robert Clifford Law Office",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Keith",
+                "lastName": "Hebeisen",
+                "date": "2022-05-12 00:00:00",
+                "amount": 250.0,
+                "occupation": "Attorney",
+                "employer": "Robert Clifford Law Office",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Pullano Law Offices",
+                "date": "2022-05-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
             },
             {
                 "firstName": "Kevin",
@@ -19371,6 +19614,150 @@
                 "occupation": "Attorney",
                 "employer": "Law Offices of Samuel Bae",
                 "zipCode": "60018"
+            },
+            {
+                "firstName": "",
+                "lastName": "Won Ton Gourmet Inc",
+                "date": "2022-05-11 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
+            },
+            {
+                "firstName": "",
+                "lastName": "Heller and Frisone LTD",
+                "date": "2022-05-11 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "",
+                "lastName": "Law Offices of Gayle Schor, PC",
+                "date": "2022-05-11 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60622"
+            },
+            {
+                "firstName": "",
+                "lastName": "Dunn Harrington, LLC",
+                "date": "2022-05-11 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Bridget",
+                "lastName": "Richardville",
+                "date": "2022-05-11 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60657"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-05-11 00:00:00",
+                "amount": 28.34,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "",
+                "lastName": "Chute O\u0092Malley Knobloch & Turcy",
+                "date": "2022-05-10 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60661"
+            },
+            {
+                "firstName": "Margaret",
+                "lastName": "McBride",
+                "date": "2022-05-10 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Ida",
+                "lastName": "Rodriguez",
+                "date": "2022-05-07 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60070"
+            },
+            {
+                "firstName": "Gretchen",
+                "lastName": "Talbot",
+                "date": "2022-05-07 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Zaryczny",
+                "date": "2022-05-04 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60520"
+            },
+            {
+                "firstName": "Maria",
+                "lastName": "Zaryczny",
+                "date": "2022-05-04 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "61520"
+            },
+            {
+                "firstName": "Barbara",
+                "lastName": "Wigell",
+                "date": "2022-05-04 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60430"
+            },
+            {
+                "firstName": "Margaret",
+                "lastName": "Cusick",
+                "date": "2022-05-03 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60056"
+            },
+            {
+                "firstName": "",
+                "lastName": "The Law Office of Sang Shim",
+                "date": "2022-05-02 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60008"
+            },
+            {
+                "firstName": "Jennifer",
+                "lastName": "Bae",
+                "date": "2022-04-11 00:00:00",
+                "amount": 28.34,
+                "occupation": "Attorney",
+                "employer": "Cook County Sheriff\u0092s Office",
+                "zipCode": "60605"
             },
             {
                 "firstName": "Jennifer",
@@ -19469,7 +19856,7 @@
                 "lastName": "Bae",
                 "occupation": "Attorney",
                 "employer": "Cook County Sheriff\u0092s Office",
-                "aggregateAmount": 71580.01999999999,
+                "aggregateAmount": 72803.03999999998,
                 "zipCode": "60605"
             },
             {
