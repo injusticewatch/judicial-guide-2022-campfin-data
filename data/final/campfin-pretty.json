@@ -14602,8 +14602,17 @@
     },
     {
         "committee": "35457",
-        "totalContributions": 55385.0,
+        "totalContributions": 55635.0,
         "contributions": [
+            {
+                "firstName": "Michael",
+                "lastName": "Fisher",
+                "date": "2022-06-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60439"
+            },
             {
                 "firstName": "",
                 "lastName": "The Leanor Group, LLC",
@@ -26633,7 +26642,7 @@
     },
     {
         "committee": "37162",
-        "totalContributions": 51300.0,
+        "totalContributions": 65200.0,
         "contributions": [
             {
                 "firstName": "",
@@ -26654,6 +26663,24 @@
                 "zipCode": "60606"
             },
             {
+                "firstName": "Garvin",
+                "lastName": "Ambrose",
+                "date": "2022-06-21 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "12345"
+            },
+            {
+                "firstName": "Andre",
+                "lastName": "Katz",
+                "date": "2022-06-20 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "",
                 "lastName": "Swap Motors LLC",
                 "date": "2022-06-19 00:00:00",
@@ -26663,6 +26690,15 @@
                 "zipCode": "60077"
             },
             {
+                "firstName": "Jennifer",
+                "lastName": "Graham",
+                "date": "2022-06-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
                 "firstName": "",
                 "lastName": "Chicago Latino PAC",
                 "date": "2022-06-15 00:00:00",
@@ -26670,6 +26706,33 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60603"
+            },
+            {
+                "firstName": "Shawn",
+                "lastName": "Kesserman",
+                "date": "2022-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Jerry",
+                "lastName": "Latherow",
+                "date": "2022-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Gerald",
+                "lastName": "Bekkerman",
+                "date": "2022-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
             },
             {
                 "firstName": "Robert",
@@ -26726,6 +26789,24 @@
                 "zipCode": "60612"
             },
             {
+                "firstName": "Daniel",
+                "lastName": "Kotin",
+                "date": "2022-06-14 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Stephen",
+                "lastName": "Phillips",
+                "date": "2022-06-13 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
                 "firstName": "Pat",
                 "lastName": "Salvi",
                 "date": "2022-06-09 00:00:00",
@@ -26748,9 +26829,45 @@
                 "lastName": "Raines",
                 "date": "2022-06-09 00:00:00",
                 "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Self",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Mertz",
+                "date": "2022-06-09 00:00:00",
+                "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60606"
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi Jr.",
+                "date": "2022-06-07 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Madeleine",
+                "lastName": "Swibel",
+                "date": "2022-06-04 00:00:00",
+                "amount": 500.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60610"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Manion",
+                "date": "2022-06-04 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60128"
             },
             {
                 "firstName": "Dana",
@@ -26796,6 +26913,60 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60610"
+            },
+            {
+                "firstName": "Kelly",
+                "lastName": "Gilroy",
+                "date": "2022-05-31 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60622"
+            },
+            {
+                "firstName": "Cathleen",
+                "lastName": "Belmonte Newman",
+                "date": "2022-05-31 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Ira",
+                "lastName": "Bodenstein",
+                "date": "2022-05-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Nicolay",
+                "date": "2022-05-27 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "50522"
+            },
+            {
+                "firstName": "Glenn",
+                "lastName": "Udell",
+                "date": "2022-05-26 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Goldberg",
+                "date": "2022-05-26 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
             },
             {
                 "firstName": "Joseph",
@@ -26861,6 +27032,123 @@
                 "zipCode": "60622"
             },
             {
+                "firstName": "Andrew",
+                "lastName": "Horvat",
+                "date": "2022-05-24 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "Meribeth",
+                "lastName": "Mermall",
+                "date": "2022-05-24 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Jonathan",
+                "lastName": "Hyun",
+                "date": "2022-05-24 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Yaroslav",
+                "lastName": "Kot",
+                "date": "2022-05-24 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60622"
+            },
+            {
+                "firstName": "Tamara",
+                "lastName": "Holder",
+                "date": "2022-05-23 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "Karen",
+                "lastName": "Klutznik",
+                "date": "2022-05-23 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60610"
+            },
+            {
+                "firstName": "Brad",
+                "lastName": "Balke",
+                "date": "2022-05-23 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60605"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Forde",
+                "date": "2022-05-22 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Madeleine",
+                "lastName": "Swibel",
+                "date": "2022-05-21 00:00:00",
+                "amount": 500.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60610"
+            },
+            {
+                "firstName": "Perry",
+                "lastName": "Browder",
+                "date": "2022-05-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62002"
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "Gilman",
+                "date": "2022-05-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Fanning",
+                "date": "2022-05-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Kathy",
+                "lastName": "Byrne",
+                "date": "2022-05-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Scott",
                 "lastName": "Weiner",
                 "date": "2022-05-17 00:00:00",
@@ -26874,8 +27162,8 @@
                 "lastName": "Swibel",
                 "date": "2022-05-16 00:00:00",
                 "amount": 2000.0,
-                "occupation": "",
-                "employer": "",
+                "occupation": "Retired",
+                "employer": "Retired",
                 "zipCode": "60610"
             },
             {
@@ -26883,9 +27171,18 @@
                 "lastName": "Melman",
                 "date": "2022-05-16 00:00:00",
                 "amount": 2500.0,
+                "occupation": "Hospitality",
+                "employer": "LEYE Inc.",
+                "zipCode": "60649"
+            },
+            {
+                "firstName": "Jaimey",
+                "lastName": "Sexton",
+                "date": "2022-05-13 00:00:00",
+                "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60649"
+                "zipCode": "60654"
             },
             {
                 "firstName": "Geoffrey",
@@ -26904,6 +27201,15 @@
                 "occupation": "Consultant",
                 "employer": "Alvarez Affairs",
                 "zipCode": "60646"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Lowry",
+                "date": "2022-05-06 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
             },
             {
                 "firstName": "Hal",
@@ -26979,6 +27285,14 @@
                 "zipCode": "60612"
             },
             {
+                "firstName": "Madeleine",
+                "lastName": "Swibel",
+                "occupation": "Retired",
+                "employer": "Retired",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60610"
+            },
+            {
                 "firstName": "Scott",
                 "lastName": "Weiner",
                 "occupation": "Food + Beverage",
@@ -27001,14 +27315,6 @@
                 "employer": "Alvarez Affairs",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60646"
-            },
-            {
-                "firstName": "R.J.",
-                "lastName": "Melman",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60649"
             }
         ]
     },
