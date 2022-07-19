@@ -24275,8 +24275,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 186900.76,
+        "totalContributions": 199170.76,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-07-14 00:00:00",
+                "amount": 12270.0,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -25130,7 +25139,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 75650.76,
+                "aggregateAmount": 87920.76,
                 "zipCode": "60615"
             },
             {
