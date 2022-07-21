@@ -24554,8 +24554,17 @@
     },
     {
         "committee": "36989",
-        "totalContributions": 199170.76,
+        "totalContributions": 201670.76,
         "contributions": [
+            {
+                "firstName": "Timothy W.",
+                "lastName": "Wright III",
+                "date": "2022-07-20 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Quintairos, Prieto, Wood & Boyer",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Timothy W.",
                 "lastName": "Wright III",
@@ -25418,7 +25427,7 @@
                 "lastName": "Wright III",
                 "occupation": "Attorney",
                 "employer": "Quintairos, Prieto, Wood & Boyer",
-                "aggregateAmount": 87920.76,
+                "aggregateAmount": 90420.76,
                 "zipCode": "60615"
             },
             {
@@ -31558,8 +31567,17 @@
     },
     {
         "committee": "37373",
-        "totalContributions": 117950.0,
+        "totalContributions": 120450.0,
         "contributions": [
+            {
+                "firstName": "Austin",
+                "lastName": "Warner",
+                "date": "2022-07-19 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60010"
+            },
             {
                 "firstName": "Carson",
                 "lastName": "Greene",
@@ -31804,6 +31822,14 @@
                 "zipCode": "80150"
             },
             {
+                "firstName": "Austin",
+                "lastName": "Warner",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60010"
+            },
+            {
                 "firstName": "Clare",
                 "lastName": "McMahon",
                 "occupation": "Lawyer",
@@ -31818,14 +31844,6 @@
                 "employer": "Retired",
                 "aggregateAmount": 1150.0,
                 "zipCode": "60010"
-            },
-            {
-                "firstName": "Joseph",
-                "lastName": "Calcagno",
-                "occupation": "USDA Consumer Safety Inspector",
-                "employer": "USDA",
-                "aggregateAmount": 1100.0,
-                "zipCode": "61822"
             }
         ]
     },
