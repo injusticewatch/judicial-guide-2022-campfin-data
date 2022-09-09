@@ -1,0 +1,53 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  RewriteBase /interactives/judicial-election-guide/2022-primary/
+
+  RewriteCond %{REQUEST_URI} /en$
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+
+  RewriteCond %{REQUEST_URI} /es$
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+
+  RewriteCond %{REQUEST_URI} /en/table$
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+
+  RewriteCond %{REQUEST_URI} /es/table$
+  RewriteRule ^(.*)$ $1/ [L,R=301]
+
+  RewriteRule ^index\.html$ - [L]
+  RewriteRule ^index-es\.html$ - [L]
+  RewriteRule ^table\.html$ - [L]
+  RewriteRule ^table-es\.html$ - [L]
+  
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_URI} /en/table/
+  RewriteRule . /interactives/judicial-election-guide/2022-primary/table.html [L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_URI} /es/table/
+  RewriteRule . /interactives/judicial-election-guide/2022-primary/table-es.html [L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_URI} /es/
+  RewriteRule . /interactives/judicial-election-guide/2022-primary/index-es.html [L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_URI} /en/
+  RewriteRule . /interactives/judicial-election-guide/2022-primary/index.html [L]
+  
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /interactives/judicial-election-guide/2022-primary/index.html [L]
+
+  DirectoryIndex index.html
+</IfModule>

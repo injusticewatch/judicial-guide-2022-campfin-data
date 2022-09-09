@@ -1,0 +1,20 @@
+{
+  "general": {
+    "canonical": "https://www.injusticewatch.org/interactives/judicial-election-guide/2022-primary",
+    "imageLocation": "https://www.injusticewatch.org/wp-content/uploads/",
+    "publicationDate": "2022-05-26",
+    "modifiedDate": "2022-05-26",
+    "hideRatings": false
+  },
+  "data": {
+    "endPoint": "https://cdn.contentful.com",
+    "accessKey": "arB5KRsYrW5Sqnb0a5AT-SfvMhUW0oQmNBHzCDn8ccM",
+    "spaceId": "wljxda7v5bkj",
+    "environment": "master",
+    "electionSlug": "november-2020-general",
+    "useLocalData": false
+  },
+  "airtable": {
+    "base": "appkTqPx6EOrJaxmb"
+  }
+}
