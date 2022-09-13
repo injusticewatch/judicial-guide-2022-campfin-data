@@ -1,0 +1,20 @@
+{
+  "name": "Injustice Watch Judicial Guide 2022",
+  "short_name": "Judicial Guide 2022",
+  "icons": [
+    {
+      "src": "images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#EF8727",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "https://www.injusticewatch.org/interactives/judicial-election-guide/2022-primary/en/"
+}
