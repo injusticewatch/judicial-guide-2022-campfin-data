@@ -1,14 +1,18 @@
-all: clean data/final/campfin.json
+YEAR=2024
+
+all: clean data/final/campfin-${YEAR}.json
 
 .PHONY:
 clean:
-	rm -f data/final/* data/raw/receipts-trimmed.txt
+	rm -f data/final/campfin-${YEAR}.json \
+		data/final/campfin-${YEAR}-pretty.json \
+		data/raw/receipts-trimmed.txt
 
 # condense and drop keys we don't need in prd
-data/final/campfin.json: data/final/campfin-pretty.json
+data/final/campfin-${YEAR}.json: data/final/campfin-${YEAR}-pretty.json
 	jq -c 'map(del(.contributions))' $< > $@
 
-data/final/campfin-pretty.json: data/raw/receipts-trimmed.txt
+data/final/campfin-${YEAR}-pretty.json: data/raw/receipts-trimmed.txt
 	time python3 scripts/process_receipts.py $< > $@
 
 # the receipts file contains donations starting in 1994!
@@ -18,4 +22,4 @@ data/raw/receipts-trimmed.txt: data/raw/receipts.txt
 	tail -n +5000000 $< >> $@
 
 data/raw/receipts.txt:
-	wget -nv -O $@ "https://www.elections.il.gov/CampaignDisclosureDataFiles/Receipts.txt"
+	wget -nv --no-check-certificate -O $@ "https://www.elections.il.gov/CampaignDisclosureDataFiles/Receipts.txt"

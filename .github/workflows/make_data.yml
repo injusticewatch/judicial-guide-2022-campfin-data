@@ -3,8 +3,9 @@ name: Remake data and deploy on a schedule
 
 on:
   # trigger at 7:05AM CT (12:05PM UTC) every day
-  schedule:
-    - cron: '5 12 * * *'
+  # schedule:
+  #   - cron: '5 12 * * *'
+  workflow-dispatch:
 
 jobs:
   build:
