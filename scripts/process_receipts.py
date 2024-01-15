@@ -7,79 +7,9 @@ from dateutil.parser import parse
 csv.field_size_limit(sys.maxsize)
 
 TOP_DONOR_COUNT = 5
-START_DATE = parse('2021-01-01')
+START_DATE = parse('2023-01-01')
 COMMITTEES = [
-  '37023',
-  '36898',
-  '36935',
-  '22125',
-  '37437',
-  '17671',
-  '17003',
-  '22504',
-  '36948',
-  '37329',
-  '35455',
-  '37037',
-  '36823',
-  '37005',
-  '24028',
-  '33886',
-  '37113',
-  '35444',
-  '35501',
-  '36738',
-  '22396',
-  '45918',
-  '35454',
-  '37013',
-  '31848',
-  '37089',
-  '35610',
-  '35457',
-  '37044',
-  '37138',
-  '36890',
-  '34220',
-  '36983',
-  '36982',
-  '34284',
-  '32876',
-  '37090',
-  '37152',
-  '34313',
-  '34246',
-  '36989',
-  '37128',
-  '37424',
-  '37447',
-  '37236',
-  '11855',
-  '35389',
-  '35459',
-  '25568',
-  '37231',
-  '34372',
-  '37162',
-  '37012',
-  '37074',
-  '36810',
-  '35715',
-  '37124',
-  '37252',
-  '35720',
-  '25937',
-  '35684',
-  '25470',
-  '37373',
-  '36795',
-  '35650',
-  '36932',
-  '35789',
-  '37042',
-  '37036',
-  '36985',
-  '36865'
+  '20812', # new to 2024: Jesse G Reyes
 ]
 
 if __name__ == '__main__':
@@ -100,9 +30,9 @@ if __name__ == '__main__':
     # consider trimming earlier dates at front of txt file
     for row in reader:
       committee_id = row['CommitteeID']
-      receipt_date = parse(row['RcvDate'])
 
       if row['RcvDate'] and (row['Archived'] != "True") and (parse(row['RcvDate']) >= START_DATE) and (committee_id in COMMITTEES):
+        receipt_date = parse(row['RcvDate'])
         # tally total contributions across contributors
         acc[committee_id]['totalContributions'] += float(row['Amount'])
 

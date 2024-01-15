@@ -2,6 +2,9 @@ YEAR=2024
 
 all: clean data/final/campfin-${YEAR}.json
 
+# don't automatically clean receipts.txt because
+# it takes a long time to download.
+# manually delete that file if you want to get uploaded data
 .PHONY:
 clean:
 	rm -f data/final/campfin-${YEAR}.json \
