@@ -9,7 +9,16 @@ csv.field_size_limit(sys.maxsize)
 TOP_DONOR_COUNT = 5
 START_DATE = parse('2023-01-01')
 COMMITTEES = [
-  '20812', # new to 2024: Jesse G Reyes
+  "39624"
+  "39445",
+  "39688",
+  "24137",
+  "25684",
+  "39531",
+  "39623",
+  "39555",
+  "39604",
+  "39561"
 ]
 
 if __name__ == '__main__':
