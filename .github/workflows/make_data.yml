@@ -19,12 +19,24 @@ jobs:
           python-version: "3.x"
       - run: pip install python-dateutil
       - run: make all
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if ! git diff --quiet; then
+            echo "::set-output name=changes::true"
+          else
+            echo "::set-output name=changes::false"
+          fi
+      
       - name: Commit files
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/*
-          git commit -m "Update data with Github Action" --allow-empty
+          git commit -m "Update data with Github Action"
+          
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
