@@ -7,9 +7,28 @@
     },
     {
         "committee": "39688",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 10000.0,
+        "contributions": [
+            {
+                "firstName": "Lucy",
+                "lastName": "Vazquez-Gonzalez",
+                "date": "2024-01-29 00:00:00",
+                "amount": 10000.0,
+                "occupation": "Attorney",
+                "employer": "Law Offices of Lucy Vazquez-Gonzalez",
+                "zipCode": "60804"
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Lucy",
+                "lastName": "Vazquez-Gonzalez",
+                "occupation": "Attorney",
+                "employer": "Law Offices of Lucy Vazquez-Gonzalez",
+                "aggregateAmount": 10000.0,
+                "zipCode": "60804"
+            }
+        ]
     },
     {
         "committee": "24137",
