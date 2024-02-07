@@ -2902,8 +2902,35 @@
     },
     {
         "committee": "39423",
-        "totalContributions": 835905.23,
+        "totalContributions": 848405.23,
         "contributions": [
+            {
+                "firstName": "Peter",
+                "lastName": "Flowers",
+                "date": "2024-01-29 00:00:00",
+                "amount": 5000.0,
+                "occupation": "attorney",
+                "employer": "meyers & flowers",
+                "zipCode": "60532-1197"
+            },
+            {
+                "firstName": "Stephen",
+                "lastName": "Phillips",
+                "date": "2024-01-29 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Lawyer",
+                "employer": "Phillips Law Offices",
+                "zipCode": "60601-3206"
+            },
+            {
+                "firstName": "Lauretta",
+                "lastName": "Wolfson",
+                "date": "2024-01-29 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "self-employed",
+                "zipCode": ""
+            },
             {
                 "firstName": "Howard",
                 "lastName": "Bates Noble",
@@ -18578,8 +18605,44 @@
     },
     {
         "committee": "39511",
-        "totalContributions": 62425.0,
+        "totalContributions": 111425.0,
         "contributions": [
+            {
+                "firstName": "William B.",
+                "lastName": "Murphy",
+                "date": "2024-02-05 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Firefighter",
+                "employer": "Chicago Fire Department",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "James T.",
+                "lastName": "Hynes",
+                "date": "2024-02-05 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60714"
+            },
+            {
+                "firstName": "James V. Murphy III",
+                "lastName": "Murphy",
+                "date": "2024-02-05 00:00:00",
+                "amount": 44000.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Balesteri",
+                "date": "2024-02-03 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Roger LLP",
+                "zipCode": "60305"
+            },
             {
                 "firstName": "Kyle",
                 "lastName": "Dillon",
@@ -18740,8 +18803,24 @@
                 "lastName": "Murphy",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 53725.0,
+                "aggregateAmount": 97725.0,
                 "zipCode": "60646"
+            },
+            {
+                "firstName": "William B.",
+                "lastName": "Murphy",
+                "occupation": "Firefighter",
+                "employer": "Chicago Fire Department",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "James T.",
+                "lastName": "Hynes",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60714"
             },
             {
                 "firstName": "",
@@ -18758,22 +18837,6 @@
                 "employer": "McFadden & Dillon, P.C.",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60646"
-            },
-            {
-                "firstName": "",
-                "lastName": "Citizens for Tully",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60602"
-            },
-            {
-                "firstName": "James V.",
-                "lastName": "Lynott",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60050"
             }
         ]
     },
@@ -24480,8 +24543,17 @@
     },
     {
         "committee": "39560",
-        "totalContributions": 35750.0,
+        "totalContributions": 37750.0,
         "contributions": [
+            {
+                "firstName": "Risa",
+                "lastName": "Lanier",
+                "date": "2024-02-02 00:00:00",
+                "amount": 2000.0,
+                "occupation": "First Assistant State's Attorney",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Risa",
                 "lastName": "Lanier",
@@ -24750,7 +24822,7 @@
                 "lastName": "Lanier",
                 "occupation": "First Assistant State's Attorney",
                 "employer": "Cook County State's Attorney's Office",
-                "aggregateAmount": 26000.0,
+                "aggregateAmount": 28000.0,
                 "zipCode": "60643"
             },
             {
@@ -25584,8 +25656,17 @@
     },
     {
         "committee": "39575",
-        "totalContributions": 13000.0,
+        "totalContributions": 33000.09,
         "contributions": [
+            {
+                "firstName": "Nickolas",
+                "lastName": "Pappas",
+                "date": "2024-02-06 00:00:00",
+                "amount": 20000.09,
+                "occupation": "Attorney",
+                "employer": "Pappas Law Offices PC",
+                "zipCode": "60640"
+            },
             {
                 "firstName": "Nickolas",
                 "lastName": "Pappas",
@@ -25602,15 +25683,42 @@
                 "lastName": "Pappas",
                 "occupation": "Attorney",
                 "employer": "Pappas Law Offices PC",
-                "aggregateAmount": 13000.0,
+                "aggregateAmount": 33000.09,
                 "zipCode": "60640"
             }
         ]
     },
     {
         "committee": "39605",
-        "totalContributions": 60567.54000000018,
+        "totalContributions": 64628.06000000021,
         "contributions": [
+            {
+                "firstName": "Philip",
+                "lastName": "Corboy",
+                "date": "2024-02-06 00:00:00",
+                "amount": 1030.26,
+                "occupation": "Attorney",
+                "employer": "Corboy & Demetrio",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Clifford",
+                "date": "2024-02-05 00:00:00",
+                "amount": 1030.26,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "date": "2024-02-05 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Romanucci & Blandin LLC",
+                "zipCode": "60654"
+            },
             {
                 "firstName": "",
                 "lastName": "Cooney & Conway",
@@ -26125,21 +26233,21 @@
                 "zipCode": "60613"
             },
             {
-                "firstName": "Michael",
-                "lastName": "Zink",
-                "date": "2023-12-06 00:00:00",
-                "amount": 341.66,
-                "occupation": "Lawyer",
-                "employer": "Starr, Bejgiert, Zink & Rowells",
-                "zipCode": "60613"
-            },
-            {
                 "firstName": "",
                 "lastName": "Good Times Brewery",
                 "date": "2023-12-06 00:00:00",
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
+                "zipCode": "60613"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Zink",
+                "date": "2023-12-06 00:00:00",
+                "amount": 341.66,
+                "occupation": "Lawyer",
+                "employer": "Starr, Bejgiert, Zink & Rowells",
                 "zipCode": "60613"
             },
             {
@@ -26503,15 +26611,6 @@
                 "zipCode": "60613"
             },
             {
-                "firstName": "",
-                "lastName": "Croke for Illinois",
-                "date": "2023-11-10 00:00:00",
-                "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60614"
-            },
-            {
                 "firstName": "Julia",
                 "lastName": "Corby",
                 "date": "2023-11-10 00:00:00",
@@ -26537,6 +26636,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60657"
+            },
+            {
+                "firstName": "",
+                "lastName": "Croke for Illinois",
+                "date": "2023-11-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
             },
             {
                 "firstName": "Michael",
@@ -26635,7 +26743,7 @@
                 "lastName": "Zink",
                 "occupation": "Lawyer",
                 "employer": "Starr, Bejgiert, Zink & Rowells",
-                "aggregateAmount": 22299.999999999993,
+                "aggregateAmount": 22299.999999999996,
                 "zipCode": "60613"
             },
             {
@@ -26645,6 +26753,14 @@
                 "employer": "Henry Crown and Company",
                 "aggregateAmount": 6051.99,
                 "zipCode": "60611-1475"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "occupation": "Attorney",
+                "employer": "Romanucci & Blandin LLC",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60654"
             },
             {
                 "firstName": "",
@@ -26661,14 +26777,6 @@
                 "employer": "Retired",
                 "aggregateAmount": 2000.0,
                 "zipCode": "33715"
-            },
-            {
-                "firstName": "",
-                "lastName": "Law Offices of Starr, Bejgiert, Zink & Rowells",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1500.0,
-                "zipCode": "60602"
             }
         ]
     },
