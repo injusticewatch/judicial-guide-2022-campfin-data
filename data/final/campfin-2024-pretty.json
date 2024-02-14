@@ -1,8 +1,53 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 856405.23,
+        "totalContributions": 916905.23,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Driscoll",
+                "date": "2024-02-12 00:00:00",
+                "amount": 7500.0,
+                "occupation": "Attorney",
+                "employer": "The Driscoll Firm LLC",
+                "zipCode": "63102-2758"
+            },
+            {
+                "firstName": "Marc",
+                "lastName": "Schulman",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "President",
+                "employer": "Eli's Cheesecake Company",
+                "zipCode": "60634-1470"
+            },
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Tisdahl",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Partner Investment Analyst",
+                "employer": "City of Evanston",
+                "zipCode": "60201-2121"
+            },
+            {
+                "firstName": "",
+                "lastName": "Illinois AFL-CIO Comiittee on Political Education",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62701-1764"
+            },
+            {
+                "firstName": "",
+                "lastName": "Corboy & Demetrio PC",
+                "date": "2024-02-09 00:00:00",
+                "amount": 50000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602-3192"
+            },
             {
                 "firstName": "Dayne",
                 "lastName": "Kono",
@@ -7276,8 +7321,17 @@
     },
     {
         "committee": "39624",
-        "totalContributions": 30714.0,
+        "totalContributions": 33214.0,
         "contributions": [
+            {
+                "firstName": "Marvin",
+                "lastName": "Alexander",
+                "date": "2024-02-13 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Reverend",
+                "employer": "ALIYA of Oak Lawn",
+                "zipCode": "60438"
+            },
             {
                 "firstName": "Kevin",
                 "lastName": "Conway",
@@ -7387,6 +7441,14 @@
                 "zipCode": "60714"
             },
             {
+                "firstName": "Marvin",
+                "lastName": "Alexander",
+                "occupation": "Reverend",
+                "employer": "ALIYA of Oak Lawn",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60438"
+            },
+            {
                 "firstName": "Kevin",
                 "lastName": "Conway",
                 "occupation": "Lawyer",
@@ -7401,14 +7463,6 @@
                 "employer": "retired",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60610"
-            },
-            {
-                "firstName": "Jack",
-                "lastName": "Cannon",
-                "occupation": "Lawyer",
-                "employer": "Shannon Law Group",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60069"
             }
         ]
     },
@@ -20567,7 +20621,7 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 37934.96000000001,
+        "totalContributions": 40134.96000000001,
         "contributions": [
             {
                 "firstName": "",
@@ -20577,6 +20631,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60093-1866"
+            },
+            {
+                "firstName": "",
+                "lastName": "Law offices of John Fogarty, Jr.",
+                "date": "2024-02-02 00:00:00",
+                "amount": 2200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
             },
             {
                 "firstName": "",
@@ -20765,6 +20828,14 @@
                 "employer": "",
                 "aggregateAmount": 2767.5,
                 "zipCode": "60093-1866"
+            },
+            {
+                "firstName": "",
+                "lastName": "Law offices of John Fogarty, Jr.",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2200.0,
+                "zipCode": "60613"
             },
             {
                 "firstName": "Terrence",
@@ -21799,8 +21870,71 @@
     },
     {
         "committee": "21557",
-        "totalContributions": 40324.7,
+        "totalContributions": 65248.94,
         "contributions": [
+            {
+                "firstName": "Allen",
+                "lastName": "Schwartz",
+                "date": "2024-02-12 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Schwartz Injury Law",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Prindable",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power, P.C. Attorneys At Law",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "La Preferida Inc.",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60632"
+            },
+            {
+                "firstName": "",
+                "lastName": "Vrdolyak Law Group",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
+            {
+                "firstName": "",
+                "lastName": "The Law Offices Of Eileen Kerlin Walsh PC",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60463"
+            },
+            {
+                "firstName": "Arlene",
+                "lastName": "Lo",
+                "date": "2024-02-12 00:00:00",
+                "amount": 17424.24,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60462"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Boron",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60035"
+            },
             {
                 "firstName": "",
                 "lastName": "Tinley Park Convention Center Hotel",
@@ -22272,6 +22406,14 @@
         ],
         "topDonors": [
             {
+                "firstName": "Arlene",
+                "lastName": "Lo",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 17424.24,
+                "zipCode": "60462"
+            },
+            {
                 "firstName": "Joseph",
                 "lastName": "Busking",
                 "occupation": "",
@@ -22302,14 +22444,6 @@
                 "employer": "",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60136"
-            },
-            {
-                "firstName": "",
-                "lastName": "Chicago Federation of Labor",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60601"
             }
         ]
     },
@@ -24169,8 +24303,62 @@
     },
     {
         "committee": "39675",
-        "totalContributions": 26000.0,
+        "totalContributions": 34000.0,
         "contributions": [
+            {
+                "firstName": "Bradley",
+                "lastName": "Cosgrove",
+                "date": "2024-02-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices P.C.",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "date": "2024-02-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Romanucci and Blandin LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Perry",
+                "lastName": "Siatis",
+                "date": "2024-02-13 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Attorney",
+                "employer": "AbbVie",
+                "zipCode": "60048"
+            },
+            {
+                "firstName": "Kevin",
+                "lastName": "Conway",
+                "date": "2024-02-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney & Conway",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Houlihan",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "George",
+                "lastName": "Tsonis",
+                "date": "2024-02-12 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Emergency Medicine Physician",
+                "employer": "Tricounty Emergency Medicine",
+                "zipCode": "60026"
+            },
             {
                 "firstName": "Clem",
                 "lastName": "Johnson",
@@ -24288,20 +24476,20 @@
                 "zipCode": "60514"
             },
             {
+                "firstName": "Perry",
+                "lastName": "Siatis",
+                "occupation": "Attorney",
+                "employer": "AbbVie",
+                "aggregateAmount": 3000.0,
+                "zipCode": "60048"
+            },
+            {
                 "firstName": "",
                 "lastName": "Ancel Glink P.C.",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 2750.0,
                 "zipCode": "60603"
-            },
-            {
-                "firstName": "",
-                "lastName": "Karnezis Law Group LLC",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60068"
             }
         ]
     },
