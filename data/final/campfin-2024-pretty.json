@@ -1,8 +1,80 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1056905.23,
+        "totalContributions": 1065905.23,
         "contributions": [
+            {
+                "firstName": "Wayne",
+                "lastName": "Andersen",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Mediator/arbitrator",
+                "employer": "Self",
+                "zipCode": "34119-1354"
+            },
+            {
+                "firstName": "Sandra",
+                "lastName": "Brunson",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Management",
+                "employer": "JMB1 Enterprises LLC",
+                "zipCode": "08062-9550"
+            },
+            {
+                "firstName": "Margarita Kulys",
+                "lastName": "Hoffman, Hon. (Ret).",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Not Employed",
+                "employer": "Not Employed",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Mikva",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Justice",
+                "employer": "State of Illinois",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Kristen",
+                "lastName": "Murphy",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Healthcare Executive",
+                "employer": "Indiana University Health",
+                "zipCode": "46033-8120"
+            },
+            {
+                "firstName": "Pat",
+                "lastName": "Newman",
+                "date": "2024-02-20 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Consultant",
+                "employer": "Pat Newman",
+                "zipCode": "31411-1526"
+            },
+            {
+                "firstName": "Jason",
+                "lastName": "Sherwood",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Sherwood Law Group",
+                "zipCode": "60661-1291"
+            },
+            {
+                "firstName": "Mimi",
+                "lastName": "Winter",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Not Employed",
+                "employer": "Not Employed",
+                "zipCode": "85373-2103"
+            },
             {
                 "firstName": "",
                 "lastName": "LIUNA Chicago Laborers' District Council PAC",
@@ -2713,8 +2785,17 @@
     },
     {
         "committee": "20812",
-        "totalContributions": 294045.0,
+        "totalContributions": 306545.0,
         "contributions": [
+            {
+                "firstName": "Todd",
+                "lastName": "Smith",
+                "date": "2024-02-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Smith LaCien LLP",
+                "zipCode": "60657"
+            },
             {
                 "firstName": "Steven F.",
                 "lastName": "Molo",
@@ -2723,6 +2804,60 @@
                 "occupation": "Attorney",
                 "employer": "MoloLamken LLP",
                 "zipCode": "60657"
+            },
+            {
+                "firstName": "",
+                "lastName": "Medmanagement",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "92704"
+            },
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "date": "2024-02-20 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi Schostok & Pritchard",
+                "zipCode": "60085"
+            },
+            {
+                "firstName": "Gery",
+                "lastName": "Chico",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Briones",
+                "date": "2024-02-20 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Samuel Briones PC",
+                "zipCode": "60430"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cullen Haskins Nicholos & Menchetti PC",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "",
+                "lastName": "Bauch & Michaels, LLC",
+                "date": "2024-02-20 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
             },
             {
                 "firstName": "Richard",
@@ -7510,8 +7645,17 @@
     },
     {
         "committee": "39624",
-        "totalContributions": 37714.0,
+        "totalContributions": 38714.0,
         "contributions": [
+            {
+                "firstName": "Tarick",
+                "lastName": "Loutfi",
+                "date": "2024-02-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Tarick Loutfi",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "",
                 "lastName": "Peck Ritchey LLC",
@@ -9859,8 +10003,17 @@
     },
     {
         "committee": "39509",
-        "totalContributions": 155100.01,
+        "totalContributions": 185100.01,
         "contributions": [
+            {
+                "firstName": "Pablo",
+                "lastName": "Decastro",
+                "date": "2024-02-20 00:00:00",
+                "amount": 30000.0,
+                "occupation": "Attorney",
+                "employer": "Law Offices of Pablo Decastro",
+                "zipCode": "60615"
+            },
             {
                 "firstName": "Maria",
                 "lastName": "de Castro",
@@ -10021,7 +10174,7 @@
                 "lastName": "Decastro",
                 "occupation": "Attorney",
                 "employer": "Law Offices of Pablo Decastro",
-                "aggregateAmount": 100000.0,
+                "aggregateAmount": 130000.0,
                 "zipCode": "60615"
             },
             {
@@ -24681,8 +24834,53 @@
     },
     {
         "committee": "39675",
-        "totalContributions": 46500.0,
+        "totalContributions": 57000.0,
         "contributions": [
+            {
+                "firstName": "Steven",
+                "lastName": "Mikuzis",
+                "date": "2024-02-22 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Insurance Agent",
+                "employer": "Power Risk Management Services LLC",
+                "zipCode": "60026"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Wise",
+                "date": "2024-02-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Wise Law",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "Gamboa",
+                "date": "2024-02-22 00:00:00",
+                "amount": 3500.0,
+                "occupation": "Attorney",
+                "employer": "Gordon Ress Scully Mansukhani LLP",
+                "zipCode": "60546"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Duncan",
+                "date": "2024-02-21 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Duncan Law Group LLC",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Esbrook Law P.C.",
+                "date": "2024-02-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
             {
                 "firstName": "",
                 "lastName": "Winters Salzetta O'Brien & Richardson LLC",
@@ -24944,20 +25142,20 @@
                 "zipCode": "60514"
             },
             {
+                "firstName": "Paul",
+                "lastName": "Gamboa",
+                "occupation": "Attorney",
+                "employer": "Gordon Ress Scully Mansukhani LLP",
+                "aggregateAmount": 3500.0,
+                "zipCode": "60546"
+            },
+            {
                 "firstName": "Perry",
                 "lastName": "Siatis",
                 "occupation": "Attorney",
                 "employer": "AbbVie",
                 "aggregateAmount": 3000.0,
                 "zipCode": "60048"
-            },
-            {
-                "firstName": "",
-                "lastName": "Ancel Glink P.C.",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 2750.0,
-                "zipCode": "60603"
             }
         ]
     },
@@ -26517,8 +26715,26 @@
     },
     {
         "committee": "39560",
-        "totalContributions": 37750.0,
+        "totalContributions": 58750.0,
         "contributions": [
+            {
+                "firstName": "Nathaniel",
+                "lastName": "Howard",
+                "date": "2024-02-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Physician",
+                "employer": "Self",
+                "zipCode": "95966"
+            },
+            {
+                "firstName": "Risa",
+                "lastName": "Lanier",
+                "date": "2024-02-21 00:00:00",
+                "amount": 20000.0,
+                "occupation": "First Assistant State's Attorney",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Risa",
                 "lastName": "Lanier",
@@ -26796,7 +27012,7 @@
                 "lastName": "Lanier",
                 "occupation": "First Assistant State's Attorney",
                 "employer": "Cook County State's Attorney's Office",
-                "aggregateAmount": 28000.0,
+                "aggregateAmount": 48000.0,
                 "zipCode": "60643"
             },
             {
@@ -26835,8 +27051,17 @@
     },
     {
         "committee": "39704",
-        "totalContributions": 11000.0,
+        "totalContributions": 12000.0,
         "contributions": [
+            {
+                "firstName": "David",
+                "lastName": "Venkus",
+                "date": "2024-02-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60093"
+            },
             {
                 "firstName": "David",
                 "lastName": "Heilmann",
@@ -26864,6 +27089,14 @@
                 "employer": "Clausen Miller",
                 "aggregateAmount": 11000.0,
                 "zipCode": "60453"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Venkus",
+                "occupation": "retired",
+                "employer": "retired",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60093"
             }
         ]
     },
@@ -26903,8 +27136,17 @@
     },
     {
         "committee": "39605",
-        "totalContributions": 70128.0600000002,
+        "totalContributions": 75128.0600000002,
         "contributions": [
+            {
+                "firstName": "Lester",
+                "lastName": "Crown",
+                "date": "2024-02-21 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Chairman Emeritus",
+                "employer": "Henry Crown and Company",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Jacquelyn",
                 "lastName": "Tuite",
@@ -28013,6 +28255,14 @@
                 "zipCode": "60611-1475"
             },
             {
+                "firstName": "Lester",
+                "lastName": "Crown",
+                "occupation": "Chairman Emeritus",
+                "employer": "Henry Crown and Company",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60601"
+            },
+            {
                 "firstName": "Antonio",
                 "lastName": "Romanucci",
                 "occupation": "Attorney",
@@ -28027,14 +28277,6 @@
                 "employer": "",
                 "aggregateAmount": 2555.0,
                 "zipCode": "60614"
-            },
-            {
-                "firstName": "Daniel",
-                "lastName": "Starr",
-                "occupation": "Retired",
-                "employer": "Retired",
-                "aggregateAmount": 2000.0,
-                "zipCode": "33715"
             }
         ]
     },
