@@ -2785,8 +2785,17 @@
     },
     {
         "committee": "20812",
-        "totalContributions": 306545.0,
+        "totalContributions": 309045.0,
         "contributions": [
+            {
+                "firstName": "Timothy J.",
+                "lastName": "Cavanagh",
+                "date": "2024-02-23 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Cavanagh Law Group",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Todd",
                 "lastName": "Smith",
@@ -11911,8 +11920,26 @@
     },
     {
         "committee": "39357",
-        "totalContributions": 159131.0,
+        "totalContributions": 163131.0,
         "contributions": [
+            {
+                "firstName": "Robert",
+                "lastName": "Clark",
+                "date": "2024-02-22 00:00:00",
+                "amount": 3000.0,
+                "occupation": "Executive Chairman & Founder",
+                "employer": "Clayco Inc",
+                "zipCode": "63114"
+            },
+            {
+                "firstName": "",
+                "lastName": "Citizens for Justice Mary Lane Mikva",
+                "date": "2024-02-22 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
             {
                 "firstName": "John",
                 "lastName": "Rogers",
@@ -12644,6 +12671,14 @@
                 "zipCode": "60614"
             },
             {
+                "firstName": "Robert",
+                "lastName": "Clark",
+                "occupation": "Executive Chairman & Founder",
+                "employer": "Clayco Inc",
+                "aggregateAmount": 3000.0,
+                "zipCode": "63114"
+            },
+            {
                 "firstName": "Steven",
                 "lastName": "Koch",
                 "occupation": "Retired",
@@ -12666,14 +12701,6 @@
                 "employer": "Wilson Garling Foundation",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60614"
-            },
-            {
-                "firstName": "Kelly",
-                "lastName": "Welsh",
-                "occupation": "Attorney - National Advisor - Retired",
-                "employer": "Self",
-                "aggregateAmount": 2500.0,
-                "zipCode": "60610"
             }
         ]
     },
@@ -24834,8 +24861,26 @@
     },
     {
         "committee": "39675",
-        "totalContributions": 57000.0,
+        "totalContributions": 59500.0,
         "contributions": [
+            {
+                "firstName": "Antonia",
+                "lastName": "Maragos",
+                "date": "2024-02-23 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Housewife",
+                "employer": "Housewife",
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "",
+                "lastName": "Maragos & Maragos",
+                "date": "2024-02-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Steven",
                 "lastName": "Mikuzis",
