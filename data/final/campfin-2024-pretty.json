@@ -1,8 +1,35 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1065905.23,
+        "totalContributions": 1072905.23,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Allen, Glassman & Schatz LLC",
+                "date": "2024-02-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601-7572"
+            },
+            {
+                "firstName": "Gemma",
+                "lastName": "Allen",
+                "date": "2024-02-23 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Allen, Glassman & Schatz LLC",
+                "zipCode": "60611-5061"
+            },
+            {
+                "firstName": "",
+                "lastName": "Illinois State Medical Society PAC",
+                "date": "2024-02-23 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602-4822"
+            },
             {
                 "firstName": "Wayne",
                 "lastName": "Andersen",
@@ -13254,8 +13281,17 @@
     },
     {
         "committee": "35497",
-        "totalContributions": 78380.0,
+        "totalContributions": 79880.0,
         "contributions": [
+            {
+                "firstName": "Thomas",
+                "lastName": "Jacovetty",
+                "date": "2024-02-26 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Bradley",
                 "lastName": "Cosgrove",
@@ -13680,6 +13716,14 @@
                 "zipCode": "60601"
             },
             {
+                "firstName": "Thomas",
+                "lastName": "Jacovetty",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "James",
                 "lastName": "Pullos",
                 "occupation": "Attorney",
@@ -13694,14 +13738,6 @@
                 "employer": "",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60646"
-            },
-            {
-                "firstName": "",
-                "lastName": "Cooney & Conway",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60602"
             }
         ]
     },
@@ -22899,8 +22935,17 @@
     },
     {
         "committee": "39596",
-        "totalContributions": 30950.0,
+        "totalContributions": 31950.0,
         "contributions": [
+            {
+                "firstName": "Kevin",
+                "lastName": "Durkin",
+                "date": "2024-02-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
             {
                 "firstName": "Garrick",
                 "lastName": "Taylor",
@@ -23028,8 +23073,17 @@
     },
     {
         "committee": "39577",
-        "totalContributions": 138562.81,
+        "totalContributions": 139562.81,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "The Vrdolyak Law Group, LLC",
+                "date": "2024-02-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "",
                 "lastName": "Jeffrey R. Aprati Attorney at Law",
@@ -26760,8 +26814,17 @@
     },
     {
         "committee": "39560",
-        "totalContributions": 58750.0,
+        "totalContributions": 61335.75,
         "contributions": [
+            {
+                "firstName": "Risa",
+                "lastName": "Lanier",
+                "date": "2024-02-23 00:00:00",
+                "amount": 2585.75,
+                "occupation": "First Assistant State's Attorney",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60643"
+            },
             {
                 "firstName": "Nathaniel",
                 "lastName": "Howard",
@@ -27057,7 +27120,7 @@
                 "lastName": "Lanier",
                 "occupation": "First Assistant State's Attorney",
                 "employer": "Cook County State's Attorney's Office",
-                "aggregateAmount": 48000.0,
+                "aggregateAmount": 50585.75,
                 "zipCode": "60643"
             },
             {
