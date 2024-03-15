@@ -1,8 +1,53 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1619905.23,
+        "totalContributions": 1649405.23,
         "contributions": [
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Tisdahl",
+                "date": "2024-03-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Partner Investment Analyst",
+                "employer": "City of Evanston",
+                "zipCode": "60201-2121"
+            },
+            {
+                "firstName": "Vincent",
+                "lastName": "Williams",
+                "date": "2024-03-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Vincent R Williams &Associates",
+                "zipCode": "60525-2512"
+            },
+            {
+                "firstName": "",
+                "lastName": "SEIU Healthcare Illinois Indiana PAC",
+                "date": "2024-03-13 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60608-4521"
+            },
+            {
+                "firstName": "",
+                "lastName": "Edelson PC",
+                "date": "2024-03-12 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654-5136"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hefferon",
+                "date": "2024-03-12 00:00:00",
+                "amount": 15000.0,
+                "occupation": "MD",
+                "employer": "NMG",
+                "zipCode": "60610-7964"
+            },
             {
                 "firstName": "Patricia",
                 "lastName": "Banks",
@@ -3352,8 +3397,17 @@
     },
     {
         "committee": "20812",
-        "totalContributions": 401545.0,
+        "totalContributions": 402545.0,
         "contributions": [
+            {
+                "firstName": "Jose",
+                "lastName": "Sanchez",
+                "date": "2024-03-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
             {
                 "firstName": "",
                 "lastName": "Ciesielski, Soukaras and Crozier Law LLC",
@@ -8374,8 +8428,17 @@
     },
     {
         "committee": "39624",
-        "totalContributions": 45274.0,
+        "totalContributions": 47274.0,
         "contributions": [
+            {
+                "firstName": "Carolyn",
+                "lastName": "Gallagher",
+                "date": "2024-03-09 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Judge",
+                "employer": "State of Illinois",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Carolyn",
                 "lastName": "Gallagher",
@@ -8545,7 +8608,7 @@
                 "lastName": "Gallagher",
                 "occupation": "Judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 29024.0,
+                "aggregateAmount": 31024.0,
                 "zipCode": "60602"
             },
             {
@@ -20465,8 +20528,17 @@
     },
     {
         "committee": "39511",
-        "totalContributions": 112425.0,
+        "totalContributions": 114425.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Peck Ritchey, LLC",
+                "date": "2024-03-14 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
             {
                 "firstName": "Ronald",
                 "lastName": "Manaster",
@@ -20693,19 +20765,19 @@
             },
             {
                 "firstName": "",
+                "lastName": "Peck Ritchey, LLC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "",
                 "lastName": "Billy Goat Tavern",
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 1500.0,
                 "zipCode": "60607"
-            },
-            {
-                "firstName": "Kyle",
-                "lastName": "Dillon",
-                "occupation": "Attorney",
-                "employer": "McFadden & Dillon, P.C.",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60646"
             }
         ]
     },
@@ -22032,8 +22104,44 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 40134.96000000001,
+        "totalContributions": 44134.96000000001,
         "contributions": [
+            {
+                "firstName": "Douglas",
+                "lastName": "Reichl",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "owner",
+                "employer": "Tartan Realty",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Mary Katherine",
+                "lastName": "Moore",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "49038"
+            },
+            {
+                "firstName": "Frank",
+                "lastName": "DiFranco",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "attorney",
+                "employer": "DiFranco & Assc PC",
+                "zipCode": "60068"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Kogen",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "attorney",
+                "employer": "Kovitz Shifrin Nesbit",
+                "zipCode": "60060"
+            },
             {
                 "firstName": "",
                 "lastName": "Law Office of William J. Cadigan, P.C.",
