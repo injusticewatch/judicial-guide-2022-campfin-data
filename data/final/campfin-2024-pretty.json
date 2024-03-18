@@ -1,8 +1,44 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1649405.23,
+        "totalContributions": 1661405.23,
         "contributions": [
+            {
+                "firstName": "Alexander",
+                "lastName": "Lerner",
+                "date": "2024-03-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "CEO",
+                "employer": "ISMS",
+                "zipCode": "60022-1344"
+            },
+            {
+                "firstName": "",
+                "lastName": "Architectural & Ornamental Iron Workers Local 63 IPAL",
+                "date": "2024-03-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60154-5820"
+            },
+            {
+                "firstName": "",
+                "lastName": "UFCW Local 881 PAC",
+                "date": "2024-03-14 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018-3342"
+            },
+            {
+                "firstName": "",
+                "lastName": "United Assn of Journeymen & IL Pipe Trades Assn PAC",
+                "date": "2024-03-14 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62701-1763"
+            },
             {
                 "firstName": "Elizabeth",
                 "lastName": "Tisdahl",
@@ -20300,8 +20336,17 @@
     },
     {
         "committee": "36987",
-        "totalContributions": 57521.02,
+        "totalContributions": 60021.02,
         "contributions": [
+            {
+                "firstName": "Colleen",
+                "lastName": "Kelly",
+                "date": "2024-03-14 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60201"
+            },
             {
                 "firstName": "Colleen",
                 "lastName": "Kelly",
@@ -20489,7 +20534,7 @@
                 "lastName": "Kelly",
                 "occupation": "Retired",
                 "employer": "Retired",
-                "aggregateAmount": 55000.0,
+                "aggregateAmount": 57500.0,
                 "zipCode": "60201"
             },
             {
@@ -26381,8 +26426,17 @@
     },
     {
         "committee": "39672",
-        "totalContributions": 43000.0,
+        "totalContributions": 45000.0,
         "contributions": [
+            {
+                "firstName": "Nipesh",
+                "lastName": "Patel",
+                "date": "2024-03-15 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Sales",
+                "employer": "Itron",
+                "zipCode": "60192"
+            },
             {
                 "firstName": "Sharon",
                 "lastName": "Roberts",
@@ -26456,6 +26510,14 @@
                 "zipCode": "60659"
             },
             {
+                "firstName": "Nipesh",
+                "lastName": "Patel",
+                "occupation": "Sales",
+                "employer": "Itron",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60192"
+            },
+            {
                 "firstName": "Ravi",
                 "lastName": "Suthar",
                 "occupation": "Sales",
@@ -26470,14 +26532,6 @@
                 "employer": "None",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60056"
-            },
-            {
-                "firstName": "Michael",
-                "lastName": "Scodro",
-                "occupation": "Attorney",
-                "employer": "Mayer Brown LLP",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60558"
             }
         ]
     },
