@@ -1,8 +1,53 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1661405.23,
+        "totalContributions": 1679405.23,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Driscoll",
+                "date": "2024-03-18 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "The Driscoll Firm LLC",
+                "zipCode": "63102-2758"
+            },
+            {
+                "firstName": "Elaine",
+                "lastName": "Leavenworth",
+                "date": "2024-03-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Not Employed",
+                "employer": "Not Employed",
+                "zipCode": "60610-7449"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Monahan",
+                "date": "2024-03-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Not Employed",
+                "employer": "Not Employed",
+                "zipCode": "60618-8051"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Satalic",
+                "date": "2024-03-15 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Not Employed",
+                "employer": "Not Employed",
+                "zipCode": "60614-2221"
+            },
+            {
+                "firstName": "",
+                "lastName": "Simmons Hanly Conroy",
+                "date": "2024-03-15 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62002-6267"
+            },
             {
                 "firstName": "Alexander",
                 "lastName": "Lerner",
@@ -14070,8 +14115,26 @@
     },
     {
         "committee": "37023",
-        "totalContributions": 49067.42,
+        "totalContributions": 111067.42,
         "contributions": [
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2024-03-18 00:00:00",
+                "amount": 12000.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Russell",
+                "lastName": "Hartigan",
+                "date": "2024-03-14 00:00:00",
+                "amount": 50000.0,
+                "occupation": "Attorney",
+                "employer": "Self employed",
+                "zipCode": "60558"
+            },
             {
                 "firstName": "Russell",
                 "lastName": "Hartigan",
@@ -14160,7 +14223,7 @@
                 "lastName": "Hartigan",
                 "occupation": "Attorney",
                 "employer": "Self employed",
-                "aggregateAmount": 45367.42,
+                "aggregateAmount": 107367.42,
                 "zipCode": "60558"
             },
             {
@@ -20573,8 +20636,17 @@
     },
     {
         "committee": "39511",
-        "totalContributions": 114425.0,
+        "totalContributions": 119095.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "FOP Lodge 7 PAC",
+                "date": "2024-03-20 00:00:00",
+                "amount": 4670.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
             {
                 "firstName": "",
                 "lastName": "Peck Ritchey, LLC",
@@ -20793,6 +20865,14 @@
                 "zipCode": "60646"
             },
             {
+                "firstName": "",
+                "lastName": "FOP Lodge 7 PAC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 4670.0,
+                "zipCode": "60607"
+            },
+            {
                 "firstName": "William B.",
                 "lastName": "Murphy",
                 "occupation": "Firefighter",
@@ -20815,14 +20895,6 @@
                 "employer": "",
                 "aggregateAmount": 2000.0,
                 "zipCode": "60604"
-            },
-            {
-                "firstName": "",
-                "lastName": "Billy Goat Tavern",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 1500.0,
-                "zipCode": "60607"
             }
         ]
     },
@@ -28532,8 +28604,17 @@
     },
     {
         "committee": "39575",
-        "totalContributions": 34000.09,
+        "totalContributions": 35000.09,
         "contributions": [
+            {
+                "firstName": "Dan",
+                "lastName": "Tiernan",
+                "date": "2024-03-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Associate Judge",
+                "employer": "State of Illinois",
+                "zipCode": ""
+            },
             {
                 "firstName": "Kent",
                 "lastName": "Delgado",
@@ -28578,6 +28659,14 @@
                 "employer": "State of Illinois",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60647"
+            },
+            {
+                "firstName": "Dan",
+                "lastName": "Tiernan",
+                "occupation": "Associate Judge",
+                "employer": "State of Illinois",
+                "aggregateAmount": 1000.0,
+                "zipCode": ""
             }
         ]
     },
