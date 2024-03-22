@@ -3478,8 +3478,26 @@
     },
     {
         "committee": "20812",
-        "totalContributions": 402545.0,
+        "totalContributions": 413545.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Friends of Omar Aquino",
+                "date": "2024-03-19 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60639"
+            },
+            {
+                "firstName": "",
+                "lastName": "Local 134 State & Municipal PAC",
+                "date": "2024-03-19 00:00:00",
+                "amount": 10000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60616"
+            },
             {
                 "firstName": "Jose",
                 "lastName": "Sanchez",
@@ -18401,8 +18419,17 @@
     },
     {
         "committee": "25568",
-        "totalContributions": 196551.69,
+        "totalContributions": 198832.42,
         "contributions": [
+            {
+                "firstName": "Owens J.",
+                "lastName": "Shelby",
+                "date": "2024-03-20 00:00:00",
+                "amount": 2280.73,
+                "occupation": "Judge",
+                "employer": "State of Illinois",
+                "zipCode": "60305"
+            },
             {
                 "firstName": "",
                 "lastName": "Citizen for Accountability",
@@ -19155,7 +19182,7 @@
                 "lastName": "Shelby",
                 "occupation": "Prosecutor",
                 "employer": "State of Illinois",
-                "aggregateAmount": 33376.69,
+                "aggregateAmount": 35657.420000000006,
                 "zipCode": "60305"
             },
             {
@@ -21714,8 +21741,17 @@
     },
     {
         "committee": "39437",
-        "totalContributions": 157048.3,
+        "totalContributions": 158048.3,
         "contributions": [
+            {
+                "firstName": "Kerry",
+                "lastName": "Peck",
+                "date": "2024-03-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Peck Ritchey LLC",
+                "zipCode": "60604"
+            },
             {
                 "firstName": "Gail",
                 "lastName": "Goldberg",
@@ -24275,8 +24311,26 @@
     },
     {
         "committee": "39577",
-        "totalContributions": 155543.38999999998,
+        "totalContributions": 159543.38999999998,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "LIUNA Chicago Laborers' District Council PAC",
+                "date": "2024-03-21 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Jimmy's Restaurant",
+                "date": "2024-03-21 00:00:00",
+                "amount": 1500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60411"
+            },
             {
                 "firstName": "",
                 "lastName": "Chicago Federation of Labor and Industrial Union Council PAC",
