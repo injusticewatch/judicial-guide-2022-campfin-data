@@ -3478,8 +3478,17 @@
     },
     {
         "committee": "20812",
-        "totalContributions": 413545.0,
+        "totalContributions": 415545.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Ikon Group Inc.",
+                "date": "2024-03-22 00:00:00",
+                "amount": 2000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
             {
                 "firstName": "",
                 "lastName": "Friends of Omar Aquino",
@@ -28184,8 +28193,17 @@
     },
     {
         "committee": "39560",
-        "totalContributions": 64335.75,
+        "totalContributions": 65335.75,
         "contributions": [
+            {
+                "firstName": "Mary",
+                "lastName": "Howard",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60628"
+            },
             {
                 "firstName": "Risa",
                 "lastName": "Lanier",
@@ -28512,6 +28530,14 @@
                 "zipCode": "60643"
             },
             {
+                "firstName": "Mary",
+                "lastName": "Howard",
+                "occupation": "Retired",
+                "employer": "Retired",
+                "aggregateAmount": 2000.0,
+                "zipCode": "60628"
+            },
+            {
                 "firstName": "Joseph",
                 "lastName": "Lanier",
                 "occupation": "File Clerk",
@@ -28534,14 +28560,6 @@
                 "employer": "Retired",
                 "aggregateAmount": 1500.0,
                 "zipCode": "35206"
-            },
-            {
-                "firstName": "Mary",
-                "lastName": "Howard",
-                "occupation": "Retired",
-                "employer": "Retired",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60628"
             }
         ]
     },
