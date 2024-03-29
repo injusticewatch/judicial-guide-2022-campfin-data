@@ -20462,8 +20462,17 @@
     },
     {
         "committee": "36987",
-        "totalContributions": 60021.02,
+        "totalContributions": 61021.02,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "KNI Communications",
+                "date": "2024-03-26 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60640"
+            },
             {
                 "firstName": "Colleen",
                 "lastName": "Kelly",
@@ -20672,6 +20681,14 @@
                 "zipCode": "60630"
             },
             {
+                "firstName": "",
+                "lastName": "KNI Communications",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60640"
+            },
+            {
                 "firstName": "Jacqueline",
                 "lastName": "Keane-Kelly",
                 "occupation": "",
@@ -20686,14 +20703,6 @@
                 "employer": "",
                 "aggregateAmount": 200.0,
                 "zipCode": "60712"
-            },
-            {
-                "firstName": "Peter",
-                "lastName": "Kelly",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 200.0,
-                "zipCode": "60201"
             }
         ]
     },
