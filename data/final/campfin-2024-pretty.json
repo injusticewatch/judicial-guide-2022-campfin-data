@@ -13957,15 +13957,240 @@
     },
     {
         "committee": "31848",
-        "totalContributions": 7941.2,
+        "totalContributions": 14189.44,
         "contributions": [
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-19 00:00:00",
+                "amount": 350.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "MARIA",
+                "lastName": "OWENS",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "lawyer",
+                "employer": "Owens & Robinson",
+                "zipCode": "60628-1634"
+            },
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "MARIA",
+                "lastName": "OWENS",
+                "date": "2024-03-19 00:00:00",
+                "amount": 100.0,
+                "occupation": "lawyer",
+                "employer": "Owens & Robinson",
+                "zipCode": "60628-1634"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-03-19 00:00:00",
+                "amount": 25.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "MARY",
+                "lastName": "LONG",
+                "date": "2024-03-18 00:00:00",
+                "amount": 100.0,
+                "occupation": "violence prevention organizer",
+                "employer": "Sacred Ground",
+                "zipCode": "60619"
+            },
+            {
+                "firstName": "Rose",
+                "lastName": "Joshua",
+                "date": "2024-03-13 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60649"
+            },
+            {
+                "firstName": "CAROL",
+                "lastName": "EDWARDS",
+                "date": "2024-03-13 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60628-1348"
+            },
+            {
+                "firstName": "DERICK",
+                "lastName": "JOHNSON",
+                "date": "2024-03-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "MARIA",
+                "lastName": "OWENS",
+                "date": "2024-03-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "lawyer",
+                "employer": "Owens & Robinson",
+                "zipCode": "60628-1634"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-03-12 00:00:00",
+                "amount": 100.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "RENVA",
+                "lastName": "DUNCAN",
+                "date": "2024-03-11 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60628"
+            },
+            {
+                "firstName": "Van",
+                "lastName": "Wells",
+                "date": "2024-03-06 00:00:00",
+                "amount": 500.0,
+                "occupation": "Retired",
+                "employer": "Pickens Memorial Temple",
+                "zipCode": "60621"
+            },
+            {
+                "firstName": "Van",
+                "lastName": "Wells",
+                "date": "2024-03-03 00:00:00",
+                "amount": 500.0,
+                "occupation": "Retired",
+                "employer": "Pickens Memorial Temple",
+                "zipCode": "60621"
+            },
+            {
+                "firstName": "RENVA",
+                "lastName": "DUNCAN",
+                "date": "2024-02-21 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60628"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-02-08 00:00:00",
+                "amount": 500.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-02-06 00:00:00",
+                "amount": 155.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-02-05 00:00:00",
+                "amount": 98.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-02-01 00:00:00",
+                "amount": 500.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-01-25 00:00:00",
+                "amount": 500.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-01-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
+            {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "date": "2024-01-17 00:00:00",
+                "amount": 120.24,
+                "occupation": "Attorney",
+                "employer": "Owens & Robinson",
+                "zipCode": "60429"
+            },
             {
                 "firstName": "SHERRI",
                 "lastName": "MITCHELL",
                 "date": "2024-01-09 00:00:00",
                 "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
+                "occupation": "administrator",
+                "employer": "Nursing home administrator",
                 "zipCode": "60643"
             },
             {
@@ -14078,6 +14303,14 @@
                 "zipCode": "60429"
             },
             {
+                "firstName": "CHELSEY R.",
+                "lastName": "ROBINSON",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2939.44,
+                "zipCode": "60429"
+            },
+            {
                 "firstName": "Johnnie",
                 "lastName": "McKinney",
                 "occupation": "Retired",
@@ -14088,26 +14321,18 @@
             {
                 "firstName": "SHERRI",
                 "lastName": "MITCHELL",
-                "occupation": "",
-                "employer": "",
+                "occupation": "administrator",
+                "employer": "Nursing home administrator",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60643"
             },
             {
-                "firstName": "DAMARO",
-                "lastName": "STERLING",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 500.0,
+                "firstName": "Van",
+                "lastName": "Wells",
+                "occupation": "Retired",
+                "employer": "Pickens Memorial Temple",
+                "aggregateAmount": 1000.0,
                 "zipCode": "60621"
-            },
-            {
-                "firstName": "CHELSEY R.",
-                "lastName": "ROBINSON",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 441.2,
-                "zipCode": "60429"
             }
         ]
     },
@@ -18964,8 +19189,35 @@
     },
     {
         "committee": "39568",
-        "totalContributions": 134800.0,
+        "totalContributions": 135500.0,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Passananti",
+                "date": "2024-03-29 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Terrence",
+                "lastName": "Lefevour",
+                "date": "2024-02-01 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Marco",
+                "lastName": "Raimondi",
+                "date": "2024-01-11 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60402"
+            },
             {
                 "firstName": "Joseph",
                 "lastName": "Padula",
@@ -22442,8 +22694,26 @@
     },
     {
         "committee": "39508",
-        "totalContributions": 200470.0,
+        "totalContributions": 200920.0,
         "contributions": [
+            {
+                "firstName": "Valerie",
+                "lastName": "Barajas",
+                "date": "2024-02-01 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60053"
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Zatopek",
+                "date": "2024-01-04 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "78717"
+            },
             {
                 "firstName": "Brijnandan",
                 "lastName": "Sodhi",
@@ -23093,8 +23363,17 @@
     },
     {
         "committee": "39515",
-        "totalContributions": 22075.70999999999,
+        "totalContributions": 22325.70999999999,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Wintrust Bank",
+                "date": "2024-02-01 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
+            },
             {
                 "firstName": "Fred",
                 "lastName": "Ephren",
@@ -25821,8 +26100,8 @@
                 "lastName": "Goldberg",
                 "date": "2024-01-31 00:00:00",
                 "amount": 15000.0,
-                "occupation": "",
-                "employer": "",
+                "occupation": "Personnel",
+                "employer": "Wireless Distributor Networks LLC",
                 "zipCode": "60047"
             },
             {
@@ -26288,8 +26567,8 @@
             {
                 "firstName": "Gail",
                 "lastName": "Goldberg",
-                "occupation": "",
-                "employer": "",
+                "occupation": "Personnel",
+                "employer": "Wireless Distributor Networks LLC",
                 "aggregateAmount": 15000.0,
                 "zipCode": "60047"
             },
@@ -27267,8 +27546,17 @@
     },
     {
         "committee": "36795",
-        "totalContributions": 400783.42,
+        "totalContributions": 401263.12,
         "contributions": [
+            {
+                "firstName": "Joseph",
+                "lastName": "Carlson",
+                "date": "2024-03-07 00:00:00",
+                "amount": 479.7,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "",
                 "lastName": "Alon Stein for Judge",
@@ -27324,6 +27612,14 @@
                 "zipCode": "60067"
             },
             {
+                "firstName": "Joseph",
+                "lastName": "Carlson",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 479.7,
+                "zipCode": "60646"
+            },
+            {
                 "firstName": "",
                 "lastName": "Alon Stein for Judge",
                 "occupation": "",
@@ -27377,8 +27673,17 @@
     },
     {
         "committee": "39328",
-        "totalContributions": 176630.0,
+        "totalContributions": 176880.0,
         "contributions": [
+            {
+                "firstName": "Dusanka D",
+                "lastName": "Grcic",
+                "date": "2024-01-25 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60068"
+            },
             {
                 "firstName": "Bob",
                 "lastName": "Karas",
@@ -28143,9 +28448,28 @@
     },
     {
         "committee": "39555",
-        "totalContributions": 0,
-        "contributions": [],
-        "topDonors": []
+        "totalContributions": 50000.0,
+        "contributions": [
+            {
+                "firstName": "Stephanie",
+                "lastName": "Miller",
+                "date": "2023-10-25 00:00:00",
+                "amount": 50000.0,
+                "occupation": "judge",
+                "employer": "state of illinois",
+                "zipCode": ""
+            }
+        ],
+        "topDonors": [
+            {
+                "firstName": "Stephanie",
+                "lastName": "Miller",
+                "occupation": "judge",
+                "employer": "state of illinois",
+                "aggregateAmount": 50000.0,
+                "zipCode": ""
+            }
+        ]
     },
     {
         "committee": "21557",
@@ -33414,7 +33738,7 @@
     },
     {
         "committee": "39560",
-        "totalContributions": 65335.75,
+        "totalContributions": 68385.75,
         "contributions": [
             {
                 "firstName": "Mary",
@@ -33424,6 +33748,69 @@
                 "occupation": "Retired",
                 "employer": "Retired",
                 "zipCode": "60628"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Lanier",
+                "date": "2024-03-07 00:00:00",
+                "amount": 200.0,
+                "occupation": "File Clerk",
+                "employer": "Cook County",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Howard",
+                "date": "2024-03-07 00:00:00",
+                "amount": 100.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60628"
+            },
+            {
+                "firstName": "Garvin",
+                "lastName": "Ambrose",
+                "date": "2024-03-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Barbara",
+                "lastName": "Cottrell",
+                "date": "2024-03-07 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60620"
+            },
+            {
+                "firstName": "Veronica",
+                "lastName": "Herrero",
+                "date": "2024-03-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Donovan",
+                "lastName": "Jackson",
+                "date": "2024-03-07 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60620"
+            },
+            {
+                "firstName": "Maurice",
+                "lastName": "Macklin",
+                "date": "2024-03-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60507"
             },
             {
                 "firstName": "Risa",
@@ -33442,6 +33829,60 @@
                 "occupation": "File Clerk",
                 "employer": "Cook County",
                 "zipCode": "60643"
+            },
+            {
+                "firstName": "Gillian",
+                "lastName": "Marshall",
+                "date": "2024-02-29 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60422"
+            },
+            {
+                "firstName": "Jane",
+                "lastName": "Stuart",
+                "date": "2024-02-29 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Camille",
+                "lastName": "Lee",
+                "date": "2024-02-29 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60419"
+            },
+            {
+                "firstName": "Kal",
+                "lastName": "Harris",
+                "date": "2024-02-29 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60655"
+            },
+            {
+                "firstName": "Alejandro",
+                "lastName": "Espinoza",
+                "date": "2024-02-29 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60632"
+            },
+            {
+                "firstName": "Kenneth",
+                "lastName": "Howard",
+                "date": "2024-02-29 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60619"
             },
             {
                 "firstName": "Risa",
@@ -33755,7 +34196,7 @@
                 "lastName": "Lanier",
                 "occupation": "File Clerk",
                 "employer": "Cook County",
-                "aggregateAmount": 2000.0,
+                "aggregateAmount": 2200.0,
                 "zipCode": "60643"
             },
             {
@@ -33763,7 +34204,7 @@
                 "lastName": "Howard",
                 "occupation": "Retired",
                 "employer": "Retired",
-                "aggregateAmount": 2000.0,
+                "aggregateAmount": 2100.0,
                 "zipCode": "60628"
             },
             {
@@ -34068,7 +34509,7 @@
     },
     {
         "committee": "39575",
-        "totalContributions": 35000.09,
+        "totalContributions": 41750.09,
         "contributions": [
             {
                 "firstName": "Dan",
@@ -34080,13 +34521,175 @@
                 "zipCode": ""
             },
             {
+                "firstName": "Markian",
+                "lastName": "Kuzycz",
+                "date": "2024-03-14 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60661"
+            },
+            {
                 "firstName": "Kent",
                 "lastName": "Delgado",
                 "date": "2024-03-07 00:00:00",
                 "amount": 1000.0,
                 "occupation": "Judge Cook County Circuit Court",
                 "employer": "State of Illinois",
-                "zipCode": "60647"
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Jeff",
+                "lastName": "Levine",
+                "date": "2024-03-07 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60546"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Faccenda",
+                "date": "2024-03-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60525"
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Groth",
+                "date": "2024-03-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60439"
+            },
+            {
+                "firstName": "Nancy",
+                "lastName": "OMalley",
+                "date": "2024-03-07 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Rhonda",
+                "lastName": "Panousakis",
+                "date": "2024-03-07 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "Panteleimon",
+                "lastName": "Kamaris",
+                "date": "2024-03-07 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60004"
+            },
+            {
+                "firstName": "Gregory",
+                "lastName": "Ahern",
+                "date": "2024-02-29 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "Paul",
+                "lastName": "Kontogiorgis",
+                "date": "2024-02-29 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Effie",
+                "lastName": "Kapsaskis",
+                "date": "2024-02-22 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Leonard",
+                "lastName": "Weinstein",
+                "date": "2024-02-22 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Daria",
+                "lastName": "Pappas",
+                "date": "2024-02-22 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "Lindsey",
+                "lastName": "Kuka",
+                "date": "2024-02-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Kelber",
+                "date": "2024-02-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60641"
+            },
+            {
+                "firstName": "Christopher",
+                "lastName": "Valentine",
+                "date": "2024-02-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "85718"
+            },
+            {
+                "firstName": "Evan",
+                "lastName": "Weinstein",
+                "date": "2024-02-15 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Alexander",
+                "lastName": "Valentine",
+                "date": "2024-02-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "85718"
+            },
+            {
+                "firstName": "Paraskevi",
+                "lastName": "Valentine",
+                "date": "2024-02-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "85750"
             },
             {
                 "firstName": "Nickolas",
@@ -34122,7 +34725,7 @@
                 "occupation": "Judge Cook County Circuit Court",
                 "employer": "State of Illinois",
                 "aggregateAmount": 1000.0,
-                "zipCode": "60647"
+                "zipCode": "60602"
             },
             {
                 "firstName": "Dan",
@@ -34131,6 +34734,22 @@
                 "employer": "State of Illinois",
                 "aggregateAmount": 1000.0,
                 "zipCode": ""
+            },
+            {
+                "firstName": "Leonard",
+                "lastName": "Weinstein",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 500.0,
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Daria",
+                "lastName": "Pappas",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 500.0,
+                "zipCode": "60604"
             }
         ]
     },
