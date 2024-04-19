@@ -23996,7 +23996,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60008"
+                "zipCode": ""
             },
             {
                 "firstName": "James",
@@ -31752,8 +31752,17 @@
     },
     {
         "committee": "39623",
-        "totalContributions": 11200.0,
+        "totalContributions": 12200.0,
         "contributions": [
+            {
+                "firstName": "Gina",
+                "lastName": "Lepore",
+                "date": "2024-04-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Luxury Property Specialist",
+                "employer": "Coldwell Banker Realty",
+                "zipCode": "60140"
+            },
             {
                 "firstName": "",
                 "lastName": "Law Offices of Sam L Amirante P.C.",
@@ -31808,6 +31817,14 @@
                 "employer": "",
                 "aggregateAmount": 10000.0,
                 "zipCode": "60181"
+            },
+            {
+                "firstName": "Gina",
+                "lastName": "Lepore",
+                "occupation": "Luxury Property Specialist",
+                "employer": "Coldwell Banker Realty",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60140"
             },
             {
                 "firstName": "James P",
@@ -37326,7 +37343,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60008"
+                "zipCode": ""
             },
             {
                 "firstName": "Craig",
