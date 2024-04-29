@@ -4330,7 +4330,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60646-1306"
+                "zipCode": ""
             },
             {
                 "firstName": "Rena M",
@@ -5275,7 +5275,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60653"
+                "zipCode": ""
             },
             {
                 "firstName": "Abraham",
@@ -6268,7 +6268,7 @@
                 "amount": 100.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60616"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -6538,7 +6538,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60616"
+                "zipCode": ""
             },
             {
                 "firstName": "Mar\u00eda",
@@ -21955,7 +21955,7 @@
                 "amount": 5.0,
                 "occupation": "Attorney",
                 "employer": "Callahan Law, PC",
-                "zipCode": "60646"
+                "zipCode": ""
             },
             {
                 "firstName": "Daniel",
@@ -21973,7 +21973,7 @@
                 "amount": 50000.0,
                 "occupation": "Attorney",
                 "employer": "Callahan Law, PC",
-                "zipCode": "60646"
+                "zipCode": ""
             }
         ],
         "topDonors": [
@@ -21983,7 +21983,7 @@
                 "occupation": "Attorney",
                 "employer": "Callahan Law, PC",
                 "aggregateAmount": 50005.0,
-                "zipCode": "60646"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -25511,7 +25511,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60010"
+                "zipCode": ""
             },
             {
                 "firstName": "Jamie",
@@ -27300,7 +27300,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60010"
+                "zipCode": ""
             },
             {
                 "firstName": "Kulmeet",
@@ -27606,7 +27606,7 @@
                 "amount": 130000.0,
                 "occupation": "Assistant Public Defender",
                 "employer": "Cook County",
-                "zipCode": "60607"
+                "zipCode": ""
             }
         ],
         "topDonors": [
@@ -27616,7 +27616,7 @@
                 "occupation": "Assistant Public Defender",
                 "employer": "Cook County",
                 "aggregateAmount": 130000.0,
-                "zipCode": "60607"
+                "zipCode": ""
             },
             {
                 "firstName": "Ranjit",
@@ -29778,7 +29778,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60010"
+                "zipCode": ""
             },
             {
                 "firstName": "Amy",
@@ -31752,8 +31752,17 @@
     },
     {
         "committee": "39623",
-        "totalContributions": 12200.0,
+        "totalContributions": 13200.0,
         "contributions": [
+            {
+                "firstName": "Kathleen",
+                "lastName": "Vardon",
+                "date": "2024-04-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "20172"
+            },
             {
                 "firstName": "Gina",
                 "lastName": "Lepore",
@@ -31827,6 +31836,14 @@
                 "zipCode": "60140"
             },
             {
+                "firstName": "Kathleen",
+                "lastName": "Vardon",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "20172"
+            },
+            {
                 "firstName": "James P",
                 "lastName": "Etchingham",
                 "occupation": "",
@@ -31841,14 +31858,6 @@
                 "employer": "",
                 "aggregateAmount": 500.0,
                 "zipCode": "60008"
-            },
-            {
-                "firstName": "Joseph",
-                "lastName": "Vito",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 200.0,
-                "zipCode": "60090"
             }
         ]
     },
@@ -32530,7 +32539,7 @@
                 "amount": 150000.0,
                 "occupation": "Senior Staff Attorney",
                 "employer": "Pace Suburban Bus Service",
-                "zipCode": "60010"
+                "zipCode": ""
             }
         ],
         "topDonors": [
@@ -32540,7 +32549,7 @@
                 "occupation": "Senior Staff Attorney",
                 "employer": "Pace Suburban Bus Service",
                 "aggregateAmount": 150000.0,
-                "zipCode": "60010"
+                "zipCode": ""
             },
             {
                 "firstName": "",
