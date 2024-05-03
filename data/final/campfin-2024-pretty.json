@@ -31752,8 +31752,35 @@
     },
     {
         "committee": "39623",
-        "totalContributions": 13200.0,
+        "totalContributions": 17700.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Friends of Sam Tornatore",
+                "date": "2024-04-29 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60108"
+            },
+            {
+                "firstName": "Mark",
+                "lastName": "Battaglia",
+                "date": "2024-04-29 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60612"
+            },
+            {
+                "firstName": "",
+                "lastName": "Airdo Werwas, LLC",
+                "date": "2024-04-29 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Kathleen",
                 "lastName": "Vardon",
@@ -31828,6 +31855,14 @@
                 "zipCode": "60181"
             },
             {
+                "firstName": "",
+                "lastName": "Airdo Werwas, LLC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 2500.0,
+                "zipCode": "60601"
+            },
+            {
                 "firstName": "Gina",
                 "lastName": "Lepore",
                 "occupation": "Luxury Property Specialist",
@@ -31844,20 +31879,12 @@
                 "zipCode": "20172"
             },
             {
-                "firstName": "James P",
-                "lastName": "Etchingham",
+                "firstName": "",
+                "lastName": "Friends of Sam Tornatore",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": "60004"
-            },
-            {
-                "firstName": "James",
-                "lastName": "Geocaris",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": "60008"
+                "aggregateAmount": 1000.0,
+                "zipCode": "60108"
             }
         ]
     },
@@ -40643,7 +40670,7 @@
     },
     {
         "committee": "39592",
-        "totalContributions": 211256.63999999998,
+        "totalContributions": 213061.83999999997,
         "contributions": [
             {
                 "firstName": "Bridget",
@@ -40736,6 +40763,15 @@
                 "zipCode": "60643"
             },
             {
+                "firstName": "Bridget",
+                "lastName": "Duignan",
+                "date": "2024-03-05 00:00:00",
+                "amount": 228.9,
+                "occupation": "Attorney",
+                "employer": "Latherow & Duignan",
+                "zipCode": "60643"
+            },
+            {
                 "firstName": "Daniel",
                 "lastName": "Kotowski",
                 "date": "2024-02-28 00:00:00",
@@ -40790,12 +40826,30 @@
                 "zipCode": "60805"
             },
             {
+                "firstName": "Bridget",
+                "lastName": "Duignan",
+                "date": "2024-02-05 00:00:00",
+                "amount": 38.15,
+                "occupation": "Attorney",
+                "employer": "Latherow & Duignan",
+                "zipCode": "60643"
+            },
+            {
                 "firstName": "Michelle",
                 "lastName": "Brett",
                 "date": "2024-02-04 00:00:00",
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Bridget",
+                "lastName": "Duignan",
+                "date": "2024-01-15 00:00:00",
+                "amount": 38.15,
+                "occupation": "Attorney",
+                "employer": "Latherow & Duignan",
                 "zipCode": "60643"
             },
             {
@@ -40832,15 +40886,6 @@
                 "amount": 1000.0,
                 "occupation": "Attorney",
                 "employer": "Parents & Norem PC",
-                "zipCode": "60601"
-            },
-            {
-                "firstName": "",
-                "lastName": "Tomasik Kotin & Kasserman LLC",
-                "date": "2023-12-20 00:00:00",
-                "amount": 4500.0,
-                "occupation": "",
-                "employer": "",
                 "zipCode": "60601"
             },
             {
@@ -40934,46 +40979,10 @@
                 "zipCode": "60186"
             },
             {
-                "firstName": "T. A.",
-                "lastName": "Demetrio",
-                "date": "2023-12-19 00:00:00",
-                "amount": 1500.0,
-                "occupation": "Attorney",
-                "employer": "Corboy & Demetrio P.C.",
-                "zipCode": "60602"
-            },
-            {
-                "firstName": "John",
-                "lastName": "Locallo",
-                "date": "2023-12-19 00:00:00",
-                "amount": 500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60647"
-            },
-            {
-                "firstName": "Michelle",
-                "lastName": "Porro",
-                "date": "2023-12-19 00:00:00",
-                "amount": 500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60564"
-            },
-            {
                 "firstName": "",
-                "lastName": "Winters Salzetta O'Brien & Richardson LLC",
-                "date": "2023-12-19 00:00:00",
-                "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60602"
-            },
-            {
-                "firstName": "George",
-                "lastName": "Brugess",
-                "date": "2023-12-19 00:00:00",
-                "amount": 500.0,
+                "lastName": "Tomasik Kotin & Kasserman LLC",
+                "date": "2023-12-20 00:00:00",
+                "amount": 4500.0,
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60601"
@@ -41114,6 +41123,69 @@
                 "zipCode": "60661"
             },
             {
+                "firstName": "T. A.",
+                "lastName": "Demetrio",
+                "date": "2023-12-19 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Corboy & Demetrio P.C.",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Locallo",
+                "date": "2023-12-19 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60647"
+            },
+            {
+                "firstName": "Michelle",
+                "lastName": "Porro",
+                "date": "2023-12-19 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60564"
+            },
+            {
+                "firstName": "",
+                "lastName": "Winters Salzetta O'Brien & Richardson LLC",
+                "date": "2023-12-19 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "George",
+                "lastName": "Brugess",
+                "date": "2023-12-19 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Sarah",
+                "lastName": "King",
+                "date": "2023-12-19 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Michelle",
+                "lastName": "Kohut",
+                "date": "2023-12-19 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60044"
+            },
+            {
                 "firstName": "Bridget",
                 "lastName": "Duignan",
                 "date": "2023-12-19 00:00:00",
@@ -41177,6 +41249,24 @@
                 "zipCode": "60558"
             },
             {
+                "firstName": "Ian",
+                "lastName": "Alexander",
+                "date": "2023-12-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Philip",
+                "lastName": "Corboy Jr",
+                "date": "2023-12-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Bridget",
                 "lastName": "Duignan",
                 "date": "2023-12-18 00:00:00",
@@ -41213,24 +41303,6 @@
                 "zipCode": "60606"
             },
             {
-                "firstName": "Jerry",
-                "lastName": "Latherow",
-                "date": "2023-12-13 00:00:00",
-                "amount": 10000.0,
-                "occupation": "Attorney",
-                "employer": "Latherow & Duignan",
-                "zipCode": "60614"
-            },
-            {
-                "firstName": "",
-                "lastName": "JBC Wood St LLC",
-                "date": "2023-12-13 00:00:00",
-                "amount": 250.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60643"
-            },
-            {
                 "firstName": "",
                 "lastName": "Leahy Hoste Alkaraki",
                 "date": "2023-12-13 00:00:00",
@@ -41256,6 +41328,24 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60602"
+            },
+            {
+                "firstName": "Jerry",
+                "lastName": "Latherow",
+                "date": "2023-12-13 00:00:00",
+                "amount": 10000.0,
+                "occupation": "Attorney",
+                "employer": "Latherow & Duignan",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "",
+                "lastName": "JBC Wood St LLC",
+                "date": "2023-12-13 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
             },
             {
                 "firstName": "Kevin",
@@ -41561,7 +41651,7 @@
                 "lastName": "Duignan",
                 "occupation": "Attorney",
                 "employer": "Latherow & Duignan",
-                "aggregateAmount": 106006.64,
+                "aggregateAmount": 106311.83999999998,
                 "zipCode": "60643"
             },
             {
@@ -41573,20 +41663,20 @@
                 "zipCode": "60614"
             },
             {
-                "firstName": "Benjamin",
-                "lastName": "Crane",
-                "occupation": "Attorney",
-                "employer": "Coplan + Crane",
-                "aggregateAmount": 5000.0,
-                "zipCode": "60304"
-            },
-            {
                 "firstName": "John",
                 "lastName": "Power",
                 "occupation": "Attorney",
                 "employer": "Cogan & Power P.C",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60175"
+            },
+            {
+                "firstName": "Benjamin",
+                "lastName": "Crane",
+                "occupation": "Attorney",
+                "employer": "Coplan + Crane",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60304"
             },
             {
                 "firstName": "",
