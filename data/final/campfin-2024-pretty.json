@@ -17032,7 +17032,7 @@
                 "amount": 500.0,
                 "occupation": "Attorney",
                 "employer": "Stone & Johnson",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Melisa",
@@ -17113,7 +17113,7 @@
                 "amount": 500.0,
                 "occupation": "Attorney",
                 "employer": "Stone & Johnson",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Linda",
@@ -20833,7 +20833,7 @@
                 "amount": 2001.0,
                 "occupation": "Law Enforcement",
                 "employer": "City of Chicago",
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -20869,7 +20869,7 @@
                 "amount": 5000.0,
                 "occupation": "Circuit Court Judge",
                 "employer": "State of Illinois",
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "Howard",
@@ -20977,7 +20977,7 @@
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Dan",
@@ -21193,7 +21193,7 @@
                 "amount": 25000.0,
                 "occupation": "Circuit Court Judge",
                 "employer": "State of Illinois",
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "Katherine",
@@ -21211,7 +21211,7 @@
                 "amount": 50001.0,
                 "occupation": "Circuit Court Judge",
                 "employer": "State of Illinois",
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "Dipak",
@@ -21248,7 +21248,7 @@
                 "occupation": "Circuit Court Judge",
                 "employer": "State of Illinois",
                 "aggregateAmount": 80001.0,
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -21280,7 +21280,7 @@
                 "occupation": "Law Enforcement",
                 "employer": "City of Chicago",
                 "aggregateAmount": 2001.0,
-                "zipCode": "60608"
+                "zipCode": ""
             }
         ]
     },
@@ -23213,7 +23213,7 @@
                 "amount": 416.76,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Jeff",
@@ -23372,7 +23372,7 @@
                 "occupation": "",
                 "employer": "",
                 "aggregateAmount": 416.76,
-                "zipCode": "60302"
+                "zipCode": ""
             }
         ]
     },
@@ -25736,7 +25736,7 @@
                 "amount": 300.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60616"
+                "zipCode": ""
             },
             {
                 "firstName": "Louis",
@@ -29463,7 +29463,7 @@
                 "amount": 10000.0,
                 "occupation": "Lawyer",
                 "employer": "Stone & Johnson",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Chris",
@@ -29814,7 +29814,7 @@
                 "amount": 25.0,
                 "occupation": "Lawyer",
                 "employer": "Stone & Johnson",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Denise",
@@ -29850,7 +29850,7 @@
                 "amount": 5000.0,
                 "occupation": "Lawyer",
                 "employer": "Stone & Johnson",
-                "zipCode": "60302"
+                "zipCode": ""
             }
         ],
         "topDonors": [
@@ -29860,7 +29860,7 @@
                 "occupation": "Lawyer",
                 "employer": "Stone & Johnson",
                 "aggregateAmount": 15025.0,
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "",
@@ -30120,7 +30120,7 @@
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60302"
+                "zipCode": ""
             },
             {
                 "firstName": "Angela",
@@ -31551,8 +31551,17 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 30336.0,
+        "totalContributions": 31836.0,
         "contributions": [
+            {
+                "firstName": "Devon",
+                "lastName": "Bruce",
+                "date": "2024-05-02 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Joseph",
                 "lastName": "Balesteri",
@@ -31741,12 +31750,12 @@
                 "zipCode": "60305"
             },
             {
-                "firstName": "Constantine",
-                "lastName": "Kanellos",
+                "firstName": "Devon",
+                "lastName": "Bruce",
                 "occupation": "Attorney",
-                "employer": "Self",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60093"
+                "employer": "Power Rogers",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60602"
             }
         ]
     },
@@ -39854,8 +39863,17 @@
     },
     {
         "committee": "39299",
-        "totalContributions": 60727.64,
+        "totalContributions": 63727.64,
         "contributions": [
+            {
+                "firstName": "Sunil",
+                "lastName": "Bhave",
+                "date": "2024-05-01 00:00:00",
+                "amount": 3000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
             {
                 "firstName": "Andrew",
                 "lastName": "Koleno",
@@ -40079,7 +40097,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60608"
+                "zipCode": ""
             },
             {
                 "firstName": "John",
@@ -40398,6 +40416,14 @@
                 "zipCode": "60016"
             },
             {
+                "firstName": "Sunil",
+                "lastName": "Bhave",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 3000.0,
+                "zipCode": ""
+            },
+            {
                 "firstName": "Brian",
                 "lastName": "Hock",
                 "occupation": "Management",
@@ -40420,14 +40446,6 @@
                 "employer": "Romanucci & Blandin",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60654"
-            },
-            {
-                "firstName": "Maura",
-                "lastName": "Possley",
-                "occupation": "Communications",
-                "employer": "Boyce Possley Communications",
-                "aggregateAmount": 750.0,
-                "zipCode": "60646"
             }
         ]
     },
