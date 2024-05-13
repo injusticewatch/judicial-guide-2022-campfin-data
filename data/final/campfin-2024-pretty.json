@@ -31761,8 +31761,17 @@
     },
     {
         "committee": "39623",
-        "totalContributions": 17700.0,
+        "totalContributions": 18700.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Chicago Prime Steakhouse Corp",
+                "date": "2024-05-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60173"
+            },
             {
                 "firstName": "",
                 "lastName": "Friends of Sam Tornatore",
