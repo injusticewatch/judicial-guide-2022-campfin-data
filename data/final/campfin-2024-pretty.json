@@ -31551,8 +31551,62 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 31836.0,
+        "totalContributions": 45836.0,
         "contributions": [
+            {
+                "firstName": "Robert",
+                "lastName": "Cooney",
+                "date": "2024-05-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cooney and Conway",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Richard",
+                "lastName": "Pullano",
+                "date": "2024-05-16 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Pullano & Siporin",
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Colin",
+                "lastName": "Dunn",
+                "date": "2024-05-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Dunn Harrington",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Clifford",
+                "date": "2024-05-16 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Kathryn",
+                "lastName": "Conway",
+                "date": "2024-05-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Andrew",
+                "lastName": "Kriegel",
+                "date": "2024-05-16 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Self",
+                "zipCode": "60614"
+            },
             {
                 "firstName": "Devon",
                 "lastName": "Bruce",
@@ -31734,28 +31788,28 @@
                 "zipCode": "60304"
             },
             {
+                "firstName": "Richard",
+                "lastName": "Pullano",
+                "occupation": "Attorney",
+                "employer": "Pullano & Siporin",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60025"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Clifford",
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60611"
+            },
+            {
                 "firstName": "Kathryn",
                 "lastName": "Costello",
                 "occupation": "Records keeper",
                 "employer": "Costello, McMahon, Gilbreth & Murphy",
                 "aggregateAmount": 2000.0,
                 "zipCode": "60004"
-            },
-            {
-                "firstName": "Joseph",
-                "lastName": "Balesteri",
-                "occupation": "Attorney",
-                "employer": "Power Rogers LLP",
-                "aggregateAmount": 1500.0,
-                "zipCode": "60305"
-            },
-            {
-                "firstName": "Devon",
-                "lastName": "Bruce",
-                "occupation": "Attorney",
-                "employer": "Power Rogers",
-                "aggregateAmount": 1500.0,
-                "zipCode": "60602"
             }
         ]
     },
