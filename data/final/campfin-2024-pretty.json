@@ -1,8 +1,26 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1790225.24,
+        "totalContributions": 1795225.24,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Peck Ritchey, LLC",
+                "date": "2024-05-13 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604-3922"
+            },
+            {
+                "firstName": "",
+                "lastName": "Peck Ritchey, LLC",
+                "date": "2024-05-13 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604-3922"
+            },
             {
                 "firstName": "Michael",
                 "lastName": "Carter",
