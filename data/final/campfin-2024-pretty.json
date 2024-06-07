@@ -11359,8 +11359,17 @@
     },
     {
         "committee": "39440",
-        "totalContributions": 183244.47999999998,
+        "totalContributions": 188244.47999999998,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Gamrath For Appellate Court",
+                "date": "2024-05-28 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
             {
                 "firstName": "Michael",
                 "lastName": "Carter",
@@ -19162,8 +19171,17 @@
     },
     {
         "committee": "39459",
-        "totalContributions": 48180.0,
+        "totalContributions": 50180.0,
         "contributions": [
+            {
+                "firstName": "Antoinette",
+                "lastName": "Boyd",
+                "date": "2024-05-30 00:00:00",
+                "amount": 2000.0,
+                "occupation": "VP of Operations & Finance",
+                "employer": "Westminster Schools Inc.",
+                "zipCode": "30327"
+            },
             {
                 "firstName": "Yvonne H",
                 "lastName": "Coleman",
@@ -19462,6 +19480,14 @@
                 "zipCode": "60615"
             },
             {
+                "firstName": "Antoinette",
+                "lastName": "Boyd",
+                "occupation": "VP of Operations & Finance",
+                "employer": "Westminster Schools Inc.",
+                "aggregateAmount": 2000.0,
+                "zipCode": "30327"
+            },
+            {
                 "firstName": "Anne L.",
                 "lastName": "Fredd",
                 "occupation": "",
@@ -19476,14 +19502,6 @@
                 "employer": "",
                 "aggregateAmount": 650.0,
                 "zipCode": "60649"
-            },
-            {
-                "firstName": "Nathaniel",
-                "lastName": "Coleman",
-                "occupation": "Treasurer",
-                "employer": "Retired",
-                "aggregateAmount": 530.0,
-                "zipCode": "60422"
             }
         ]
     },
@@ -30909,8 +30927,17 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 57334.96000000001,
+        "totalContributions": 58334.96000000001,
         "contributions": [
+            {
+                "firstName": "Stafford",
+                "lastName": "Henry",
+                "date": "2024-05-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Physician",
+                "employer": "self",
+                "zipCode": "60614"
+            },
             {
                 "firstName": "George",
                 "lastName": "Boyle",
@@ -31569,8 +31596,17 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 45836.0,
+        "totalContributions": 50836.0,
         "contributions": [
+            {
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "date": "2024-06-01 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard",
+                "zipCode": "60085"
+            },
             {
                 "firstName": "Robert",
                 "lastName": "Cooney",
@@ -31822,12 +31858,12 @@
                 "zipCode": "60611"
             },
             {
-                "firstName": "Kathryn",
-                "lastName": "Costello",
-                "occupation": "Records keeper",
-                "employer": "Costello, McMahon, Gilbreth & Murphy",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60004"
+                "firstName": "Patrick",
+                "lastName": "Salvi",
+                "occupation": "Attorney",
+                "employer": "Salvi, Schostok & Pritchard",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60085"
             }
         ]
     },
@@ -34869,9 +34905,9 @@
                 "lastName": "Goens",
                 "date": "2024-03-11 00:00:00",
                 "amount": 1500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "occupation": "President Telecommunications Company",
+                "employer": "FSH Communications",
+                "zipCode": "60422"
             },
             {
                 "firstName": "Allen",
@@ -34889,7 +34925,7 @@
                 "amount": 300.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60422"
             },
             {
                 "firstName": "Emeka",
@@ -34898,7 +34934,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60615"
             },
             {
                 "firstName": "Michael",
@@ -34907,7 +34943,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60443"
             },
             {
                 "firstName": "Debbie",
@@ -34916,7 +34952,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60461"
             },
             {
                 "firstName": "Gregory T",
@@ -34932,9 +34968,9 @@
                 "lastName": "Durkin",
                 "date": "2024-02-24 00:00:00",
                 "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
+                "zipCode": "60602"
             },
             {
                 "firstName": "Leslie",
@@ -34970,16 +35006,16 @@
                 "amount": 1000.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60602"
             },
             {
                 "firstName": "Langdon",
                 "lastName": "Neal",
                 "date": "2024-02-20 00:00:00",
                 "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "occupation": "Attorney",
+                "employer": "Neal and Leroy LLC",
+                "zipCode": "60603"
             },
             {
                 "firstName": "Ellen E",
@@ -34988,7 +35024,7 @@
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60604"
             },
             {
                 "firstName": "Kevin R",
@@ -34997,16 +35033,16 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60423"
             },
             {
                 "firstName": "Carl",
-                "lastName": "Walker",
+                "lastName": "Citizens For Justice c/o Carl Anthony Walker",
                 "date": "2024-02-15 00:00:00",
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60680"
             },
             {
                 "firstName": "Patricia",
@@ -35015,7 +35051,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60616"
             },
             {
                 "firstName": "James",
@@ -35024,7 +35060,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60605"
             },
             {
                 "firstName": "Kevin",
@@ -35033,7 +35069,7 @@
                 "amount": 100.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60649"
             },
             {
                 "firstName": "Kenya",
@@ -35042,7 +35078,7 @@
                 "amount": 150.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60616"
             },
             {
                 "firstName": "Robert",
@@ -35051,7 +35087,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60653"
             },
             {
                 "firstName": "Freddrenna M",
@@ -35069,7 +35105,7 @@
                 "amount": 150.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60616"
             },
             {
                 "firstName": "Kevin",
@@ -35078,16 +35114,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
-            },
-            {
-                "firstName": "Debbie",
-                "lastName": "Meyers-Martin",
-                "date": "2024-02-14 00:00:00",
-                "amount": 150.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "zipCode": "60649"
             },
             {
                 "firstName": "Darrell",
@@ -35096,16 +35123,25 @@
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "23834"
+            },
+            {
+                "firstName": "Debbie",
+                "lastName": "Meyers-Martin",
+                "date": "2024-02-14 00:00:00",
+                "amount": 150.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60461"
             },
             {
                 "firstName": "Tim",
                 "lastName": "Tomasik",
                 "date": "2024-02-13 00:00:00",
                 "amount": 1500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "occupation": "Self Employed Business",
+                "employer": "Self Employed",
+                "zipCode": "60558"
             },
             {
                 "firstName": "Ray",
@@ -35114,16 +35150,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
-            },
-            {
-                "firstName": "Rena Marie",
-                "lastName": "Van Tine",
-                "date": "2024-02-12 00:00:00",
-                "amount": 100.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
+                "zipCode": "60618"
             },
             {
                 "firstName": "Sunil",
@@ -35135,13 +35162,22 @@
                 "zipCode": ""
             },
             {
+                "firstName": "Rena Marie",
+                "lastName": "Van Tine",
+                "date": "2024-02-12 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
                 "firstName": "Bonita",
                 "lastName": "Coleman",
                 "date": "2024-02-09 00:00:00",
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60602"
             },
             {
                 "firstName": "Rena Marie",
@@ -35153,22 +35189,22 @@
                 "zipCode": ""
             },
             {
-                "firstName": "William",
-                "lastName": "Browne",
-                "date": "2024-02-07 00:00:00",
-                "amount": 836.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
-            },
-            {
                 "firstName": "Emmett D",
                 "lastName": "Carson",
                 "date": "2024-02-07 00:00:00",
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "30328"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Browne",
+                "date": "2024-02-07 00:00:00",
+                "amount": 836.0,
+                "occupation": "Consulting, Business",
+                "employer": "Self Employed",
+                "zipCode": "60429"
             },
             {
                 "firstName": "Robert",
@@ -35180,22 +35216,13 @@
                 "zipCode": "60130"
             },
             {
-                "firstName": "William",
-                "lastName": "Davis",
-                "date": "2024-02-05 00:00:00",
-                "amount": 1000.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60430"
-            },
-            {
                 "firstName": "Aurora",
                 "lastName": "Austriaco",
                 "date": "2024-02-05 00:00:00",
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60068"
             },
             {
                 "firstName": "Rebekah",
@@ -35204,7 +35231,16 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60045"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Davis",
+                "date": "2024-02-05 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60430"
             },
             {
                 "firstName": "Levander",
@@ -35231,7 +35267,7 @@
                 "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60652"
             },
             {
                 "firstName": "Anthony",
@@ -35240,7 +35276,7 @@
                 "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60422"
             },
             {
                 "firstName": "Virginia",
@@ -35300,18 +35336,18 @@
             {
                 "firstName": "Tim",
                 "lastName": "Tomasik",
-                "occupation": "",
-                "employer": "",
+                "occupation": "Self Employed Business",
+                "employer": "Self Employed",
                 "aggregateAmount": 1500.0,
-                "zipCode": ""
+                "zipCode": "60558"
             },
             {
                 "firstName": "Donald",
                 "lastName": "Goens",
-                "occupation": "",
-                "employer": "",
+                "occupation": "President Telecommunications Company",
+                "employer": "FSH Communications",
                 "aggregateAmount": 1500.0,
-                "zipCode": ""
+                "zipCode": "60422"
             },
             {
                 "firstName": "",
@@ -35324,10 +35360,10 @@
             {
                 "firstName": "Kevin",
                 "lastName": "Durkin",
-                "occupation": "",
-                "employer": "",
+                "occupation": "Attorney",
+                "employer": "Clifford Law Offices",
                 "aggregateAmount": 1000.0,
-                "zipCode": ""
+                "zipCode": "60602"
             }
         ]
     },
