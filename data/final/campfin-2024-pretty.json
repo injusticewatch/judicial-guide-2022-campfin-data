@@ -30927,8 +30927,17 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 58334.96000000001,
+        "totalContributions": 59334.96000000001,
         "contributions": [
+            {
+                "firstName": "Terrence",
+                "lastName": "Lefevour",
+                "date": "2024-06-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Lefevour Law",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Stafford",
                 "lastName": "Henry",
@@ -31589,15 +31598,24 @@
                 "lastName": "Lefevour",
                 "occupation": "Lawyer",
                 "employer": "Lefevour Law",
-                "aggregateAmount": 1000.0,
+                "aggregateAmount": 2000.0,
                 "zipCode": "60611"
             }
         ]
     },
     {
         "committee": "31878",
-        "totalContributions": 50836.0,
+        "totalContributions": 53336.0,
         "contributions": [
+            {
+                "firstName": "Dimitra",
+                "lastName": "Anderson",
+                "date": "2024-06-06 00:00:00",
+                "amount": 2500.0,
+                "occupation": "attorney",
+                "employer": "Anderson Law Offices PC",
+                "zipCode": "60659"
+            },
             {
                 "firstName": "Patrick",
                 "lastName": "Salvi",
