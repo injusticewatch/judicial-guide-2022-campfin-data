@@ -30927,8 +30927,26 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 59334.96000000001,
+        "totalContributions": 61834.96000000001,
         "contributions": [
+            {
+                "firstName": "Timothy",
+                "lastName": "Tomasik",
+                "date": "2024-06-13 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Lawyer",
+                "employer": "self",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Donna",
+                "lastName": "Rotunno",
+                "date": "2024-06-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "self",
+                "zipCode": "60611"
+            },
             {
                 "firstName": "Terrence",
                 "lastName": "Lefevour",
