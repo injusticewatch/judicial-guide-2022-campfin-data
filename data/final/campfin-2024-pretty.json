@@ -31623,8 +31623,143 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 76336.0,
+        "totalContributions": 102836.0,
         "contributions": [
+            {
+                "firstName": "Edward",
+                "lastName": "McNabola",
+                "date": "2024-06-20 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "McNabola & Associates, LLC",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Siracusa",
+                "date": "2024-06-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers LLP",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Rebecca",
+                "lastName": "Sabri",
+                "date": "2024-06-20 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Pharmacist",
+                "employer": "Lutheran General Hospital",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "",
+                "lastName": "Swanson, Martin & Bell, LLP",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "",
+                "lastName": "Quintana Law Group, LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60181"
+            },
+            {
+                "firstName": "",
+                "lastName": "Winters Salzetta O'Brien & Richardson LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Terrence",
+                "lastName": "Quinn",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Lawyer",
+                "employer": "Phillips Law Offices",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "",
+                "lastName": "GWC Admin LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Morici, Longo & Associates",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60661"
+            },
+            {
+                "firstName": "",
+                "lastName": "Morrissey Legal Group LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cavanagh Law Group",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "",
+                "lastName": "Phillips Law Offices",
+                "date": "2024-06-18 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Stephen J.",
+                "lastName": "Phillips",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Phillips Law Offices",
+                "zipCode": "60045"
+            },
+            {
+                "firstName": "Miguel",
+                "lastName": "Ruiz",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power PC",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Prindable",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Cogan & Power PC",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "",
                 "lastName": "Power Rogers, LLP",
