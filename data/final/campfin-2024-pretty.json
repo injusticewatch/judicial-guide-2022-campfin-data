@@ -30927,8 +30927,17 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 61834.96000000001,
+        "totalContributions": 62834.96000000001,
         "contributions": [
+            {
+                "firstName": "Karen",
+                "lastName": "Tabbert",
+                "date": "2024-06-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "PPC Manager",
+                "employer": "Amazing Ads",
+                "zipCode": "60056"
+            },
             {
                 "firstName": "Timothy",
                 "lastName": "Tomasik",
@@ -40214,8 +40223,17 @@
     },
     {
         "committee": "39299",
-        "totalContributions": 63727.64,
+        "totalContributions": 66099.67,
         "contributions": [
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2372.03,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
             {
                 "firstName": "Sunil",
                 "lastName": "Bhave",
@@ -40763,7 +40781,7 @@
                 "lastName": "Hock",
                 "occupation": "Lawyer",
                 "employer": "Cook County State's Attorney's Office",
-                "aggregateAmount": 46378.72,
+                "aggregateAmount": 48750.75,
                 "zipCode": "60016"
             },
             {
