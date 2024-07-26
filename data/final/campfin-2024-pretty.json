@@ -1,25 +1,16 @@
 [
     {
         "committee": "39423",
-        "totalContributions": 1795225.24,
+        "totalContributions": 1792725.24,
         "contributions": [
             {
                 "firstName": "",
-                "lastName": "Peck Ritchey, LLC",
-                "date": "2024-05-13 00:00:00",
+                "lastName": "McNabola Law Group PC",
+                "date": "2024-07-18 00:00:00",
                 "amount": 2500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60604-3922"
-            },
-            {
-                "firstName": "",
-                "lastName": "Peck Ritchey, LLC",
-                "date": "2024-05-13 00:00:00",
-                "amount": 2500.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60604-3922"
+                "zipCode": "60601"
             },
             {
                 "firstName": "Michael",
@@ -19171,7 +19162,7 @@
     },
     {
         "committee": "39459",
-        "totalContributions": 50180.0,
+        "totalContributions": 50680.0,
         "contributions": [
             {
                 "firstName": "Antoinette",
@@ -19181,6 +19172,15 @@
                 "occupation": "VP of Operations & Finance",
                 "employer": "Westminster Schools Inc.",
                 "zipCode": "30327"
+            },
+            {
+                "firstName": "Arlene",
+                "lastName": "Coleman Romeo",
+                "date": "2024-05-06 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60649"
             },
             {
                 "firstName": "Yvonne H",
@@ -19468,7 +19468,7 @@
                 "lastName": "Coleman Romeo",
                 "occupation": "Judge",
                 "employer": "Circuit Court of Cook County",
-                "aggregateAmount": 40600.0,
+                "aggregateAmount": 41100.0,
                 "zipCode": "60649"
             },
             {
@@ -28323,8 +28323,53 @@
     },
     {
         "committee": "36987",
-        "totalContributions": 61021.02,
+        "totalContributions": 61505.579999999994,
         "contributions": [
+            {
+                "firstName": "Liam",
+                "lastName": "Kelly",
+                "date": "2024-06-30 00:00:00",
+                "amount": 89.61,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "Liam",
+                "lastName": "Kelly",
+                "date": "2024-06-01 00:00:00",
+                "amount": 37.92,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "Liam",
+                "lastName": "Kelly",
+                "date": "2024-05-30 00:00:00",
+                "amount": 68.95,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "Liam",
+                "lastName": "Kelly",
+                "date": "2024-05-01 00:00:00",
+                "amount": 88.08,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60630"
+            },
+            {
+                "firstName": "Molly",
+                "lastName": "Armour",
+                "date": "2024-04-17 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
             {
                 "firstName": "",
                 "lastName": "KNI Communications",
@@ -28538,7 +28583,7 @@
                 "lastName": "Kelly",
                 "occupation": "Attorney",
                 "employer": "Law Offices of Robert Louis Rascia, Ltd",
-                "aggregateAmount": 1072.04,
+                "aggregateAmount": 1356.6,
                 "zipCode": "60630"
             },
             {
@@ -30465,8 +30510,17 @@
     },
     {
         "committee": "39437",
-        "totalContributions": 161048.3,
+        "totalContributions": 177248.3,
         "contributions": [
+            {
+                "firstName": "Ronald",
+                "lastName": "Goldberg",
+                "date": "2024-07-23 00:00:00",
+                "amount": 10000.0,
+                "occupation": "Administrator",
+                "employer": "Wireless Distributor Networks LLC",
+                "zipCode": "60047"
+            },
             {
                 "firstName": "",
                 "lastName": "Starlife Wellness Clinic LLC",
@@ -30493,6 +30547,168 @@
                 "occupation": "Personnel",
                 "employer": "Wireless Distributor Networks LLC",
                 "zipCode": "60047"
+            },
+            {
+                "firstName": "Gayle",
+                "lastName": "Pervos",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Ronald",
+                "lastName": "Goldberg",
+                "date": "2024-06-28 00:00:00",
+                "amount": 400.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60047"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cohen Donahue & Walsh PC",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60074"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Devine",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60527"
+            },
+            {
+                "firstName": "",
+                "lastName": "Clifford Law Offices PC",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Steve",
+                "lastName": "Fingerman",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Craig",
+                "lastName": "Mandell",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60035"
+            },
+            {
+                "firstName": "Jeffrey",
+                "lastName": "Braiman",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60089"
+            },
+            {
+                "firstName": "Kyriakoula",
+                "lastName": "Fournier",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60523"
+            },
+            {
+                "firstName": "Scott",
+                "lastName": "Tzinberg",
+                "date": "2024-06-28 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "",
+                "lastName": "Caroline Glennon-Goodman for Judge",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60634"
+            },
+            {
+                "firstName": "Gloria",
+                "lastName": "Chevere",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60033"
+            },
+            {
+                "firstName": "Grace",
+                "lastName": "Dickler",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Dimitra",
+                "lastName": "Anderson",
+                "date": "2024-06-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60659"
+            },
+            {
+                "firstName": "David",
+                "lastName": "Petrich",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Bae",
+                "date": "2024-06-28 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Bae",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
+            },
+            {
+                "firstName": "",
+                "lastName": "Citizens for Judge Debjani Desai",
+                "date": "2024-06-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60608"
             },
             {
                 "firstName": "Kerry",
@@ -30981,6 +31197,14 @@
                 "zipCode": "60047"
             },
             {
+                "firstName": "Ronald",
+                "lastName": "Goldberg",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 10400.0,
+                "zipCode": "60047"
+            },
+            {
                 "firstName": "Doron",
                 "lastName": "Feinsilber",
                 "occupation": "Oncologist",
@@ -30995,21 +31219,31 @@
                 "employer": "Retired",
                 "aggregateAmount": 2445.0,
                 "zipCode": "60062"
-            },
-            {
-                "firstName": "Jessie",
-                "lastName": "Thomas",
-                "occupation": "CEO",
-                "employer": "Mintex Inc",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60540"
             }
         ]
     },
     {
         "committee": "39531",
-        "totalContributions": 62834.96000000001,
+        "totalContributions": 73598.77000000002,
         "contributions": [
+            {
+                "firstName": "Pat",
+                "lastName": "Cibula",
+                "date": "2024-07-13 00:00:00",
+                "amount": 1000.0,
+                "occupation": "restaurant",
+                "employer": "self",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "",
+                "lastName": "Binny's",
+                "date": "2024-06-28 00:00:00",
+                "amount": 243.08,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
             {
                 "firstName": "Karen",
                 "lastName": "Tabbert",
@@ -31020,13 +31254,112 @@
                 "zipCode": "60056"
             },
             {
-                "firstName": "Timothy",
-                "lastName": "Tomasik",
-                "date": "2024-06-13 00:00:00",
-                "amount": 1500.0,
-                "occupation": "Lawyer",
-                "employer": "self",
-                "zipCode": "60558"
+                "firstName": "",
+                "lastName": "Binny's",
+                "date": "2024-06-24 00:00:00",
+                "amount": 120.49,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Dan",
+                "lastName": "Groth",
+                "date": "2024-06-19 00:00:00",
+                "amount": 350.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60439"
+            },
+            {
+                "firstName": "Daniel and Kimberly",
+                "lastName": "Lynch",
+                "date": "2024-06-19 00:00:00",
+                "amount": 300.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Dave",
+                "lastName": "O'Connor",
+                "date": "2024-06-19 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60467"
+            },
+            {
+                "firstName": "Daniel",
+                "lastName": "Tiernan",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Alyssa",
+                "lastName": "Mogul",
+                "date": "2024-06-16 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60607"
+            },
+            {
+                "firstName": "Nancy",
+                "lastName": "Cibula",
+                "date": "2024-06-16 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "",
+                "lastName": "O'Connor Family Law",
+                "date": "2024-06-15 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Steven",
+                "lastName": "Weinberg",
+                "date": "2024-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Monaco",
+                "date": "2024-06-15 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "",
+                "lastName": "Cheronis & Parente LLC",
+                "date": "2024-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Lori",
+                "lastName": "Anderson",
+                "date": "2024-06-15 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60074"
             },
             {
                 "firstName": "Donna",
@@ -31038,6 +31371,78 @@
                 "zipCode": "60611"
             },
             {
+                "firstName": "Jonathon",
+                "lastName": "King",
+                "date": "2024-06-13 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60045"
+            },
+            {
+                "firstName": "Caroline",
+                "lastName": "Pannico",
+                "date": "2024-06-13 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Ghanim",
+                "lastName": "Kassir",
+                "date": "2024-06-13 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60521"
+            },
+            {
+                "firstName": "Timothy",
+                "lastName": "Tomasik",
+                "date": "2024-06-13 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Lawyer",
+                "employer": "self",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Todd",
+                "lastName": "Pugh",
+                "date": "2024-06-12 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "Patricia",
+                "lastName": "Bobb",
+                "date": "2024-06-12 00:00:00",
+                "amount": 350.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
+            },
+            {
+                "firstName": "Karen",
+                "lastName": "Tabbert",
+                "date": "2024-06-11 00:00:00",
+                "amount": 300.0,
+                "occupation": "PPC Manager",
+                "employer": "Amazing Ads",
+                "zipCode": "60056"
+            },
+            {
+                "firstName": "Romito",
+                "lastName": "Ashley",
+                "date": "2024-06-08 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60126"
+            },
+            {
                 "firstName": "Terrence",
                 "lastName": "Lefevour",
                 "date": "2024-06-07 00:00:00",
@@ -31047,6 +31452,60 @@
                 "zipCode": "60611"
             },
             {
+                "firstName": "David S.",
+                "lastName": "Lipschultz",
+                "date": "2024-06-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Giralamo",
+                "date": "2024-06-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60565"
+            },
+            {
+                "firstName": "Victor",
+                "lastName": "Henderson",
+                "date": "2024-06-07 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Kathleen",
+                "lastName": "Kearney",
+                "date": "2024-06-03 00:00:00",
+                "amount": 400.24,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
+            },
+            {
+                "firstName": "Daniel and Kimberly",
+                "lastName": "Lynch",
+                "date": "2024-05-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Daniel and Kimberly",
+                "lastName": "Lynch",
+                "date": "2024-05-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60646"
+            },
+            {
                 "firstName": "Stafford",
                 "lastName": "Henry",
                 "date": "2024-05-25 00:00:00",
@@ -31054,6 +31513,51 @@
                 "occupation": "Physician",
                 "employer": "self",
                 "zipCode": "60614"
+            },
+            {
+                "firstName": "Victor",
+                "lastName": "Henderson",
+                "date": "2024-05-24 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Judge",
+                "lastName": "McRay",
+                "date": "2024-05-23 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60521"
+            },
+            {
+                "firstName": "Greg",
+                "lastName": "Smith",
+                "date": "2024-05-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60048"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Needham",
+                "date": "2024-05-20 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60604"
+            },
+            {
+                "firstName": "Hon Lon Williams",
+                "lastName": "Schultz",
+                "date": "2024-05-03 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60513"
             },
             {
                 "firstName": "George",
@@ -31713,8 +32217,26 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 122986.0,
+        "totalContributions": 142646.0,
         "contributions": [
+            {
+                "firstName": "Tom",
+                "lastName": "Morrissey",
+                "date": "2024-06-29 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60546"
+            },
+            {
+                "firstName": "Jack",
+                "lastName": "Dassow",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
             {
                 "firstName": "Cody",
                 "lastName": "Libman",
@@ -31743,6 +32265,15 @@
                 "zipCode": "60603"
             },
             {
+                "firstName": "Peter",
+                "lastName": "Higgins",
+                "date": "2024-06-27 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60091"
+            },
+            {
                 "firstName": "Joseph",
                 "lastName": "Balesteri",
                 "date": "2024-06-27 00:00:00",
@@ -31752,6 +32283,15 @@
                 "zipCode": "60305"
             },
             {
+                "firstName": "Richard",
+                "lastName": "Burke",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60558"
+            },
+            {
                 "firstName": "Todd",
                 "lastName": "Smith",
                 "date": "2024-06-27 00:00:00",
@@ -31759,6 +32299,15 @@
                 "occupation": "Attorney",
                 "employer": "SMITH LACIEN LLP",
                 "zipCode": "60602"
+            },
+            {
+                "firstName": "Peter",
+                "lastName": "Wachowski",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60068"
             },
             {
                 "firstName": "Perry",
@@ -31777,6 +32326,24 @@
                 "occupation": "Attorney",
                 "employer": "Hurley McKenna Mertz",
                 "zipCode": "60304"
+            },
+            {
+                "firstName": "Harry",
+                "lastName": "Fournier",
+                "date": "2024-06-27 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60523"
+            },
+            {
+                "firstName": "Matt",
+                "lastName": "Johnson",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60026"
             },
             {
                 "firstName": "Michael",
@@ -31806,6 +32373,15 @@
                 "zipCode": "60148"
             },
             {
+                "firstName": "Mark",
+                "lastName": "Karno",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Tom",
                 "lastName": "Power",
                 "date": "2024-06-27 00:00:00",
@@ -31813,6 +32389,105 @@
                 "occupation": "Attorney",
                 "employer": "Power Rogers, LLP",
                 "zipCode": "60611"
+            },
+            {
+                "firstName": "Sarah",
+                "lastName": "Johnson",
+                "date": "2024-06-27 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60525"
+            },
+            {
+                "firstName": "Clint",
+                "lastName": "Pierce",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Lang",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60618"
+            },
+            {
+                "firstName": "Christopher",
+                "lastName": "Cortese",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": "Tim",
+                "lastName": "Tomasik",
+                "date": "2024-06-27 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Shawn",
+                "lastName": "Kasserman",
+                "date": "2024-06-27 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Trial Lawyer",
+                "employer": "Tomasik Kotin Kasserman, LLC",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "Craig",
+                "lastName": "Squillace",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "Courtney",
+                "lastName": "Lindbert",
+                "date": "2024-06-27 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
+            },
+            {
+                "firstName": "Bradley",
+                "lastName": "Barker",
+                "date": "2024-06-27 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60642-6560"
+            },
+            {
+                "firstName": "Jerry",
+                "lastName": "Latherow",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Urtis",
+                "date": "2024-06-27 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
             },
             {
                 "firstName": "",
@@ -31824,13 +32499,22 @@
                 "zipCode": "60602"
             },
             {
-                "firstName": "Shawn",
-                "lastName": "Kasserman",
-                "date": "2024-06-27 00:00:00",
-                "amount": 1000.0,
-                "occupation": "Trial Lawyer",
-                "employer": "Tomasik Kotin Kasserman, LLC",
-                "zipCode": "60654"
+                "firstName": "",
+                "lastName": "Cozen O'Connor Law Firm",
+                "date": "2024-06-25 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "19103"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Carini",
+                "date": "2024-06-20 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60003"
             },
             {
                 "firstName": "Edward",
@@ -31851,6 +32535,15 @@
                 "zipCode": "60602"
             },
             {
+                "firstName": "James",
+                "lastName": "Power",
+                "date": "2024-06-20 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Rebecca",
                 "lastName": "Sabri",
                 "date": "2024-06-20 00:00:00",
@@ -31860,22 +32553,40 @@
                 "zipCode": "60062"
             },
             {
-                "firstName": "",
-                "lastName": "Swanson, Martin & Bell, LLP",
-                "date": "2024-06-18 00:00:00",
-                "amount": 1000.0,
+                "firstName": "Edward",
+                "lastName": "Ruff III",
+                "date": "2024-06-20 00:00:00",
+                "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60611"
+                "zipCode": "60606"
             },
             {
                 "firstName": "",
-                "lastName": "Quintana Law Group, LLC",
+                "lastName": "Law Office of Samuel S. Bae",
                 "date": "2024-06-18 00:00:00",
-                "amount": 1000.0,
+                "amount": 500.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60181"
+                "zipCode": "60018"
+            },
+            {
+                "firstName": "",
+                "lastName": "The Law Offices of Eric H. Check",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Elizabeth",
+                "lastName": "Budzinski",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60610"
             },
             {
                 "firstName": "",
@@ -31885,6 +32596,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60602"
+            },
+            {
+                "firstName": "",
+                "lastName": "Brian C. Thomas PC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
             },
             {
                 "firstName": "Terrence",
@@ -31912,6 +32632,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60661"
+            },
+            {
+                "firstName": "",
+                "lastName": "Swanson, Martin & Bell, LLP",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60611"
             },
             {
                 "firstName": "",
@@ -31950,6 +32679,24 @@
                 "zipCode": "60045"
             },
             {
+                "firstName": "Steven",
+                "lastName": "Jambois",
+                "date": "2024-06-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Walsh, Jr.",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Miguel",
                 "lastName": "Ruiz",
                 "date": "2024-06-18 00:00:00",
@@ -31957,6 +32704,24 @@
                 "occupation": "Attorney",
                 "employer": "Cogan & Power PC",
                 "zipCode": "60614"
+            },
+            {
+                "firstName": "Michael",
+                "lastName": "Barrett",
+                "date": "2024-06-18 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60462"
+            },
+            {
+                "firstName": "George",
+                "lastName": "Brugess",
+                "date": "2024-06-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
             },
             {
                 "firstName": "Thomas",
@@ -31969,12 +32734,102 @@
             },
             {
                 "firstName": "",
-                "lastName": "Power Rogers, LLP",
-                "date": "2024-06-17 00:00:00",
-                "amount": 5000.0,
+                "lastName": "Elect Judge Jeff Chrones",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60602-4212"
+                "zipCode": "60026"
+            },
+            {
+                "firstName": "Terrence",
+                "lastName": "Sheahan",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60203"
+            },
+            {
+                "firstName": "Kent",
+                "lastName": "Delgado",
+                "date": "2024-06-18 00:00:00",
+                "amount": 160.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602"
+            },
+            {
+                "firstName": "Robert",
+                "lastName": "Larsen",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60189"
+            },
+            {
+                "firstName": "Amee",
+                "lastName": "Alonso",
+                "date": "2024-06-18 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Anna",
+                "lastName": "Demacopoulos",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60464"
+            },
+            {
+                "firstName": "George",
+                "lastName": "Canellis",
+                "date": "2024-06-18 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60462"
+            },
+            {
+                "firstName": "Lynn",
+                "lastName": "Weaver Boyle",
+                "date": "2024-06-18 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "",
+                "lastName": "Quintana Law Group, LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60181"
+            },
+            {
+                "firstName": "",
+                "lastName": "Gallagher Law Offices, LLC",
+                "date": "2024-06-18 00:00:00",
+                "amount": 800.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Frank J.",
+                "lastName": "Andreou",
+                "date": "2024-06-18 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
             },
             {
                 "firstName": "",
@@ -31986,6 +32841,51 @@
                 "zipCode": "60606-4646"
             },
             {
+                "firstName": "",
+                "lastName": "Power Rogers, LLP",
+                "date": "2024-06-17 00:00:00",
+                "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60602-4212"
+            },
+            {
+                "firstName": "Richard M.",
+                "lastName": "Waris",
+                "date": "2024-06-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60035"
+            },
+            {
+                "firstName": "Matthew",
+                "lastName": "Egan",
+                "date": "2024-06-17 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60558"
+            },
+            {
+                "firstName": "James",
+                "lastName": "Sipchen",
+                "date": "2024-06-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60515"
+            },
+            {
+                "firstName": "Matthew",
+                "lastName": "Tibble",
+                "date": "2024-06-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60190-1025"
+            },
+            {
                 "firstName": "Allen H.",
                 "lastName": "Schwartz",
                 "date": "2024-06-16 00:00:00",
@@ -31995,13 +32895,13 @@
                 "zipCode": "60601"
             },
             {
-                "firstName": "Devon",
-                "lastName": "Bruce",
+                "firstName": "Robert E.",
+                "lastName": "Sidkey",
                 "date": "2024-06-13 00:00:00",
-                "amount": 2500.0,
-                "occupation": "Attorney",
-                "employer": "Power Rogers",
-                "zipCode": "60602"
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60625"
             },
             {
                 "firstName": "Bradley",
@@ -32013,6 +32913,15 @@
                 "zipCode": "60423"
             },
             {
+                "firstName": "Devon",
+                "lastName": "Bruce",
+                "date": "2024-06-13 00:00:00",
+                "amount": 2500.0,
+                "occupation": "Attorney",
+                "employer": "Power Rogers",
+                "zipCode": "60602"
+            },
+            {
                 "firstName": "Michael",
                 "lastName": "Keating",
                 "date": "2024-06-13 00:00:00",
@@ -32022,10 +32931,64 @@
                 "zipCode": "60602"
             },
             {
+                "firstName": "James",
+                "lastName": "Pullos",
+                "date": "2024-06-13 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Mary",
+                "lastName": "Sevandal Cohen",
+                "date": "2024-06-13 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Houlihan",
+                "date": "2024-06-13 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Spyridon",
+                "lastName": "Demakis",
+                "date": "2024-06-13 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60521"
+            },
+            {
                 "firstName": "",
                 "lastName": "Cogan & Power, P.C.",
                 "date": "2024-06-09 00:00:00",
                 "amount": 5000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Neil H.",
+                "lastName": "Cohen",
+                "date": "2024-06-09 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60614"
+            },
+            {
+                "firstName": "",
+                "lastName": "SGK Lawyers, LLC",
+                "date": "2024-06-07 00:00:00",
+                "amount": 250.0,
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60601"
@@ -32040,13 +33003,76 @@
                 "zipCode": "60659"
             },
             {
-                "firstName": "Patrick",
-                "lastName": "Salvi",
+                "firstName": "Lorraine",
+                "lastName": "Murphy",
+                "date": "2024-06-06 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Richard",
+                "lastName": "Murphy",
+                "date": "2024-06-06 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60515"
+            },
+            {
+                "firstName": "Steve",
+                "lastName": "Richards",
+                "date": "2024-06-06 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60062"
+            },
+            {
+                "firstName": "Louis",
+                "lastName": "Palivos, JD, Ph.D",
+                "date": "2024-06-05 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60625"
+            },
+            {
+                "firstName": "",
+                "lastName": "Napleton & Partners",
+                "date": "2024-06-01 00:00:00",
+                "amount": 750.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60603"
+            },
+            {
+                "firstName": ".",
+                "lastName": "Salvi, Schostok & Pritchard",
                 "date": "2024-06-01 00:00:00",
                 "amount": 5000.0,
-                "occupation": "Attorney",
-                "employer": "Salvi, Schostok & Pritchard",
+                "occupation": "",
+                "employer": "",
                 "zipCode": "60085"
+            },
+            {
+                "firstName": "Sean",
+                "lastName": "Murray",
+                "date": "2024-05-23 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60606"
+            },
+            {
+                "firstName": "Charles",
+                "lastName": "Haskins",
+                "date": "2024-05-16 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60661"
             },
             {
                 "firstName": "Robert",
@@ -32056,6 +33082,15 @@
                 "occupation": "Attorney",
                 "employer": "Cooney and Conway",
                 "zipCode": "60602"
+            },
+            {
+                "firstName": "Bruno",
+                "lastName": "Marasso",
+                "date": "2024-05-16 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
             },
             {
                 "firstName": "Richard",
@@ -32099,7 +33134,7 @@
                 "date": "2024-05-16 00:00:00",
                 "amount": 1000.0,
                 "occupation": "Attorney",
-                "employer": "Self",
+                "employer": "Grauer & Kriegel, LLC",
                 "zipCode": "60614"
             },
             {
@@ -32271,7 +33306,7 @@
                 "lastName": "Andreou",
                 "occupation": "Associate Judge",
                 "employer": "State of Illinois",
-                "aggregateAmount": 16636.0,
+                "aggregateAmount": 16936.0,
                 "zipCode": "60062"
             },
             {
@@ -32283,28 +33318,28 @@
                 "zipCode": "60304"
             },
             {
+                "firstName": "",
+                "lastName": "Phillips Law Offices",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Chris",
+                "lastName": "Hurley",
+                "occupation": "Lawyer",
+                "employer": "Hurley McKenna and Mertz",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60603"
+            },
+            {
                 "firstName": "Richard",
                 "lastName": "Pullano",
                 "occupation": "Attorney",
                 "employer": "Pullano & Siporin",
                 "aggregateAmount": 5000.0,
                 "zipCode": "60025"
-            },
-            {
-                "firstName": "Robert",
-                "lastName": "Clifford",
-                "occupation": "Attorney",
-                "employer": "Clifford Law Offices",
-                "aggregateAmount": 5000.0,
-                "zipCode": "60611"
-            },
-            {
-                "firstName": "Patrick",
-                "lastName": "Salvi",
-                "occupation": "Attorney",
-                "employer": "Salvi, Schostok & Pritchard",
-                "aggregateAmount": 5000.0,
-                "zipCode": "60085"
             }
         ]
     },
@@ -34093,14 +35128,6 @@
                 "zipCode": "60005"
             },
             {
-                "firstName": "Juan",
-                "lastName": "Morado Jr",
-                "occupation": "Attorney",
-                "employer": "Benesch",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60606"
-            },
-            {
                 "firstName": "Fidel",
                 "lastName": "Vega",
                 "occupation": "",
@@ -34115,6 +35142,14 @@
                 "employer": "BMO",
                 "aggregateAmount": 1000.0,
                 "zipCode": "60031"
+            },
+            {
+                "firstName": "",
+                "lastName": "Purple PAC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 1000.0,
+                "zipCode": "60638"
             }
         ]
     },
@@ -34553,8 +35588,44 @@
     },
     {
         "committee": "21557",
-        "totalContributions": 190020.50999999998,
+        "totalContributions": 192420.50999999998,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Castle Law",
+                "date": "2024-04-26 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60435"
+            },
+            {
+                "firstName": "",
+                "lastName": "Sheet Metal Workers' International Union",
+                "date": "2024-04-26 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60162"
+            },
+            {
+                "firstName": "",
+                "lastName": "Suburban Development Solutions LLC",
+                "date": "2024-04-26 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60465"
+            },
+            {
+                "firstName": "Nick",
+                "lastName": "Karas",
+                "date": "2024-04-26 00:00:00",
+                "amount": 900.0,
+                "occupation": "Self-employed",
+                "employer": "Self-employed",
+                "zipCode": "60453"
+            },
             {
                 "firstName": "Terry",
                 "lastName": "Athas",
@@ -37388,8 +38459,35 @@
     },
     {
         "committee": "39467",
-        "totalContributions": 93639.76,
+        "totalContributions": 95289.76,
         "contributions": [
+            {
+                "firstName": "Steve",
+                "lastName": "Jambois",
+                "date": "2024-07-18 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Attorney",
+                "employer": "Schwartz Jambois",
+                "zipCode": "60601"
+            },
+            {
+                "firstName": "Ronald",
+                "lastName": "Hurley",
+                "date": "2024-05-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Fairman",
+                "date": "2024-04-15 00:00:00",
+                "amount": 400.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60430"
+            },
             {
                 "firstName": "",
                 "lastName": "Hyatt Regency Hotel",
@@ -40808,16 +41906,160 @@
     },
     {
         "committee": "39299",
-        "totalContributions": 66099.67,
+        "totalContributions": 71921.23,
         "contributions": [
             {
                 "firstName": "John",
                 "lastName": "Hock",
-                "date": "2024-06-18 00:00:00",
-                "amount": 2372.03,
+                "date": "2024-06-26 00:00:00",
+                "amount": 55.0,
                 "occupation": "Lawyer",
                 "employer": "Cook County State's Attorney's Office",
                 "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-06-26 00:00:00",
+                "amount": 275.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-06-23 00:00:00",
+                "amount": 12.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-06-20 00:00:00",
+                "amount": 250.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-06-18 00:00:00",
+                "amount": 2566.59,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "",
+                "lastName": "Citizens for Judge Debjani Desai",
+                "date": "2024-05-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60608"
+            },
+            {
+                "firstName": "Ian",
+                "lastName": "Barney",
+                "date": "2024-05-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "Maura",
+                "lastName": "Cora",
+                "date": "2024-05-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "Sunil",
+                "lastName": "Bhave",
+                "date": "2024-05-28 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": ""
+            },
+            {
+                "firstName": "",
+                "lastName": "Citizens for Laura Murphy",
+                "date": "2024-05-28 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Carlson",
+                "date": "2024-05-28 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60646"
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "date": "2024-05-23 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60654"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Meyer",
+                "date": "2024-05-23 00:00:00",
+                "amount": 100.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62028"
+            },
+            {
+                "firstName": "Gregg",
+                "lastName": "Smith",
+                "date": "2024-05-22 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60048"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-05-22 00:00:00",
+                "amount": 300.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "Don",
+                "lastName": "Bauer",
+                "date": "2024-05-16 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60007"
+            },
+            {
+                "firstName": "Samuel",
+                "lastName": "Bae",
+                "date": "2024-05-08 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60018"
             },
             {
                 "firstName": "Sunil",
@@ -40827,6 +42069,60 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": ""
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-04-23 00:00:00",
+                "amount": 150.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-04-23 00:00:00",
+                "amount": 250.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "Jonathan",
+                "lastName": "Minkus",
+                "date": "2024-04-21 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60077"
+            },
+            {
+                "firstName": "William",
+                "lastName": "Meyer",
+                "date": "2024-04-17 00:00:00",
+                "amount": 250.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "62028"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-04-16 00:00:00",
+                "amount": 85.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
+            },
+            {
+                "firstName": "John",
+                "lastName": "Hock",
+                "date": "2024-04-10 00:00:00",
+                "amount": 500.0,
+                "occupation": "Lawyer",
+                "employer": "Cook County State's Attorney's Office",
+                "zipCode": "60016"
             },
             {
                 "firstName": "Andrew",
@@ -41366,7 +42662,7 @@
                 "lastName": "Hock",
                 "occupation": "Lawyer",
                 "employer": "Cook County State's Attorney's Office",
-                "aggregateAmount": 48750.75,
+                "aggregateAmount": 50822.31,
                 "zipCode": "60016"
             },
             {
@@ -41374,8 +42670,16 @@
                 "lastName": "Bhave",
                 "occupation": "",
                 "employer": "",
-                "aggregateAmount": 3000.0,
+                "aggregateAmount": 3100.0,
                 "zipCode": ""
+            },
+            {
+                "firstName": "Antonio",
+                "lastName": "Romanucci",
+                "occupation": "Attorney",
+                "employer": "Romanucci & Blandin",
+                "aggregateAmount": 1500.0,
+                "zipCode": "60654"
             },
             {
                 "firstName": "Brian",
@@ -41392,21 +42696,22 @@
                 "employer": "",
                 "aggregateAmount": 1153.08,
                 "zipCode": "60016"
-            },
-            {
-                "firstName": "Antonio",
-                "lastName": "Romanucci",
-                "occupation": "Attorney",
-                "employer": "Romanucci & Blandin",
-                "aggregateAmount": 1000.0,
-                "zipCode": "60654"
             }
         ]
     },
     {
         "committee": "39537",
-        "totalContributions": 21533.15,
+        "totalContributions": 26533.15,
         "contributions": [
+            {
+                "firstName": "Lynn",
+                "lastName": "Palac",
+                "date": "2024-07-12 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Attorney",
+                "employer": "Catholic Charities",
+                "zipCode": "60005"
+            },
             {
                 "firstName": "RJ",
                 "lastName": "Gomez",
@@ -41630,7 +42935,7 @@
                 "lastName": "Palac",
                 "occupation": "Attorney",
                 "employer": "Catholic Charities",
-                "aggregateAmount": 16231.65,
+                "aggregateAmount": 21231.65,
                 "zipCode": "60005"
             },
             {
@@ -45488,8 +46793,17 @@
     },
     {
         "committee": "39559",
-        "totalContributions": 216250.0,
+        "totalContributions": 216750.0,
         "contributions": [
+            {
+                "firstName": "Ryan",
+                "lastName": "O'Malley",
+                "date": "2024-04-29 00:00:00",
+                "amount": 500.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60613"
+            },
             {
                 "firstName": "Jamie",
                 "lastName": "Allen",
@@ -45748,7 +47062,7 @@
                 "lastName": "O'Malley",
                 "occupation": "Marketing and Communications",
                 "employer": "O'Malley Marketing and Communications LLC",
-                "aggregateAmount": 5000.0,
+                "aggregateAmount": 5500.0,
                 "zipCode": "60613"
             },
             {
