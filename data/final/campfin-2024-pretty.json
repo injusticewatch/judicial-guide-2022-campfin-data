@@ -32217,8 +32217,17 @@
     },
     {
         "committee": "31878",
-        "totalContributions": 142646.0,
+        "totalContributions": 143646.0,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "Parente & Norem, PC",
+                "date": "2024-08-10 00:00:00",
+                "amount": 1000.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60601"
+            },
             {
                 "firstName": "Tom",
                 "lastName": "Morrissey",
@@ -42701,8 +42710,17 @@
     },
     {
         "committee": "39537",
-        "totalContributions": 26533.15,
+        "totalContributions": 31533.15,
         "contributions": [
+            {
+                "firstName": "Matthew",
+                "lastName": "Rittle",
+                "date": "2024-08-13 00:00:00",
+                "amount": 5000.0,
+                "occupation": "Sales Manager",
+                "employer": "GMA Garnet",
+                "zipCode": "60005"
+            },
             {
                 "firstName": "Lynn",
                 "lastName": "Palac",
@@ -42939,6 +42957,14 @@
                 "zipCode": "60005"
             },
             {
+                "firstName": "Matthew",
+                "lastName": "Rittle",
+                "occupation": "Sales Manager",
+                "employer": "GMA Garnet",
+                "aggregateAmount": 5000.0,
+                "zipCode": "60005"
+            },
+            {
                 "firstName": "",
                 "lastName": "Law Office of Wm. J. Cadigan PC",
                 "occupation": "",
@@ -42961,14 +42987,6 @@
                 "employer": "",
                 "aggregateAmount": 500.0,
                 "zipCode": "60194"
-            },
-            {
-                "firstName": "Anthony and Debra",
-                "lastName": "Iosco",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 500.0,
-                "zipCode": ""
             }
         ]
     },
