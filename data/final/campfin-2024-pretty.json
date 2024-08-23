@@ -38468,8 +38468,17 @@
     },
     {
         "committee": "39467",
-        "totalContributions": 95289.76,
+        "totalContributions": 108989.76,
         "contributions": [
+            {
+                "firstName": "",
+                "lastName": "The Vrdolyak Law Group LLC",
+                "date": "2024-08-12 00:00:00",
+                "amount": 13700.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
             {
                 "firstName": "Steve",
                 "lastName": "Jambois",
@@ -39806,6 +39815,14 @@
         "topDonors": [
             {
                 "firstName": "",
+                "lastName": "The Vrdolyak Law Group LLC",
+                "occupation": "",
+                "employer": "",
+                "aggregateAmount": 13700.0,
+                "zipCode": "60617"
+            },
+            {
+                "firstName": "",
                 "lastName": "Clifford Law Offices",
                 "occupation": "",
                 "employer": "",
@@ -39835,14 +39852,6 @@
                 "employer": "Abdallah Law",
                 "aggregateAmount": 2500.0,
                 "zipCode": "60462"
-            },
-            {
-                "firstName": "Nathaniel",
-                "lastName": "Lee",
-                "occupation": "Attorney",
-                "employer": "Lee, Cossell & Feagley LLP",
-                "aggregateAmount": 2500.0,
-                "zipCode": "46204"
             }
         ]
     },
