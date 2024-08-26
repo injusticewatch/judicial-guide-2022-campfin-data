@@ -44033,15 +44033,6 @@
         "totalContributions": 68385.75,
         "contributions": [
             {
-                "firstName": "Mary",
-                "lastName": "Howard",
-                "date": "2024-03-07 00:00:00",
-                "amount": 1000.0,
-                "occupation": "Retired",
-                "employer": "Retired",
-                "zipCode": "60628"
-            },
-            {
                 "firstName": "Joseph",
                 "lastName": "Lanier",
                 "date": "2024-03-07 00:00:00",
@@ -44105,21 +44096,21 @@
                 "zipCode": "60507"
             },
             {
+                "firstName": "Mary",
+                "lastName": "Howard",
+                "date": "2024-03-07 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "60628"
+            },
+            {
                 "firstName": "Risa",
                 "lastName": "Lanier",
                 "date": "2024-03-01 00:00:00",
                 "amount": 2000.0,
                 "occupation": "First Assistant State's Attorney",
                 "employer": "Cook County State's Attorney's Office",
-                "zipCode": "60643"
-            },
-            {
-                "firstName": "Joseph",
-                "lastName": "Lanier",
-                "date": "2024-02-29 00:00:00",
-                "amount": 1000.0,
-                "occupation": "File Clerk",
-                "employer": "Cook County",
                 "zipCode": "60643"
             },
             {
@@ -44138,7 +44129,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": ""
+                "zipCode": "60617"
             },
             {
                 "firstName": "Camille",
@@ -44175,6 +44166,15 @@
                 "occupation": "",
                 "employer": "",
                 "zipCode": "60619"
+            },
+            {
+                "firstName": "Joseph",
+                "lastName": "Lanier",
+                "date": "2024-02-29 00:00:00",
+                "amount": 1000.0,
+                "occupation": "File Clerk",
+                "employer": "Cook County",
+                "zipCode": "60643"
             },
             {
                 "firstName": "Risa",
@@ -44249,6 +44249,33 @@
                 "zipCode": "60643"
             },
             {
+                "firstName": "Tene",
+                "lastName": "McCoy Cummings",
+                "date": "2023-12-14 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60422"
+            },
+            {
+                "firstName": "Jane",
+                "lastName": "Stuart",
+                "date": "2023-12-14 00:00:00",
+                "amount": 300.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
+            {
+                "firstName": "Dion",
+                "lastName": "Redfield",
+                "date": "2023-12-14 00:00:00",
+                "amount": 200.0,
+                "occupation": "",
+                "employer": "",
+                "zipCode": "60617"
+            },
+            {
                 "firstName": "Kathleen",
                 "lastName": "Harris",
                 "date": "2023-12-14 00:00:00",
@@ -44267,33 +44294,6 @@
                 "zipCode": "60473"
             },
             {
-                "firstName": "Tene",
-                "lastName": "McCoy Cummings",
-                "date": "2023-12-14 00:00:00",
-                "amount": 200.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60422"
-            },
-            {
-                "firstName": "Jane",
-                "lastName": "Stuart",
-                "date": "2023-12-14 00:00:00",
-                "amount": 300.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": ""
-            },
-            {
-                "firstName": "Dion",
-                "lastName": "Redfield",
-                "date": "2023-12-14 00:00:00",
-                "amount": 200.0,
-                "occupation": "",
-                "employer": "",
-                "zipCode": "60617"
-            },
-            {
                 "firstName": "Charles",
                 "lastName": "Howard",
                 "date": "2023-12-14 00:00:00",
@@ -44301,6 +44301,24 @@
                 "occupation": "Retired",
                 "employer": "Retired",
                 "zipCode": "60503"
+            },
+            {
+                "firstName": "Victor",
+                "lastName": "Henderson",
+                "date": "2023-12-14 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Henderson Parks LLC",
+                "employer": "Attorney",
+                "zipCode": "60643"
+            },
+            {
+                "firstName": "Faye",
+                "lastName": "White",
+                "date": "2023-12-14 00:00:00",
+                "amount": 1500.0,
+                "occupation": "Retired",
+                "employer": "Retired",
+                "zipCode": "35206"
             },
             {
                 "firstName": "Maryam",
@@ -44357,31 +44375,22 @@
                 "zipCode": "60025"
             },
             {
-                "firstName": "Faye",
-                "lastName": "White",
-                "date": "2023-12-05 00:00:00",
-                "amount": 1500.0,
-                "occupation": "Retired",
-                "employer": "Retired",
-                "zipCode": "35206"
-            },
-            {
-                "firstName": "Victor",
-                "lastName": "Henderson",
-                "date": "2023-12-04 00:00:00",
-                "amount": 1000.0,
-                "occupation": "Henderson Parks LLC",
-                "employer": "Attorney",
-                "zipCode": "60643"
-            },
-            {
                 "firstName": "Joseph",
                 "lastName": "Lanier",
-                "date": "2023-12-03 00:00:00",
+                "date": "2023-12-07 00:00:00",
                 "amount": 1000.0,
                 "occupation": "File Clerk",
                 "employer": "Cook County",
                 "zipCode": "60643"
+            },
+            {
+                "firstName": "Gregory",
+                "lastName": "Allen",
+                "date": "2023-11-24 00:00:00",
+                "amount": 1000.0,
+                "occupation": "New Faith Apostolic Church",
+                "employer": "Pastor",
+                "zipCode": "60466"
             },
             {
                 "firstName": "Risa",
@@ -44391,15 +44400,6 @@
                 "occupation": "First Assistant State's Attorney",
                 "employer": "Cook County State's Attorney's Office",
                 "zipCode": "60643"
-            },
-            {
-                "firstName": "Gregory",
-                "lastName": "Allen",
-                "date": "2023-11-13 00:00:00",
-                "amount": 1000.0,
-                "occupation": "New Faith Apostolic Church",
-                "employer": "Pastor",
-                "zipCode": "60466"
             },
             {
                 "firstName": "Gregory",
