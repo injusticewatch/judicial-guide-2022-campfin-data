@@ -31224,8 +31224,71 @@
     },
     {
         "committee": "39531",
-        "totalContributions": 73598.77000000002,
+        "totalContributions": 85298.77000000002,
         "contributions": [
+            {
+                "firstName": "Richard",
+                "lastName": "Porter",
+                "date": "2024-08-25 00:00:00",
+                "amount": 2000.0,
+                "occupation": "Attorney",
+                "employer": "Kirkland & Ellis",
+                "zipCode": "60093"
+            },
+            {
+                "firstName": "Denise",
+                "lastName": "Mehos",
+                "date": "2024-08-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60305"
+            },
+            {
+                "firstName": "Betsy",
+                "lastName": "Hart",
+                "date": "2024-08-25 00:00:00",
+                "amount": 1700.0,
+                "occupation": "Writer and Consultant",
+                "employer": "Hart to Heart Communicationns",
+                "zipCode": "60091"
+            },
+            {
+                "firstName": "Thomas",
+                "lastName": "Partridge",
+                "date": "2024-08-25 00:00:00",
+                "amount": 1000.0,
+                "occupation": "retired",
+                "employer": "retired",
+                "zipCode": "60137"
+            },
+            {
+                "firstName": "Dean",
+                "lastName": "Prevolos",
+                "date": "2024-08-22 00:00:00",
+                "amount": 2500.0,
+                "occupation": "President",
+                "employer": "CMI",
+                "zipCode": "34119"
+            },
+            {
+                "firstName": "Douglas",
+                "lastName": "Reichl",
+                "date": "2024-08-22 00:00:00",
+                "amount": 2500.0,
+                "occupation": "owner",
+                "employer": "Tartan Realty",
+                "zipCode": "60611"
+            },
+            {
+                "firstName": "Darrell",
+                "lastName": "Butler",
+                "date": "2024-08-21 00:00:00",
+                "amount": 1000.0,
+                "occupation": "Investment Banker",
+                "employer": "Artemis Transactions Advisors",
+                "zipCode": "60654"
+            },
             {
                 "firstName": "Pat",
                 "lastName": "Cibula",
@@ -32190,6 +32253,14 @@
                 "zipCode": "60118"
             },
             {
+                "firstName": "Douglas",
+                "lastName": "Reichl",
+                "occupation": "owner",
+                "employer": "Tartan Realty",
+                "aggregateAmount": 3500.0,
+                "zipCode": "60611"
+            },
+            {
                 "firstName": "",
                 "lastName": "Law Office of William J. Cadigan, P.C.",
                 "occupation": "",
@@ -32198,20 +32269,12 @@
                 "zipCode": "60093-1866"
             },
             {
-                "firstName": "",
-                "lastName": "Law offices of John Fogarty, Jr.",
-                "occupation": "",
-                "employer": "",
-                "aggregateAmount": 2200.0,
-                "zipCode": "60613"
-            },
-            {
-                "firstName": "Terrence",
-                "lastName": "Lefevour",
-                "occupation": "Lawyer",
-                "employer": "Lefevour Law",
-                "aggregateAmount": 2000.0,
-                "zipCode": "60611"
+                "firstName": "Dean",
+                "lastName": "Prevolos",
+                "occupation": "President",
+                "employer": "CMI",
+                "aggregateAmount": 2500.0,
+                "zipCode": "34119"
             }
         ]
     },
@@ -44129,7 +44192,7 @@
                 "amount": 200.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60617"
+                "zipCode": ""
             },
             {
                 "firstName": "Camille",
@@ -44264,7 +44327,7 @@
                 "amount": 300.0,
                 "occupation": "",
                 "employer": "",
-                "zipCode": "60617"
+                "zipCode": ""
             },
             {
                 "firstName": "Dion",
