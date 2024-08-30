@@ -30510,8 +30510,17 @@
     },
     {
         "committee": "39437",
-        "totalContributions": 177248.3,
+        "totalContributions": 181548.3,
         "contributions": [
+            {
+                "firstName": "Alon",
+                "lastName": "Stein",
+                "date": "2024-08-28 00:00:00",
+                "amount": 4300.0,
+                "occupation": "Attorney",
+                "employer": "Stein Law Offices",
+                "zipCode": "60062"
+            },
             {
                 "firstName": "Ronald",
                 "lastName": "Goldberg",
@@ -31185,7 +31194,7 @@
                 "lastName": "Stein",
                 "occupation": "Attorney",
                 "employer": "Stein Law Offices",
-                "aggregateAmount": 108981.0,
+                "aggregateAmount": 113281.0,
                 "zipCode": "60062"
             },
             {
